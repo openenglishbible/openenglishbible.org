@@ -1,4 +1,4 @@
 openenglishbible.org
 ====================
 
-OpenEnglishBible.org website
+OpenEnglishBible.org website. Build using Hugo.
