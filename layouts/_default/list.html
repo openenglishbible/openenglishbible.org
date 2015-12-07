@@ -1,0 +1,33 @@
+{{ partial "header.html" . }}
+
+<div id="mainrow" class="row">
+  <div class="medium-8 columns">
+
+	   <h1 id="title">News</h1>
+	   
+	   {{ range first 1 .Data.Pages }}
+	       {{ .Render "summary" }}
+	   {{ end }}
+	   
+  </div>
+  
+  <div class="medium-4 columns">
+  
+	   <h2>Older news</h2>
+
+		{{ range(.Data.Pages.GroupByDate "Jan 2006" "asc").Reverse }}
+		<h3>{{ .Key }}</h3>
+		<ul>
+		    {{ range .Pages.ByDate.Reverse }}
+		    <li><a href="{{ .Permalink }}">{{ .Title }}</a> <small>({{ .Date.Format "2 Jan 2006" }})</small></li>
+		    {{ end }}
+		</ul>
+		{{ end }}
+		
+  </div>
+
+</div>
+
+
+
+{{ partial "footer.html" . }}
