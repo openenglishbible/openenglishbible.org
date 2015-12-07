@@ -16,7 +16,15 @@
   
   </div>
   <div class="medium-6 columns">
-  
+	  
+	<h2>News</h2>
+
+	<p>
+	   {{ range first 1 .Data.Pages }}
+	       {{ .Render "justtitle" }}
+	   {{ end }}
+	</p>
+	     
   	<h2>Get your Bible<br><small>(Release 2014.11 - NT, Psalms and other OT books)</small></h2>
   	<ul>
        <li><h2 class="subheader"><a href="/oeb/2014.11/read/">Read</a></h2>(or <a href="/oeb/2014.11/study/">study version</a>)</li>

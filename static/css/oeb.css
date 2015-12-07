@@ -55,7 +55,7 @@ a:link, a:visited {
 	text-decoration: none;
 	font-weight: normal;
 	font-size: 1.1em;
-  line-height: 92px;
+    padding-top: 50px;
 }
 
 #navcontainer a:hover {
@@ -63,4 +63,10 @@ a:link, a:visited {
 }
 
 #navcontainer a:active {
+}
+
+.blogpic img {
+	float:right;
+	margin-left:2em;
+	margin-bottom:2em;
 }
