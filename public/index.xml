@@ -24,6 +24,323 @@
     </item>
     
     <item>
+      <title>Development</title>
+      <link>http://openenglishbible.org/development/</link>
+      <pubDate>Mon, 07 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://openenglishbible.org/development/</guid>
+      <description>&lt;div id=&#34;mainrow&#34; class=&#34;row&#34;&gt;
+
+&lt;h1&gt;Development&lt;/h1&gt;
+
+&lt;h2&gt;GitHub&lt;/h2&gt;
+
+&lt;p&gt;All of the raw sources for the OEB are developed as USFM files on the &lt;a href=&#34;http://github.com/openenglishbible/Open-English-Bible&#34;&gt;git repository at GitHub&lt;/a&gt;. Unless you are familiar with USFM and Git, you may want to look at the MS Word documents linked below.
+  
+&lt;h2&gt;Forum&lt;/h2&gt;
+
+&lt;p&gt;Discussion about the development, and the OEB project in general, happens on the forum. You can access the forum either from the &lt;a href=&#34;http://forum.openenglishbible.org&#34;&gt;web archive&lt;/a&gt; or as a mailing list. Details on how to sign up are at the archive.&lt;/p&gt;
+
+&lt;h2&gt;Development Status&lt;/h2&gt;
+
+&lt;style&gt;
+.header { color: #ffffff; background-color: #8fadcc; }
+.name { font-size:1.0em; }
+.comment { color:darkgray; font-size:0.9em; }
+.absent { color:lightgray; }
+.partial { color:darkgray; }
+.unchecked { color:orange; }
+.checked { color:black; }
+.released { color:green; }
+&lt;/style&gt;
+
+&lt;p&gt;This is the development page for the Open English Bible. Each book is here, with links to Word docx files and to the original marked up USFM on Github. Books are marked as being &lt;span class=&#34;absent&#34;&gt;absent&lt;/span&gt;, &lt;span class=&#34;partial&#34;&gt;partial&lt;/span&gt;, &lt;span class=&#34;unchecked&#34;&gt;unchecked&lt;/span&gt;, &lt;span class=&#34;checked&#34;&gt;checked&lt;/span&gt;, &lt;span class=&#34;released&#34;&gt;released&lt;/span&gt;. Unless the book has been released (and is in the main build) please treat it with caution as it probably contains errors. In particular, books marked &lt;span class=&#34;partial&#34;&gt;partial&lt;/span&gt; or &lt;span class=&#34;unchecked&#34;&gt;unchecked&lt;/span&gt; could contain almost anything, including missing verses, egregious translation errors and disparaging references to penguins.&lt;/p&gt;
+
+&lt;p&gt;If you would like to help out, the steps are first to join the forum, then secondly to help check one of the books not yet in release.&lt;/p&gt;
+
+&lt;table style=&#34;border-spacing: 10px;&#34;&gt;
+    &lt;tr class=&#34;header&#34;&gt;
+        &lt;td&gt;Pentateuch&lt;/td&gt;
+        &lt;td&gt;Histories&lt;/td&gt;
+        &lt;td&gt;Wisdom&lt;/td&gt;
+        &lt;td&gt;Major Prophets&lt;/td&gt;
+        &lt;td&gt;Minor Prophets&lt;/td&gt;
+        &lt;td&gt;Gospels and Acts&lt;/td&gt;
+        &lt;td&gt;Letters and Revelation&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+          &lt;span class=&#34;checked&#34;&gt;Genesis&lt;/span&gt;&lt;br&gt;
+          &lt;span class=&#34;comment&#34;&gt;&lt;a href=&#34;http://openenglishbible.org/oeb/dev/oeb-01-genesis-2014-12-13.docx&#34;&gt;docx&lt;/a&gt; &lt;a href=&#34;https://github.com/openenglishbible/Open-English-Bible/blob/master/source/01-Genesis.usfm.db&#34;&gt;usfm&lt;/a&gt;&lt;br&gt;2014-12-13
+          &lt;/span&gt;
+        &lt;/td&gt;
+        &lt;td&gt;&lt;span class=&#34;partial&#34;&gt;Joshua&lt;/span&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&amp;nbsp;&lt;/td&gt;
+        &lt;td&gt;&lt;span class=&#34;unchecked&#34;&gt;Job&lt;/span&gt;&lt;br&gt;
+          &lt;span class=&#34;comment&#34;&gt;&lt;a href=&#34;http://openenglishbible.org/oeb/dev/oeb-01-genesis-2014-12-13.docx&#34;&gt;docx&lt;/a&gt; &lt;a href=&#34;https://github.com/openenglishbible/Open-English-Bible/blob/master/source/01-Genesis.usfm.db&#34;&gt;usfm&lt;/a&gt;&lt;br&gt;2015-05-14
+          &lt;/span&gt;
+        &lt;/td&gt;
+        &lt;td&gt;&lt;span class=&#34;unchecked&#34;&gt;Isaiah&lt;/span&gt;&lt;br&gt;
+          &lt;span class=&#34;comment&#34;&gt;&lt;a href=&#34;http://openenglishbible.org/oeb/dev/oeb-23-isaiah-2015-06-23.docx&#34;&gt;docx&lt;/a&gt; &lt;a href=&#34;https://github.com/openenglishbible/Open-English-Bible/blob/mcfadyen/source/23-Isaiah.usfm.db&#34;&gt;usfm&lt;/a&gt;&lt;br&gt;2015-06-23
+          &lt;/span&gt;
+        &lt;/td&gt;
+        &lt;td&gt;&lt;span class=&#34;absent&#34;&gt;Hosea&lt;/span&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&amp;nbsp;&lt;/td&gt;
+        &lt;td&gt;&lt;span class=&#34;released&#34;&gt;Matthew&lt;/span&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&amp;nbsp;&lt;/td&gt;
+        &lt;td&gt;&lt;span class=&#34;released&#34;&gt;Romans&lt;/span&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&amp;nbsp;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;&lt;span class=&#34;absent&#34;&gt;Exodus&lt;/span&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&amp;nbsp;&lt;/td&gt;
+        &lt;td&gt;&lt;span class=&#34;absent&#34;&gt;Judges&lt;/span&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&amp;nbsp;&lt;/td&gt;
+        &lt;td&gt;&lt;span class=&#34;released&#34;&gt;Psalms&lt;/span&gt;&lt;br&gt;
+          &lt;span class=&#34;comment&#34;&gt;&lt;a href=&#34;http://openenglishbible.org/oeb/dev/oeb-19-psalms-2014-12-12.docx&#34;&gt;docx&lt;/a&gt; &lt;a href=&#34;https://github.com/openenglishbible/Open-English-Bible/blob/master/source/19-Psalms.usfm.db&#34;&gt;usfm&lt;/a&gt;&lt;br&gt;2014-12-12
+          &lt;/span&gt;
+        &lt;/td&gt;
+        &lt;td&gt;&lt;span class=&#34;unchecked&#34;&gt;Jeremiah&lt;/span&gt;&lt;br&gt;
+          &lt;span class=&#34;comment&#34;&gt;&lt;a href=&#34;http://openenglishbible.org/oeb/dev/oeb-24-jeremiah-2015-05-27.docx&#34;&gt;docx&lt;/a&gt; &lt;a href=&#34;https://github.com/openenglishbible/Open-English-Bible/blob/mcfadyen/source/24-Jeremiah.usfm.db&#34;&gt;usfm&lt;/a&gt;&lt;br&gt;2015-05-27
+          &lt;/span&gt;
+        &lt;/td&gt;
+        &lt;td&gt;&lt;span class=&#34;released&#34;&gt;Joel&lt;/span&gt;&lt;br&gt;
+          &lt;span class=&#34;comment&#34;&gt;&lt;a href=&#34;http://openenglishbible.org/oeb/dev/oeb-39-joel-2015-05-27.docx&#34;&gt;docx&lt;/a&gt; &lt;a href=&#34;https://github.com/openenglishbible/Open-English-Bible/blob/master/source/29-Joel.usfm.db&#34;&gt;usfm&lt;/a&gt;&lt;br&gt;2015-05-27
+          &lt;/span&gt;
+        &lt;/td&gt;
+        &lt;td&gt;&lt;span class=&#34;released&#34;&gt;Mark&lt;/span&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&amp;nbsp;&lt;/td&gt;
+        &lt;td&gt;&lt;span class=&#34;released&#34;&gt;1 Corinthians&lt;/span&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&amp;nbsp;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;&lt;span class=&#34;absent&#34;&gt;Leviticus&lt;/span&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&amp;nbsp;&lt;/td&gt;
+        &lt;td&gt;&lt;span class=&#34;released&#34;&gt;Ruth&lt;/span&gt;&lt;br&gt;
+          &lt;span class=&#34;comment&#34;&gt;&lt;a href=&#34;http://openenglishbible.org/oeb/dev/oeb-08-ruth-2014-12-12.docx&#34;&gt;docx&lt;/a&gt; &lt;a href=&#34;https://github.com/openenglishbible/Open-English-Bible/blob/master/source/08-Ruth.usfm.db&#34;&gt;usfm&lt;/a&gt;&lt;br&gt;2014-12-12
+          &lt;/span&gt;
+        &lt;/td&gt;
+        &lt;td&gt;&lt;span class=&#34;unchecked&#34;&gt;Proverbs&lt;/span&gt;&lt;br&gt;
+          &lt;span class=&#34;comment&#34;&gt;&lt;a href=&#34;http://openenglishbible.org/oeb/dev/oeb-20-proverbs-2014-12-13.docx&#34;&gt;docx&lt;/a&gt; &lt;a href=&#34;https://github.com/openenglishbible/Open-English-Bible/blob/mcfadyen/source/20-Proverbs.usfm.db&#34;&gt;usfm&lt;/a&gt;&lt;br&gt;2014-12-13
+          &lt;/span&gt;
+        &lt;/td&gt;
+        &lt;td&gt;&lt;span class=&#34;unchecked&#34;&gt;Lamentations&lt;/span&gt;&lt;br&gt;
+          &lt;span class=&#34;comment&#34;&gt;&lt;a href=&#34;http://openenglishbible.org/oeb/dev/oeb-25-lamentations-2015-05-27.docx&#34;&gt;docx&lt;/a&gt; &lt;a href=&#34;https://github.com/openenglishbible/Open-English-Bible/blob/mcfadyen/source/25-Lamentations.usfm.db&#34;&gt;usfm&lt;/a&gt;&lt;br&gt;2015-05-27
+          &lt;/span&gt;
+        &lt;/td&gt;
+        &lt;td&gt;&lt;span class=&#34;absent&#34;&gt;Amos&lt;/span&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&amp;nbsp;&lt;/td&gt;
+        &lt;td&gt;&lt;span class=&#34;released&#34;&gt;Luke&lt;/span&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&amp;nbsp;&lt;/td&gt;
+        &lt;td&gt;&lt;span class=&#34;released&#34;&gt;2 Corinthians&lt;/span&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&amp;nbsp;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;&lt;span class=&#34;absent&#34;&gt;Numbers&lt;/span&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&amp;nbsp;&lt;/td&gt;
+        &lt;td&gt;&lt;span class=&#34;absent&#34;&gt;1 Samuel&lt;/span&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&amp;nbsp;&lt;/td&gt;
+        &lt;td&gt;&lt;span class=&#34;unchecked&#34;&gt;Ecclesiastes&lt;/span&gt;&lt;br&gt;
+          &lt;span class=&#34;comment&#34;&gt;&lt;a href=&#34;http://openenglishbible.org/oeb/dev/oeb-21-ecclesiastes-2015-05-14.docx&#34;&gt;docx&lt;/a&gt; &lt;a href=&#34;https://github.com/openenglishbible/Open-English-Bible/blob/mcfadyen/source/21-Ecclesiastes.usfm.db&#34;&gt;usfm&lt;/a&gt;&lt;br&gt;2015-05-14
+          &lt;/span&gt;
+        &lt;/td&gt;
+        &lt;td&gt;&lt;span class=&#34;absent&#34;&gt;Ezekiel&lt;/span&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&amp;nbsp;&lt;/td&gt;
+        &lt;td&gt;&lt;span class=&#34;released&#34;&gt;Obadiah&lt;/span&gt;&lt;br&gt;
+          &lt;span class=&#34;comment&#34;&gt;&lt;a href=&#34;http://openenglishbible.org/oeb/dev/oeb-31-obadiah-2015-05-20.docx&#34;&gt;docx&lt;/a&gt; &lt;a href=&#34;https://github.com/openenglishbible/Open-English-Bible/blob/master/source/31-Obadiah.usfm.db&#34;&gt;usfm&lt;/a&gt;&lt;br&gt;2015-05-20
+          &lt;/span&gt;
+        &lt;/td&gt;
+        &lt;td&gt;&lt;span class=&#34;released&#34;&gt;John&lt;/span&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&amp;nbsp;&lt;/td&gt;
+        &lt;td&gt;&lt;span class=&#34;released&#34;&gt;Galations&lt;/span&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&amp;nbsp;&lt;/td&gt;
+     &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;&lt;span  class=&#34;absent&#34;&gt;Deuteronomy&lt;/span&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&amp;nbsp;&lt;/td&gt;
+        &lt;td&gt;&lt;span class=&#34;absent&#34;&gt;2 Samuel&lt;/span&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&amp;nbsp;&lt;/td&gt;
+        &lt;td&gt;&lt;span  class=&#34;unchecked&#34;&gt;Song of Songs&lt;/span&gt;&lt;br&gt;
+          &lt;span class=&#34;comment&#34;&gt;&lt;a href=&#34;http://openenglishbible.org/oeb/dev/22-song-of-songs-2015-05-14.docx&#34;&gt;docx&lt;/a&gt; &lt;a href=&#34;https://github.com/openenglishbible/Open-English-Bible/blob/mcfadyen/source/22-Song%20of%20Songs.usfm.db&#34;&gt;usfm&lt;/a&gt;&lt;br&gt;2015-05-14
+          &lt;/span&gt;
+        &lt;/td&gt;
+        &lt;td&gt;&lt;span  class=&#34;unchecked&#34;&gt;Daniel&lt;/span&gt;&lt;br&gt;
+          &lt;span class=&#34;comment&#34;&gt;&lt;a href=&#34;http://openenglishbible.org/oeb/dev/oeb-27-daniel-2014-12-13.docx&#34;&gt;docx&lt;/a&gt; &lt;a href=&#34;https://github.com/openenglishbible/Open-English-Bible/blob/master/source/27-Daniel.usfm.db&#34;&gt;usfm&lt;/a&gt;&lt;br&gt;2014-12-13
+          &lt;/span&gt;
+        &lt;/td&gt;
+        &lt;td&gt;&lt;span  class=&#34;released&#34;&gt;Jonah&lt;/span&gt;&lt;br&gt;
+          &lt;span class=&#34;comment&#34;&gt;&lt;a href=&#34;http://openenglishbible.org/oeb/dev/oeb-32-jonah-2015-05-20.docx&#34;&gt;docx&lt;/a&gt; &lt;a href=&#34;https://github.com/openenglishbible/Open-English-Bible/blob/master/source/32-Jonah.usfm.db&#34;&gt;usfm&lt;/a&gt;&lt;br&gt;2015-05-20
+          &lt;/span&gt;
+        &lt;/td&gt;
+        &lt;td&gt;&lt;span  class=&#34;released&#34;&gt;Acts&lt;/span&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&amp;nbsp;&lt;/td&gt;
+        &lt;td&gt;&lt;span  class=&#34;released&#34;&gt;Ephesians&lt;/span&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&amp;nbsp;&lt;/td&gt;
+    &lt;/tr&gt;
+   &lt;tr&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;span  class=&#34;absent&#34;&gt;1 Kings&lt;/span&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&amp;nbsp;&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;span  class=&#34;released&#34;&gt;Micah&lt;/span&gt;&lt;br&gt;
+          &lt;span class=&#34;comment&#34;&gt;&lt;a href=&#34;http://openenglishbible.org/oeb/dev/oeb-33-micah-2015-05-26.docx&#34;&gt;docx&lt;/a&gt; &lt;a href=&#34;https://github.com/openenglishbible/Open-English-Bible/blob/master/source/33-Micah.usfm.db&#34;&gt;usfm&lt;/a&gt;&lt;br&gt;2015-06-27
+          &lt;/span&gt;
+        &lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;span class=&#34;released&#34;&gt;Philippians&lt;/span&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&amp;nbsp;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;span class=&#34;absent&#34;&gt;2 Kings&lt;/span&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&amp;nbsp;&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;span class=&#34;released&#34;&gt;Nahum&lt;/span&gt;&lt;br&gt;
+          &lt;span class=&#34;comment&#34;&gt;&lt;a href=&#34;http://openenglishbible.org/oeb/dev/oeb-34-nahum-2015-05-26.docx&#34;&gt;docx&lt;/a&gt; &lt;a href=&#34;https://github.com/openenglishbible/Open-English-Bible/blob/master/source/34-Nahum.usfm.db&#34;&gt;usfm&lt;/a&gt;&lt;br&gt;2015-05-26
+          &lt;/span&gt;
+        &lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;span class=&#34;released&#34;&gt;Colossians&lt;/span&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&amp;nbsp;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;span class=&#34;absent&#34;&gt;1 Chronicles&lt;/span&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&amp;nbsp;&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;span class=&#34;released&#34;&gt;Habakkuk&lt;/span&gt;&lt;br&gt;
+          &lt;span class=&#34;comment&#34;&gt;&lt;a href=&#34;http://openenglishbible.org/oeb/dev/oeb-35-habakkuk-2015-05-26.docx&#34;&gt;docx&lt;/a&gt; &lt;a href=&#34;https://github.com/openenglishbible/Open-English-Bible/blob/master/source/35-Habakkuk.usfm.db&#34;&gt;usfm&lt;/a&gt;&lt;br&gt;2015-05-26
+          &lt;/span&gt;
+         &lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;span class=&#34;released&#34;&gt;1 Thessalonians&lt;/span&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&amp;nbsp;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;span class=&#34;absent&#34;&gt;2 Chronicles&lt;/span&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&amp;nbsp;&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;span class=&#34;released&#34;&gt;Zephaniah&lt;/span&gt;&lt;br&gt;
+           &lt;span class=&#34;comment&#34;&gt;&lt;a href=&#34;http://openenglishbible.org/oeb/dev/oeb-36-zephaniah-2015-05-27.docx&#34;&gt;docx&lt;/a&gt; &lt;a href=&#34;https://github.com/openenglishbible/Open-English-Bible/blob/master/source/36-Zephaniah.usfm.db&#34;&gt;usfm&lt;/a&gt;&lt;br&gt;2015-05-27
+          &lt;/span&gt;
+        &lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;span class=&#34;released&#34;&gt;2 Thessalonians&lt;/span&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&amp;nbsp;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;span class=&#34;absent&#34;&gt;Ezra&lt;/span&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&amp;nbsp;&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;span class=&#34;released&#34;&gt;Haggai&lt;/span&gt;&lt;br&gt;
+           &lt;span class=&#34;comment&#34;&gt;&lt;a href=&#34;http://openenglishbible.org/oeb/dev/37-haggai-2015-05-25.docx&#34;&gt;docx&lt;/a&gt; &lt;a href=&#34;https://github.com/openenglishbible/Open-English-Bible/blob/master/source/37-Haggai.usfm.db&#34;&gt;usfm&lt;/a&gt;&lt;br&gt;2015-05-25
+          &lt;/span&gt;
+        &lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;span class=&#34;released&#34;&gt;1 Timothy&lt;/span&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&amp;nbsp;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;span class=&#34;absent&#34;&gt;Nehemiah&lt;/span&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&amp;nbsp;&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;span class=&#34;released&#34;&gt;Zechariah&lt;/span&gt;&lt;br&gt;
+           &lt;span class=&#34;comment&#34;&gt;&lt;a href=&#34;http://openenglishbible.org/oeb/dev/38-zechariah-2015-05-31.docx&#34;&gt;docx&lt;/a&gt; &lt;a href=&#34;https://github.com/openenglishbible/Open-English-Bible/blob/master/source/38-Zechariah.usfm.db&#34;&gt;usfm&lt;/a&gt;&lt;br&gt;2015-05-31
+          &lt;/span&gt;
+        &lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;span class=&#34;released&#34;&gt;2 Timothy&lt;/span&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&amp;nbsp;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;span class=&#34;released&#34;&gt;Esther&lt;/span&gt;&lt;br&gt;
+           &lt;span class=&#34;comment&#34;&gt;&lt;a href=&#34;http://openenglishbible.org/oeb/dev/oeb-17-esther-2014-12-12.docx&#34;&gt;docx&lt;/a&gt; &lt;a href=&#34;https://github.com/openenglishbible/Open-English-Bible/blob/master/source/17-Esther.usfm.db&#34;&gt;usfm&lt;/a&gt;&lt;br&gt;2014-12-12
+          &lt;/span&gt;
+        &lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;span class=&#34;released&#34;&gt;Malachi&lt;/span&gt;&lt;br&gt;
+           &lt;span class=&#34;comment&#34;&gt;&lt;a href=&#34;http://openenglishbible.org/oeb/dev/oeb-39-malachi-2015-05-27.docx&#34;&gt;docx&lt;/a&gt; &lt;a href=&#34;https://github.com/openenglishbible/Open-English-Bible/blob/master/source/39-Malachi.usfm.db&#34;&gt;usfm&lt;/a&gt;&lt;br&gt;2015-05-27
+          &lt;/span&gt;
+        &lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;span class=&#34;released&#34;&gt;Titus&lt;/span&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&amp;nbsp;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;span  class=&#34;released&#34;&gt;Philemon&lt;/span&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&amp;nbsp;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;span  class=&#34;released&#34;&gt;Hebrews&lt;/span&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&amp;nbsp;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;span class=&#34;released&#34;&gt;James&lt;/span&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&amp;nbsp;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;span class=&#34;released&#34;&gt;1 Peter&lt;/span&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/span&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&amp;nbsp;&lt;/td&gt;    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;span class=&#34;released&#34;&gt;2 Peter&lt;/span&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&amp;nbsp;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;span class=&#34;released&#34;&gt;1 John&lt;/span&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&amp;nbsp;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;span class=&#34;released&#34;&gt;2 John&lt;/span&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&amp;nbsp;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;span class=&#34;released&#34;&gt;3 John&lt;/span&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&amp;nbsp;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;span class=&#34;released&#34;&gt;Jude&lt;/span&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&amp;nbsp;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;span class=&#34;released&#34;&gt;Revelation&lt;/span&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&amp;nbsp;&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+
+
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Publications</title>
       <link>http://openenglishbible.org/publications/</link>
       <pubDate>Sat, 05 Dec 2015 23:07:29 +1100</pubDate>
@@ -85,877 +402,6 @@
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;p&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Development</title>
-      <link>http://openenglishbible.org/development/</link>
-      <pubDate>Sat, 05 Dec 2015 23:05:20 +1100</pubDate>
-      
-      <guid>http://openenglishbible.org/development/</guid>
-      <description>&lt;div id=&#34;mainrow&#34; class=&#34;row&#34;&gt;
-			&lt;h1&gt;Development&lt;/h1&gt;
-
-&lt;style&gt;
-.header { color: #ffffff; background-color: #8fadcc; }
-.name { font-size:1.0em; }
-.comment { color:lightgray; font-size:0.9em; background-color:white;}
-.absent { color:lightgray; }
-.partial { color:darkgray; }
-.unchecked { color:orange; }
-.checked { color:black; }
-.released { color:green; }
-&lt;/style&gt;
-
-&lt;p&gt;This is the development page for the Open English Bible. Each book is here, with links to Word docx files and to the original marked up USFM on Github. Books are marked as being &lt;span class=&#34;absent&#34;&gt;absent&lt;/span&gt;, &lt;span class=&#34;partial&#34;&gt;partial&lt;/span&gt;, &lt;span class=&#34;unchecked&#34;&gt;unchecked&lt;/span&gt;, &lt;span class=&#34;checked&#34;&gt;checked&lt;/span&gt;, &lt;span class=&#34;released&#34;&gt;released&lt;/span&gt;. Unless the book has been released (and is in the main build) please treat it with caution as it probably contains errors.&lt;/p&gt;
-
-&lt;table style=&#34;border-spacing: 10px;&#34;&gt;
-    &lt;tr class=&#34;header&#34;&gt;
-        &lt;td&gt;Pentateuch&lt;/td&gt;
-        &lt;td&gt;Histories&lt;/td&gt;
-        &lt;td&gt;Wisdom&lt;/td&gt;
-        &lt;td&gt;Major Prophets&lt;/td&gt;
-        &lt;td&gt;Minor Prophets&lt;/td&gt;
-        &lt;td&gt;Gospels and Acts&lt;/td&gt;
-        &lt;td&gt;Letters and Revelation&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr class=&#34;name&#34;&gt;
-        &lt;td class=&#34;checked&#34;&gt;Genesis&lt;/td&gt;
-        &lt;td class=&#34;partial&#34;&gt;Joshua&lt;/td&gt;
-        &lt;td class=&#34;unchecked&#34;&gt;Job&lt;/td&gt;
-        &lt;td class=&#34;unchecked&#34;&gt;Isaiah&lt;/td&gt;
-        &lt;td class=&#34;absent&#34;&gt;Hosea&lt;/td&gt;
-        &lt;td class=&#34;released&#34;&gt;Matthew&lt;/td&gt;
-        &lt;td class=&#34;released&#34;&gt;Romans&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr class=&#34;comment&#34;&gt;
-        &lt;td&gt;
-            &lt;a href=&#34;http://openenglishbible.org/oeb/dev/oeb-01-genesis-2014-12-13.docx&#34;&gt;docx&lt;/a&gt; 
-            &lt;a href=&#34;https://github.com/openenglishbible/Open-English-Bible/blob/master/source/01-Genesis.usfm.db&#34;&gt;usfm&lt;/a&gt;
-        &lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;
-            &lt;a href=&#34;http://openenglishbible.org/oeb/dev/oeb-17-job-2015-05-14.docx&#34;&gt;docx&lt;/a&gt; 
-            &lt;a href=&#34;https://github.com/openenglishbible/Open-English-Bible/blob/mcfadyen/source/18-Job.usfm.db&#34;&gt;usfm&lt;/a&gt;
-        &lt;/td&gt;
-        &lt;td&gt;
-            &lt;a href=&#34;http://openenglishbible.org/oeb/dev/oeb-23-isaiah-2015-06-23.docx&#34;&gt;docx&lt;/a&gt; 
-            &lt;a href=&#34;https://github.com/openenglishbible/Open-English-Bible/blob/mcfadyen/source/23-Isaiah.usfm.db&#34;&gt;usfm&lt;/a&gt;
-        &lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;
-            docx usfm
-        &lt;/td&gt;
-        &lt;td&gt;
-            docx usfm
-        &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr class=&#34;comment&#34;&gt;
-        &lt;td&gt;2014-12-13&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;2015-05-14&lt;/td&gt;
-        &lt;td&gt;2015-06-23&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;(date)&lt;/td&gt;
-        &lt;td&gt;(date)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr class=&#34;name&#34;&gt;
-        &lt;td class=&#34;absent&#34;&gt;Exodus
-        &lt;/td&gt;
-        &lt;td class=&#34;absent&#34;&gt;
-            Judges
-        &lt;/td&gt;
-        &lt;td class=&#34;released&#34;&gt;
-            Psalms
-        &lt;/td&gt;
-        &lt;td class=&#34;unchecked&#34;&gt;
-            Jeremiah
-        &lt;/td&gt;
-        &lt;td class=&#34;released&#34;&gt;
-            Joel
-        &lt;/td&gt;
-        &lt;td class=&#34;released&#34;&gt;
-            Mark
-        &lt;/td&gt;
-        &lt;td class=&#34;released&#34;&gt;
-            1 Corinthians
-        &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr class=&#34;comment&#34;&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;
-            &lt;a href=&#34;http://openenglishbible.org/oeb/dev/oeb-19-psalms-2014-12-12.docx&#34;&gt;docx&lt;/a&gt; 
-            &lt;a href=&#34;https://github.com/openenglishbible/Open-English-Bible/blob/master/source/19-Psalms.usfm.db&#34;&gt;usfm&lt;/a&gt;
-        &lt;/td&gt;
-        &lt;td&gt;
-            &lt;a href=&#34;http://openenglishbible.org/oeb/dev/oeb-24-jeremiah-2015-05-27.docx&#34;&gt;docx&lt;/a&gt; 
-            &lt;a href=&#34;https://github.com/openenglishbible/Open-English-Bible/blob/mcfadyen/source/24-Jeremiah.usfm.db&#34;&gt;usfm&lt;/a&gt;
-        &lt;/td&gt;
-        &lt;td&gt;
-            &lt;a href=&#34;http://openenglishbible.org/oeb/dev/oeb-39-joel-2015-05-27.docx&#34;&gt;docx&lt;/a&gt;
-            &lt;a href=&#34;https://github.com/openenglishbible/Open-English-Bible/blob/master/source/29-Joel.usfm.db&#34;&gt;usfm&lt;/a&gt;
-        &lt;/td&gt;
-        &lt;td&gt;
-            &lt;span&gt;docx usfm&lt;/span&gt;
-        &lt;/td&gt;
-        &lt;td&gt;
-            &lt;span&gt;docx usfm&lt;/span&gt;
-        &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr class=&#34;comment&#34;&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;2014-12-12&lt;/td&gt;
-        &lt;td&gt;2015-05-27&lt;/td&gt;
-        &lt;td&gt;2015-05-27&lt;/td&gt;
-        &lt;td&gt;(date)&lt;/td&gt;
-        &lt;td&gt;(date)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr class=&#34;name&#34;&gt;
-        &lt;td class=&#34;absent&#34;&gt;
-            Leviticus
-        &lt;/td&gt;
-        &lt;td class=&#34;released&#34;&gt;
-            Ruth
-        &lt;/td&gt;
-        &lt;td class=&#34;unchecked&#34;&gt;
-            Proverbs
-        &lt;/td&gt;
-        &lt;td class=&#34;unchecked&#34;&gt;
-            Lamentations
-        &lt;/td&gt;
-        &lt;td class=&#34;absent&#34;&gt;
-            Amos
-        &lt;/td&gt;
-        &lt;td class=&#34;released&#34;&gt;
-            Luke
-        &lt;/td&gt;
-        &lt;td class=&#34;released&#34;&gt;
-            2 Corinthhians
-        &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr class=&#34;comment&#34;&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;
-            &lt;a href=&#34;http://openenglishbible.org/oeb/dev/oeb-08-ruth-2014-12-12.docx&#34;&gt;docx&lt;/a&gt;
-            &lt;a href=&#34;https://github.com/openenglishbible/Open-English-Bible/blob/master/source/08-Ruth.usfm.db&#34;&gt;usfm&lt;/a&gt;
-        &lt;/td&gt;
-        &lt;td&gt;
-            &lt;a href=&#34;http://openenglishbible.org/oeb/dev/oeb-20-proverbs-2014-12-13.docx&#34;&gt;docx&lt;/a&gt;
-            &lt;a href=&#34;https://github.com/openenglishbible/Open-English-Bible/blob/mcfadyen/source/20-Proverbs.usfm.db&#34;&gt;usfm&lt;/a&gt;
-        &lt;/td&gt;
-        &lt;td&gt;
-            &lt;a href=&#34;http://openenglishbible.org/oeb/dev/oeb-25-lamentations-2015-05-27.docx&#34;&gt;docx&lt;/a&gt; 
-            &lt;a href=&#34;https://github.com/openenglishbible/Open-English-Bible/blob/mcfadyen/source/25-Lamentations.usfm.db&#34;&gt;usfm&lt;/a&gt;
-        &lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;
-            docx usfm
-        &lt;/td&gt;
-        &lt;td&gt;
-            docx usfm
-        &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr class=&#34;comment&#34;&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;2014-12-12&lt;/td&gt;
-        &lt;td&gt;2014-12-13&lt;/td&gt;
-        &lt;td&gt;2015-05-27&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;(date)&lt;/td&gt;
-        &lt;td&gt;(date)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr class=&#34;name&#34;&gt;
-        &lt;td class=&#34;absent&#34;&gt;
-            Numbers
-        &lt;/td&gt;
-        &lt;td class=&#34;absent&#34;&gt;
-            1 Samuel
-        &lt;/td&gt;
-        &lt;td class=&#34;unchecked&#34;&gt;
-            Ecclesiastes
-        &lt;/td&gt;
-        &lt;td class=&#34;absent&#34;&gt;
-            Ezekiel
-        &lt;/td&gt;
-        &lt;td class=&#34;released&#34;&gt;
-            Obadiah
-        &lt;/td&gt;
-        &lt;td class=&#34;released&#34;&gt;
-            John
-        &lt;/td&gt;
-        &lt;td class=&#34;released&#34;&gt;
-            Galations
-        &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr class=&#34;comment&#34;&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;
-            &lt;a href=&#34;http://openenglishbible.org/oeb/dev/oeb-21-ecclesiastes-2015-05-14.docx&#34;&gt;docx&lt;/a&gt;
-            &lt;a href=&#34;https://github.com/openenglishbible/Open-English-Bible/blob/mcfadyen/source/21-Ecclesiastes.usfm.db&#34;&gt;usfm&lt;/a&gt;
-        &lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;
-            &lt;a href=&#34;http://openenglishbible.org/oeb/dev/oeb-31-obadiah-2015-05-20.docx&#34;&gt;docx&lt;/a&gt;
-            &lt;a href=&#34;https://github.com/openenglishbible/Open-English-Bible/blob/master/source/31-Obadiah.usfm.db&#34;&gt;usfm&lt;/a&gt;
-         &lt;/td&gt;
-        &lt;td&gt;
-            docx usfm
-        &lt;/td&gt;
-        &lt;td&gt;
-            docx usfm
-        &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr class=&#34;comment&#34;&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;2015-05-14&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;(date)&lt;/td&gt;
-        &lt;td&gt;(date)&lt;/td&gt;
-        &lt;td&gt;(date)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr class=&#34;name&#34;&gt;
-        &lt;td class=&#34;absent&#34;&gt;
-            Deuteronomy
-        &lt;/td&gt;
-        &lt;td class=&#34;absent&#34;&gt;
-            2 Samuel
-        &lt;/td&gt;
-        &lt;td class=&#34;unchecked&#34;&gt;
-            Song of Songs
-        &lt;/td&gt;
-        &lt;td class=&#34;unchecked&#34;&gt;
-            Daniel
-        &lt;/td&gt;
-        &lt;td class=&#34;released&#34;&gt;
-            Jonah
-        &lt;/td&gt;
-        &lt;td class=&#34;released&#34;&gt;
-            Acts
-        &lt;/td&gt;
-        &lt;td class=&#34;released&#34;&gt;
-            Ephesians
-        &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr class=&#34;comment&#34;&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;
-            &lt;a href=&#34;http://openenglishbible.org/oeb/dev/22-song-of-songs-2015-05-14.docx&#34;&gt;docx&lt;/a&gt;
-            &lt;a href=&#34;https://github.com/openenglishbible/Open-English-Bible/blob/mcfadyen/source/22-Song%20of%20Songs.usfm.db&#34;&gt;usfm&lt;/a&gt;
-        &lt;/td&gt;
-        &lt;td&gt;
-            &lt;a href=&#34;http://openenglishbible.org/oeb/dev/oeb-27-daniel-2014-12-13.docx&#34;&gt;docx&lt;/a&gt;
-            &lt;a href=&#34;https://github.com/openenglishbible/Open-English-Bible/blob/master/source/27-Daniel.usfm.db&#34;&gt;usfm&lt;/a&gt;
-        &lt;/td&gt;
-        &lt;td&gt;
-            &lt;a href=&#34;http://openenglishbible.org/oeb/dev/oeb-32-jonah-2015-05-20.docx&#34;&gt;docx&lt;/a&gt;
-            &lt;a href=&#34;https://github.com/openenglishbible/Open-English-Bible/blob/master/source/32-Jonah.usfm.db&#34;&gt;usfm&lt;/a&gt;
-        &lt;/td&gt;
-        &lt;td&gt;
-            docx usfm
-        &lt;/td&gt;
-        &lt;td&gt;
-            docx usfm
-        &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr class=&#34;comment&#34;&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;2015-05-14&lt;/td&gt;
-        &lt;td&gt;2014-12-13&lt;/td&gt;
-        &lt;td&gt;2015-05-20&lt;/td&gt;
-        &lt;td&gt;(date)&lt;/td&gt;
-        &lt;td&gt;(date)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr class=&#34;name&#34;&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td class=&#34;absent&#34;&gt;
-            1 Kings
-        &lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td class=&#34;released&#34;&gt;
-            Micah
-        &lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td class=&#34;released&#34;&gt;
-            Philippians
-        &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr class=&#34;comment&#34;&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;
-            &lt;a href=&#34;http://openenglishbible.org/oeb/dev/oeb-33-micah-2015-05-26.docx&#34;&gt;docx&lt;/a&gt;
-            &lt;a href=&#34;https://github.com/openenglishbible/Open-English-Bible/blob/master/source/33-Micah.usfm.db&#34;&gt;usfm&lt;/a&gt;
-        &lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;
-            docx usfm
-        &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr class=&#34;comment&#34;&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;2015-06-27&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;(date)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr class=&#34;name&#34;&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td class=&#34;absent&#34;&gt;
-            2 Kings
-        &lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td class=&#34;released&#34;&gt;
-            Nahum
-        &lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td class=&#34;released&#34;&gt;
-            Colossians
-        &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr class=&#34;comment&#34;&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;
-            &lt;a href=&#34;http://openenglishbible.org/oeb/dev/oeb-34-nahum-2015-05-26.docx&#34;&gt;docx&lt;/a&gt;
-            &lt;a href=&#34;https://github.com/openenglishbible/Open-English-Bible/blob/master/source/34-Nahum.usfm.db&#34;&gt;usfm&lt;/a&gt;
-        &lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;
-            docx usfm
-        &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr class=&#34;comment&#34;&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;2015-05-26&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;(date)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr class=&#34;name&#34;&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td class=&#34;absent&#34;&gt;
-            1 Chronicles
-        &lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td class=&#34;released&#34;&gt;
-            Habakkuk
-        &lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td class=&#34;released&#34;&gt;
-            1 Thessalonians
-        &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr class=&#34;comment&#34;&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;
-            &lt;a href=&#34;http://openenglishbible.org/oeb/dev/oeb-35-habakkuk-2015-05-26.docx&#34;&gt;docx&lt;/a&gt;
-            &lt;a href=&#34;https://github.com/openenglishbible/Open-English-Bible/blob/master/source/35-Habakkuk.usfm.db&#34;&gt;usfm&lt;/a&gt;
-        &lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;
-            docx usfm
-        &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr class=&#34;comment&#34;&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;2015-05-26&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;(date)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr class=&#34;name&#34;&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td class=&#34;absent&#34;&gt;
-            2 Chronicles
-        &lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td class=&#34;released&#34;&gt;
-            Zephaniah
-        &lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td class=&#34;released&#34;&gt;
-            2 Thessalonians
-        &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr class=&#34;comment&#34;&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;
-            &lt;a href=&#34;http://openenglishbible.org/oeb/dev/oeb-36-zephaniah-2015-05-27.docx&#34;&gt;docx&lt;/a&gt;
-            &lt;a href=&#34;https://github.com/openenglishbible/Open-English-Bible/blob/master/source/36-Zephaniah.usfm.db&#34;&gt;usfm&lt;/a&gt;
-        &lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;
-            docx usfm
-        &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr class=&#34;comment&#34;&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;2015-05-27&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;(date)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr class=&#34;name&#34;&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td class=&#34;absent&#34;&gt;
-            Ezra
-        &lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td class=&#34;released&#34;&gt;
-            Haggai
-        &lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td class=&#34;released&#34;&gt;
-            1 Timothy
-        &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr class=&#34;comment&#34;&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;
-            &lt;a href=&#34;http://openenglishbible.org/oeb/dev/37-haggai-2015-05-25.docx&#34;&gt;docx&lt;/a&gt;
-            &lt;a href=&#34;https://github.com/openenglishbible/Open-English-Bible/blob/master/source/37-Haggai.usfm.db&#34;&gt;usfm&lt;/a&gt;
-        &lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;
-            docx usfm
-        &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr class=&#34;comment&#34;&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;2015-05-25&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;(date)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr class=&#34;name&#34;&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td class=&#34;absent&#34;&gt;
-            Nehemiah
-        &lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td class=&#34;released&#34;&gt;
-            Zechariah
-        &lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td class=&#34;released&#34;&gt;
-            2 Timothy
-        &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr class=&#34;comment&#34;&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;
-            &lt;a href=&#34;http://openenglishbible.org/oeb/dev/38-zechariah-2015-05-31.docx&#34;&gt;docx&lt;/a&gt;
-            &lt;a href=&#34;https://github.com/openenglishbible/Open-English-Bible/blob/master/source/38-Zechariah.usfm.db&#34;&gt;usfm&lt;/a&gt;
-        &lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;
-            docx usfm
-        &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr class=&#34;comment&#34;&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;2015-05-31&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;(date)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr class=&#34;name&#34;&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td class=&#34;released&#34;&gt;
-            Esther
-        &lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td class=&#34;released&#34;&gt;
-            Malachi
-        &lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td class=&#34;released&#34;&gt;
-            Titus
-        &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr class=&#34;comment&#34;&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;
-            &lt;a href=&#34;http://openenglishbible.org/oeb/dev/oeb-17-esther-2014-12-12.docx&#34;&gt;docx&lt;/a&gt; &lt;a href=&#34;https://github.com/openenglishbible/Open-English-Bible/blob/master/source/17-Esther.usfm.db&#34;&gt;usfm&lt;/a&gt;
-        &lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;
-            &lt;a href=&#34;http://openenglishbible.org/oeb/dev/oeb-39-malachi-2015-05-27.docx&#34;&gt;docx&lt;/a&gt;
-            &lt;a href=&#34;https://github.com/openenglishbible/Open-English-Bible/blob/master/source/39-Malachi.usfm.db&#34;&gt;usfm&lt;/a&gt;
-        &lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;
-            docx usfm
-        &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr class=&#34;comment&#34;&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;
-            2014-12-12
-        &lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;(date)&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;(date)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr class=&#34;name&#34;&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td class=&#34;released&#34;&gt;
-            Philemon
-        &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr class=&#34;comment&#34;&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;
-            docx usfm
-        &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr class=&#34;comment&#34;&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;(date)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr class=&#34;name&#34;&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td class=&#34;released&#34;&gt;
-            Hebrews
-        &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr class=&#34;comment&#34;&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;
-            docx usfm
-        &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr class=&#34;comment&#34;&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;(date)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr class=&#34;name&#34;&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td class=&#34;released&#34;&gt;
-            James
-        &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr class=&#34;comment&#34;&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;
-            docx usfm
-        &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr class=&#34;comment&#34;&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;(date)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr class=&#34;name&#34;&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td class=&#34;released&#34;&gt;
-            1 Peter
-        &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr class=&#34;comment&#34;&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;
-            docx usfm
-        &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr class=&#34;comment&#34;&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;(date)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr class=&#34;name&#34;&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td class=&#34;released&#34;&gt;
-            2 Peter
-        &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr class=&#34;comment&#34;&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;
-            docx usfm
-        &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr class=&#34;comment&#34;&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;(date)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr class=&#34;name&#34;&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td class=&#34;released&#34;&gt;
-            1 John
-        &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr class=&#34;comment&#34;&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;
-            docx usfm
-        &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr class=&#34;comment&#34;&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;(date)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr class=&#34;name&#34;&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td class=&#34;released&#34;&gt;
-            2 John
-        &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr class=&#34;comment&#34;&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;
-            docx usfm
-        &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr class=&#34;comment&#34;&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;(date)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr class=&#34;name&#34;&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td class=&#34;released&#34;&gt;
-            3 John
-        &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr class=&#34;comment&#34;&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;
-            docx usfm
-        &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr class=&#34;comment&#34;&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;(date)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr class=&#34;name&#34;&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td class=&#34;released&#34;&gt;
-            Jude
-        &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr class=&#34;comment&#34;&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;
-            docx usfm
-        &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr class=&#34;comment&#34;&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;(date)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr class=&#34;name&#34;&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td class=&#34;released&#34;&gt;
-            Revelation
-        &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr class=&#34;comment&#34;&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;
-            docx usfm
-        &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr class=&#34;comment&#34;&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;(date)&lt;/td&gt;
-    &lt;/tr&gt;
-&lt;/table&gt;
-
-
 &lt;/div&gt;
 </description>
     </item>
