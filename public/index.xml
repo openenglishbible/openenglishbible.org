@@ -76,11 +76,11 @@
         &lt;/td&gt;
         &lt;td&gt;&lt;span class=&#34;partial&#34;&gt;Joshua&lt;/span&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&amp;nbsp;&lt;/td&gt;
         &lt;td&gt;&lt;span class=&#34;unchecked&#34;&gt;Job&lt;/span&gt;&lt;br&gt;
-          &lt;span class=&#34;comment&#34;&gt;&lt;a href=&#34;http://openenglishbible.org/oeb/dev/oeb-01-genesis-2014-12-13.docx&#34;&gt;docx&lt;/a&gt; &lt;a href=&#34;https://github.com/openenglishbible/Open-English-Bible/blob/master/source/01-Genesis.usfm.db&#34;&gt;usfm&lt;/a&gt;&lt;br&gt;2015-05-14
+          &lt;span class=&#34;comment&#34;&gt;&lt;a href=&#34;http://openenglishbible.org/oeb/dev/oeb-18-job-2015-05-14.docx&#34;&gt;docx&lt;/a&gt; &lt;a href=&#34;https://github.com/openenglishbible/Open-English-Bible/blob/master/source/18-Job.usfm.db&#34;&gt;usfm&lt;/a&gt;&lt;br&gt;2015-05-14
           &lt;/span&gt;
         &lt;/td&gt;
         &lt;td&gt;&lt;span class=&#34;unchecked&#34;&gt;Isaiah&lt;/span&gt;&lt;br&gt;
-          &lt;span class=&#34;comment&#34;&gt;&lt;a href=&#34;http://openenglishbible.org/oeb/dev/oeb-23-isaiah-2015-06-23.docx&#34;&gt;docx&lt;/a&gt; &lt;a href=&#34;https://github.com/openenglishbible/Open-English-Bible/blob/mcfadyen/source/23-Isaiah.usfm.db&#34;&gt;usfm&lt;/a&gt;&lt;br&gt;2015-06-23
+          &lt;span class=&#34;comment&#34;&gt;&lt;a href=&#34;http://openenglishbible.org/oeb/dev/oeb-23-isaiah-2015-06-23.docx&#34;&gt;docx&lt;/a&gt; &lt;a href=&#34;https://github.com/openenglishbible/Open-English-Bible/blob/master/source/23-Isaiah.usfm.db&#34;&gt;usfm&lt;/a&gt;&lt;br&gt;2015-06-23
           &lt;/span&gt;
         &lt;/td&gt;
         &lt;td&gt;&lt;span class=&#34;absent&#34;&gt;Hosea&lt;/span&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&amp;nbsp;&lt;/td&gt;
@@ -95,7 +95,7 @@
           &lt;/span&gt;
         &lt;/td&gt;
         &lt;td&gt;&lt;span class=&#34;unchecked&#34;&gt;Jeremiah&lt;/span&gt;&lt;br&gt;
-          &lt;span class=&#34;comment&#34;&gt;&lt;a href=&#34;http://openenglishbible.org/oeb/dev/oeb-24-jeremiah-2015-05-27.docx&#34;&gt;docx&lt;/a&gt; &lt;a href=&#34;https://github.com/openenglishbible/Open-English-Bible/blob/mcfadyen/source/24-Jeremiah.usfm.db&#34;&gt;usfm&lt;/a&gt;&lt;br&gt;2015-05-27
+          &lt;span class=&#34;comment&#34;&gt;&lt;a href=&#34;http://openenglishbible.org/oeb/dev/oeb-24-jeremiah-2015-05-27.docx&#34;&gt;docx&lt;/a&gt; &lt;a href=&#34;https://github.com/openenglishbible/Open-English-Bible/blob/master/source/24-Jeremiah.usfm.db&#34;&gt;usfm&lt;/a&gt;&lt;br&gt;2015-05-27
           &lt;/span&gt;
         &lt;/td&gt;
         &lt;td&gt;&lt;span class=&#34;released&#34;&gt;Joel&lt;/span&gt;&lt;br&gt;
@@ -112,14 +112,16 @@
           &lt;/span&gt;
         &lt;/td&gt;
         &lt;td&gt;&lt;span class=&#34;unchecked&#34;&gt;Proverbs&lt;/span&gt;&lt;br&gt;
-          &lt;span class=&#34;comment&#34;&gt;&lt;a href=&#34;http://openenglishbible.org/oeb/dev/oeb-20-proverbs-2014-12-13.docx&#34;&gt;docx&lt;/a&gt; &lt;a href=&#34;https://github.com/openenglishbible/Open-English-Bible/blob/mcfadyen/source/20-Proverbs.usfm.db&#34;&gt;usfm&lt;/a&gt;&lt;br&gt;2014-12-13
+          &lt;span class=&#34;comment&#34;&gt;&lt;a href=&#34;http://openenglishbible.org/oeb/dev/oeb-20-proverbs-2014-12-13.docx&#34;&gt;docx&lt;/a&gt; &lt;a href=&#34;https://github.com/openenglishbible/Open-English-Bible/blob/master/source/20-Proverbs.usfm.db&#34;&gt;usfm&lt;/a&gt;&lt;br&gt;2014-12-13
           &lt;/span&gt;
         &lt;/td&gt;
         &lt;td&gt;&lt;span class=&#34;unchecked&#34;&gt;Lamentations&lt;/span&gt;&lt;br&gt;
-          &lt;span class=&#34;comment&#34;&gt;&lt;a href=&#34;http://openenglishbible.org/oeb/dev/oeb-25-lamentations-2015-05-27.docx&#34;&gt;docx&lt;/a&gt; &lt;a href=&#34;https://github.com/openenglishbible/Open-English-Bible/blob/mcfadyen/source/25-Lamentations.usfm.db&#34;&gt;usfm&lt;/a&gt;&lt;br&gt;2015-05-27
+          &lt;span class=&#34;comment&#34;&gt;&lt;a href=&#34;http://openenglishbible.org/oeb/dev/oeb-25-lamentations-2015-05-27.docx&#34;&gt;docx&lt;/a&gt; &lt;a href=&#34;https://github.com/openenglishbible/Open-English-Bible/blob/master/source/25-Lamentations.usfm.db&#34;&gt;usfm&lt;/a&gt;&lt;br&gt;2015-05-27
           &lt;/span&gt;
         &lt;/td&gt;
-        &lt;td&gt;&lt;span class=&#34;absent&#34;&gt;Amos&lt;/span&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&amp;nbsp;&lt;/td&gt;
+        &lt;td&gt;&lt;span class=&#34;unchecked&#34;&gt;Amos&lt;/span&gt;&lt;br&gt;
+          &lt;span class=&#34;comment&#34;&gt;&lt;a href=&#34;http://openenglishbible.org/oeb/dev/oeb-30-amos-2015-12-06-unchecked.docx&#34;&gt;docx&lt;/a&gt; &lt;a href=&#34;https://github.com/openenglishbible/Open-English-Bible/blob/master/source/30-Amos.usfm.db&#34;&gt;usfm&lt;/a&gt;&lt;br&gt;2015-12-06
+          &lt;/span&gt;
         &lt;td&gt;&lt;span class=&#34;released&#34;&gt;Luke&lt;/span&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&amp;nbsp;&lt;/td&gt;
         &lt;td&gt;&lt;span class=&#34;released&#34;&gt;2 Corinthians&lt;/span&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&amp;nbsp;&lt;/td&gt;
     &lt;/tr&gt;
@@ -127,7 +129,7 @@
         &lt;td&gt;&lt;span class=&#34;absent&#34;&gt;Numbers&lt;/span&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&amp;nbsp;&lt;/td&gt;
         &lt;td&gt;&lt;span class=&#34;absent&#34;&gt;1 Samuel&lt;/span&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&amp;nbsp;&lt;/td&gt;
         &lt;td&gt;&lt;span class=&#34;unchecked&#34;&gt;Ecclesiastes&lt;/span&gt;&lt;br&gt;
-          &lt;span class=&#34;comment&#34;&gt;&lt;a href=&#34;http://openenglishbible.org/oeb/dev/oeb-21-ecclesiastes-2015-05-14.docx&#34;&gt;docx&lt;/a&gt; &lt;a href=&#34;https://github.com/openenglishbible/Open-English-Bible/blob/mcfadyen/source/21-Ecclesiastes.usfm.db&#34;&gt;usfm&lt;/a&gt;&lt;br&gt;2015-05-14
+          &lt;span class=&#34;comment&#34;&gt;&lt;a href=&#34;http://openenglishbible.org/oeb/dev/oeb-21-ecclesiastes-2015-05-14.docx&#34;&gt;docx&lt;/a&gt; &lt;a href=&#34;https://github.com/openenglishbible/Open-English-Bible/blob/master/source/21-Ecclesiastes.usfm.db&#34;&gt;usfm&lt;/a&gt;&lt;br&gt;2015-05-14
           &lt;/span&gt;
         &lt;/td&gt;
         &lt;td&gt;&lt;span class=&#34;absent&#34;&gt;Ezekiel&lt;/span&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&amp;nbsp;&lt;/td&gt;
@@ -142,7 +144,7 @@
         &lt;td&gt;&lt;span  class=&#34;absent&#34;&gt;Deuteronomy&lt;/span&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&amp;nbsp;&lt;/td&gt;
         &lt;td&gt;&lt;span class=&#34;absent&#34;&gt;2 Samuel&lt;/span&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&amp;nbsp;&lt;/td&gt;
         &lt;td&gt;&lt;span  class=&#34;unchecked&#34;&gt;Song of Songs&lt;/span&gt;&lt;br&gt;
-          &lt;span class=&#34;comment&#34;&gt;&lt;a href=&#34;http://openenglishbible.org/oeb/dev/22-song-of-songs-2015-05-14.docx&#34;&gt;docx&lt;/a&gt; &lt;a href=&#34;https://github.com/openenglishbible/Open-English-Bible/blob/mcfadyen/source/22-Song%20of%20Songs.usfm.db&#34;&gt;usfm&lt;/a&gt;&lt;br&gt;2015-05-14
+          &lt;span class=&#34;comment&#34;&gt;&lt;a href=&#34;http://openenglishbible.org/oeb/dev/22-song-of-songs-2015-05-14.docx&#34;&gt;docx&lt;/a&gt; &lt;a href=&#34;https://github.com/openenglishbible/Open-English-Bible/blob/master/source/22-Song%20of%20Songs.usfm.db&#34;&gt;usfm&lt;/a&gt;&lt;br&gt;2015-05-14
           &lt;/span&gt;
         &lt;/td&gt;
         &lt;td&gt;&lt;span  class=&#34;unchecked&#34;&gt;Daniel&lt;/span&gt;&lt;br&gt;
