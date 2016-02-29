@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Welcome</title>
-    <link>http://openenglishbible.org/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Welcome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 07 Dec 2015 11:13:56 +1100</lastBuildDate>
-    <atom:link href="http://openenglishbible.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Refreshing the OEB website</title>
-      <link>http://openenglishbible.org/blog/refresh-website/</link>
+      <link>http://localhost:1313/blog/refresh-website/</link>
       <pubDate>Mon, 07 Dec 2015 11:13:56 +1100</pubDate>
       
-      <guid>http://openenglishbible.org/blog/refresh-website/</guid>
+      <guid>http://localhost:1313/blog/refresh-website/</guid>
       <description>&lt;p&gt;The OEB website has become a little bit, um, venerable over the last couple of years. Although it was always clean and simple, it wasn&amp;rsquo;t up to date with the latest responsive designs needed for the large numbers of people reading on their mobile phones and tablets.&lt;/p&gt;
 
 &lt;p&gt;So the time was right for a refresh. The design has stayed mostly the same, but the site itself is now built using &lt;a href=&#34;http://foundation.zurb.com/&#34;&gt;Foundation&lt;/a&gt; and &lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; and all the sources are hosted on &lt;a href=&#34;https://github.com/openenglishbible/openenglishbible.org&#34;&gt;Github&lt;/a&gt; - so if you have improvements (or just find the inevitable speling mistake) then you can help us fix it.&lt;/p&gt;
@@ -25,23 +25,94 @@
     
     <item>
       <title>Development</title>
-      <link>http://openenglishbible.org/development/</link>
+      <link>http://localhost:1313/development/</link>
       <pubDate>Mon, 07 Dec 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://openenglishbible.org/development/</guid>
+      <guid>http://localhost:1313/development/</guid>
       <description>&lt;div id=&#34;mainrow&#34; class=&#34;row&#34;&gt;
 
 &lt;h1&gt;Development&lt;/h1&gt;
+
+&lt;p&gt;This is the development page for the Open English Bible. If you would like to help out, the steps are first to join the forum, then secondly to help check one of the books not yet in release.&lt;/p&gt;
+
+&lt;h2&gt;Forum&lt;/h2&gt;
+
+&lt;p&gt;Discussion about the development, and the OEB project in general, happens on the forum. You can access the forum either from the &lt;a href=&#34;http://forum.openenglishbible.org&#34;&gt;web archive&lt;/a&gt; or as a mailing list. Details on how to sign up are at the archive.&lt;/p&gt;
 
 &lt;h2&gt;GitHub&lt;/h2&gt;
 
 &lt;p&gt;All of the raw sources for the OEB are developed as USFM files on the &lt;a href=&#34;http://github.com/openenglishbible/Open-English-Bible&#34;&gt;git repository at GitHub&lt;/a&gt;. Unless you are familiar with USFM and Git, you may want to look at the MS Word documents linked below.
   
-&lt;h2&gt;Forum&lt;/h2&gt;
+&lt;h2&gt;Upcoming Release&lt;/h2&gt;
 
-&lt;p&gt;Discussion about the development, and the OEB project in general, happens on the forum. You can access the forum either from the &lt;a href=&#34;http://forum.openenglishbible.org&#34;&gt;web archive&lt;/a&gt; or as a mailing list. Details on how to sign up are at the archive.&lt;/p&gt;
+&lt;p&gt;These links are for the current build of those books in the general release. This is based on the GitHub repository.&lt;/p&gt;
+  
+&lt;style&gt;
+#releaseBox { 
+  border-radius: 25px;
+  border: 1px solid #ACD83E;
+  padding: 20px; 
+}
+&lt;/style&gt;
 
-&lt;h2&gt;Development Status&lt;/h2&gt;
+&lt;div id=&#34;releaseBox&#34;&gt;
+  &lt;h2&gt;
+  Get your Bible&lt;br&gt;
+  &lt;small&gt;(Release Current - NT, Psalms and selected other OT books)&lt;br&gt;
+         (&#34;&lt;a href=&#34;https://en.wikipedia.org/wiki/Julia_E._Smith_Parker_Translation&#34;&gt;Julia E Smith&lt;/a&gt;&#34; Release)
+  &lt;/small&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;h2 class=&#34;subheader&#34;&gt;
+      &lt;a href=&#34;http://localhost:1313/oeb/dev/read/&#34;&gt;Read&lt;/a&gt;
+    &lt;/h2&gt;(or study version)
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h2 class=&#34;subheader&#34;&gt;
+      Download
+    &lt;/h2&gt;
+  &lt;/li&gt;
+  &lt;li style=&#34;list-style: none&#34;&gt;
+    &lt;h3 class=&#34;subheader&#34;&gt;
+      US Spelling:&lt;br&gt;
+      &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 
+      &lt;a href=&#34;http://localhost:1313/oeb/dev/OEB-Current-US.pdf&#34; onclick=&#34;javascript: _gaq.push([&#39;_trackPageview&#39;, &#39;/downloads/OEB-Current-US.pdf&#39;]);&#34; rel=&#34;external&#34;&gt;PDF&lt;/a&gt;, 
+      &lt;a href=&#34;http://localhost:1313/oeb/dev/OEB-Current-US.txt&#34; onclick=&#34;javascript: _gaq.push([&#39;_trackPageview&#39;, &#39;/downloads/OEB-Current-US.txt&#39;]);&#34; rel=&#34;external&#34;&gt;Text&lt;/a&gt;, 
+      &lt;a href=&#34;http://localhost:1313/oeb/dev/OEB-Current-US.rtf&#34; onclick=&#34;javascript: _gaq.push([&#39;_trackPageview&#39;, &#39;/downloads/OEB-Current-US.rtf&#39;]);&#34; rel=&#34;external&#34;&gt;Microsoft Word&lt;/a&gt;
+      &lt;br&gt;
+      &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;eBooks: 
+      EPub, 
+      Kindle
+      &lt;br&gt;
+      &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Source: 
+      &lt;a href=&#34;http://localhost:1313/oeb/dev/OEB-Current-US.usfm.zip&#34; onclick=&#34;javascript: _gaq.push([&#39;_trackPageview&#39;, &#39;/downloads/OEB-Current-US.usfm.zip&#39;]);&#34; rel=&#34;external&#34;&gt;USFM&lt;/a&gt; (zip)
+      &lt;br&gt;
+      &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 
+      &lt;a href=&#34;http://localhost:1313/oeb/dev/OEB-Current-US.html&#34; onclick=&#34;javascript: _gaq.push([&#39;_trackPageview&#39;, &#39;/downloads/OEB-Current-US.html&#39;]);&#34; rel=&#34;external&#34;&gt;Single html file for download&lt;/a&gt;
+    &lt;/h3&gt;
+    &lt;h3 class=&#34;subheader&#34;&gt;
+      Commonwealth Spelling:&lt;br&gt;
+      &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&#34;http://localhost:1313/oeb/2014.11/OEB-2014.11-Cth.pdf&#34; onclick=&#34;javascript: _gaq.push([&#39;_trackPageview&#39;, &#39;/downloads/OEB-2014.11-Cth.pdf&#39;]);&#34; rel=&#34;external&#34;&gt;PDF&lt;/a&gt;, 
+      &lt;a href=&#34;http://localhost:1313/oeb/dev/OEB-Current-Cth.txt&#34; onclick=&#34;javascript: _gaq.push([&#39;_trackPageview&#39;, &#39;/downloads/OEB-Current-Cth.txt&#39;]);&#34; rel=&#34;external&#34;&gt;Text&lt;/a&gt;, 
+      &lt;a href=&#34;http://localhost:1313/oeb/dev/OEB-Current-Cth.doc&#34; onclick=&#34;javascript: _gaq.push([&#39;_trackPageview&#39;, &#39;/downloads/OEB-Current-Cth.rtf&#39;]);&#34; rel=&#34;external&#34;&gt;Microsoft Word&lt;/a&gt;
+      &lt;br&gt;
+      &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;eBooks: 
+      EPub, 
+      Kindle
+      &lt;br&gt;
+      &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Source: 
+      &lt;a href=&#34;http://localhost:1313/oeb/dev/OEB-Current-Cth.usfm.zip&#34; onclick=&#34;javascript: _gaq.push([&#39;_trackPageview&#39;, &#39;/downloads/OEB-Current-Cth.usfm.zip&#39;]);&#34; rel=&#34;external&#34;&gt;USFM&lt;/a&gt; (zip)
+      &lt;br&gt;
+      &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;
+      &lt;a href=&#34;http://localhost:1313/oeb/dev/OEB-Current-Cth.html&#34; onclick=&#34;javascript: _gaq.push([&#39;_trackPageview&#39;, &#39;/downloads/OEB-Current-Cth.html&#39;]);&#34; rel=&#34;external&#34;&gt;Single html file for download&lt;/a&gt;
+    &lt;/h3&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;h2&gt;All Books&lt;/h2&gt;
 
 &lt;style&gt;
 .header { color: #ffffff; background-color: #8fadcc; }
@@ -54,9 +125,9 @@
 .released { color:green; }
 &lt;/style&gt;
 
-&lt;p&gt;This is the development page for the Open English Bible. Each book is here, with links to Word docx files and to the original marked up USFM on Github. Books are marked as being &lt;span class=&#34;absent&#34;&gt;absent&lt;/span&gt;, &lt;span class=&#34;partial&#34;&gt;partial&lt;/span&gt;, &lt;span class=&#34;unchecked&#34;&gt;unchecked&lt;/span&gt;, &lt;span class=&#34;checked&#34;&gt;checked&lt;/span&gt;, &lt;span class=&#34;released&#34;&gt;released&lt;/span&gt;. Unless the book has been released (and is in the main build) please treat it with caution as it probably contains errors. In particular, books marked &lt;span class=&#34;partial&#34;&gt;partial&lt;/span&gt; or &lt;span class=&#34;unchecked&#34;&gt;unchecked&lt;/span&gt; could contain almost anything, including missing verses, egregious translation errors and disparaging references to penguins.&lt;/p&gt;
-
-&lt;p&gt;If you would like to help out, the steps are first to join the forum, then secondly to help check one of the books not yet in release.&lt;/p&gt;
+&lt;p&gt;Each book being worked on is here, with links to rtf files and to the original marked up USFM on Github.&lt;/p&gt;
+  
+&lt;p&gt;Books are marked as being &lt;span class=&#34;absent&#34;&gt;absent&lt;/span&gt;, &lt;span class=&#34;partial&#34;&gt;partial&lt;/span&gt;, &lt;span class=&#34;unchecked&#34;&gt;unchecked&lt;/span&gt;, &lt;span class=&#34;checked&#34;&gt;checked&lt;/span&gt;, &lt;span class=&#34;released&#34;&gt;released&lt;/span&gt;. Unless the book has been released (and is in the main build) please treat it with caution as it probably contains errors. In particular, books marked &lt;span class=&#34;partial&#34;&gt;partial&lt;/span&gt; or &lt;span class=&#34;unchecked&#34;&gt;unchecked&lt;/span&gt; could contain almost anything, including missing verses, egregious translation errors and disparaging references to penguins.&lt;/p&gt;
 
 &lt;table style=&#34;border-spacing: 10px;&#34;&gt;&lt;tr class=&#34;header&#34;&gt;&lt;td colspan=&#34;5&#34;&gt;Pentateuch&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;
         &lt;td&gt;
@@ -462,10 +533,10 @@
     
     <item>
       <title>Publications</title>
-      <link>http://openenglishbible.org/publications/</link>
+      <link>http://localhost:1313/publications/</link>
       <pubDate>Sat, 05 Dec 2015 23:07:29 +1100</pubDate>
       
-      <guid>http://openenglishbible.org/publications/</guid>
+      <guid>http://localhost:1313/publications/</guid>
       <description>&lt;div id=&#34;mainrow&#34; class=&#34;row&#34;&gt;
   &lt;h1&gt;How other people have used the Open English Bible&lt;/h1&gt;
   &lt;p&gt;The OEB has from the start been intended to be more than just another translation. We anticipate it being the base for many translations. The text of the OEB is as free from restriction as we can make it, so that anyone can take it and use it as their own beliefs and conscience dictate — without requiring our permission or approval.&lt;/p&gt;
@@ -474,7 +545,7 @@
 
 &lt;div id=&#34;mainrow&#34; class=&#34;row&#34;&gt;
   &lt;div class=&#34;medium-4 columns&#34;&gt;
-    &lt;a href=&#34;http://www.amazon.com/New-Testament-Combining-Traditional-Discovered/dp/0547792107/ref=tmm_hrd_title_0&#34;&gt;&lt;img src=&#34;http://openenglishbible.org/img/new-new-testament.jpg&#34; height=&#34;377px&#34; width=&#34;250px&#34;&gt;&lt;/a&gt;
+    &lt;a href=&#34;http://www.amazon.com/New-Testament-Combining-Traditional-Discovered/dp/0547792107/ref=tmm_hrd_title_0&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/new-new-testament.jpg&#34; height=&#34;377px&#34; width=&#34;250px&#34;&gt;&lt;/a&gt;
   &lt;/div&gt;
   &lt;div class=&#34;medium-8 columns&#34;&gt;
       &lt;h2 class=&#34;subheader&#34;&gt;A New New Testament&lt;/h2&gt;
@@ -492,7 +563,7 @@
 &lt;p&gt;
 &lt;div id=&#34;mainrow&#34; class=&#34;row&#34;&gt;
   &lt;div class=&#34;medium-4 columns&#34;&gt;
-    &lt;a href=&#34;http://www.amazon.com/Adventing-Christmas-meaningful-activities-reflections-ebook/dp/B017YYLPFS/&#34;&gt;&lt;img src=&#34;http://openenglishbible.org/img/adventing.jpg&#34; height=&#34;377px&#34; width=&#34;250px&#34;&gt;&lt;/a&gt;
+    &lt;a href=&#34;http://www.amazon.com/Adventing-Christmas-meaningful-activities-reflections-ebook/dp/B017YYLPFS/&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/adventing.jpg&#34; height=&#34;377px&#34; width=&#34;250px&#34;&gt;&lt;/a&gt;
   &lt;/div&gt;
   &lt;div class=&#34;medium-8 columns&#34;&gt;
 	  &lt;h2 class=&#34;subheader&#34;&gt;Adventing - a journey to Christmas:&lt;br&gt;&lt;small&gt;Simple, meaningful, Biblical, joyful activities and reflections for families with children aged 3-7.&lt;/small&gt;&lt;/h2&gt;
@@ -510,7 +581,7 @@
 &lt;p&gt;
 &lt;div id=&#34;mainrow&#34; class=&#34;row&#34;&gt;
   &lt;div class=&#34;medium-4 columns&#34;&gt;
-    &lt;a href=&#34;http://www.amazon.com/gp/product/B00DRQDZ2O/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00DRQDZ2O&amp;linkCode=as2&amp;tag=theligh0e-20&#34;&gt;&lt;img src=&#34;http://openenglishbible.org/img/jefferson.jpg&#34; height=&#34;377px&#34; width=&#34;250px&#34;&gt;&lt;/a&gt;
+    &lt;a href=&#34;http://www.amazon.com/gp/product/B00DRQDZ2O/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00DRQDZ2O&amp;linkCode=as2&amp;tag=theligh0e-20&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/jefferson.jpg&#34; height=&#34;377px&#34; width=&#34;250px&#34;&gt;&lt;/a&gt;
   &lt;/div&gt;
   &lt;div class=&#34;medium-8 columns&#34;&gt;
     &lt;h2 class=&#34;subheader&#34;&gt;The New Jefferson Bible&lt;br&gt;&lt;small&gt;The Life and Morals of Jesus of Nazareth in Modern English&lt;/small&gt;&lt;/h2&gt;
@@ -528,10 +599,10 @@
     
     <item>
       <title>FAQ</title>
-      <link>http://openenglishbible.org/faq/</link>
+      <link>http://localhost:1313/faq/</link>
       <pubDate>Sat, 05 Dec 2015 22:56:47 +1100</pubDate>
       
-      <guid>http://openenglishbible.org/faq/</guid>
+      <guid>http://localhost:1313/faq/</guid>
       <description>&lt;div id=&#34;mainrow&#34; class=&#34;row&#34;&gt;
   &lt;div class=&#34;medium-12 columns&#34;&gt;
 	  &lt;h1&gt;Frequently Asked Questions&lt;/h1&gt;
@@ -693,19 +764,19 @@
     
     <item>
       <title>index</title>
-      <link>http://openenglishbible.org/</link>
+      <link>http://localhost:1313/</link>
       <pubDate>Sat, 05 Dec 2015 22:50:04 +1100</pubDate>
       
-      <guid>http://openenglishbible.org/</guid>
+      <guid>http://localhost:1313/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OEB (2014.11) - &#39;Julia E Smith&#39; Release</title>
-      <link>http://openenglishbible.org/blog/new-release-14/</link>
+      <link>http://localhost:1313/blog/new-release-14/</link>
       <pubDate>Sat, 06 Dec 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://openenglishbible.org/blog/new-release-14/</guid>
+      <guid>http://localhost:1313/blog/new-release-14/</guid>
       <description>&lt;p&gt;We’re pleased to announce a new release of the OEB, including the New Testament and Psalms and available from the front page of the Open English Bible website at &lt;a href=&#34;http://openenglishbible.org&#34;&gt;http://openenglishbible.org&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;This release is the first in a line of releases to include more books from the Hebrew Bible/Old Testament. In this release we have included Ruth, and Esther.&lt;/p&gt;
@@ -716,10 +787,10 @@
     
     <item>
       <title>New Release of Open English Bible</title>
-      <link>http://openenglishbible.org/blog/new-release-13/</link>
+      <link>http://localhost:1313/blog/new-release-13/</link>
       <pubDate>Sat, 16 Nov 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://openenglishbible.org/blog/new-release-13/</guid>
+      <guid>http://localhost:1313/blog/new-release-13/</guid>
       <description>&lt;p&gt;We’re pleased to announce a new release of the OEB, including the New Testament and Psalms and available from the front page of the Open English Bible website at &lt;a href=&#34;http://openenglishbible.org/&#34;&gt;http://openenglishbible.org&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;This release is part of our new release policy. We aim to put out a new revision of the OEB four times a year - roughly January, April, July, October. Yes, we are a little bit late this release :)&lt;/p&gt;
@@ -730,24 +801,24 @@
     
     <item>
       <title>New Development Build</title>
-      <link>http://openenglishbible.org/blog/new-dev-build-13/</link>
+      <link>http://localhost:1313/blog/new-dev-build-13/</link>
       <pubDate>Sun, 19 May 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://openenglishbible.org/blog/new-dev-build-13/</guid>
+      <guid>http://localhost:1313/blog/new-dev-build-13/</guid>
       <description>&lt;p&gt;Work on the OEB is done in the open - you can follow it on the &lt;a href=&#34;https://github.com/openenglishbible/Open-English-Bible&#34;&gt;GitHub repository&lt;/a&gt; (if you are geeky), on the &lt;a href=&#34;http://forum.openenglishbible.org/&#34;&gt;mailing list/forum&lt;/a&gt; and on a regular basis we try to build a development version. These development versions have books in them which aren’t yet ready for wide release, so they’re not appropriate for a worship or study context. But if you want to keep track of what’s happening, or want to help out, then why not go to the &lt;a href=&#34;http://openenglishbible.org/development/&#34;&gt;development page&lt;/a&gt;, join the forum and help build a new type of Bible translation!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A New New Testament by Hal Taussig</title>
-      <link>http://openenglishbible.org/blog/new-new-testament/</link>
+      <link>http://localhost:1313/blog/new-new-testament/</link>
       <pubDate>Sat, 09 Mar 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://openenglishbible.org/blog/new-new-testament/</guid>
+      <guid>http://localhost:1313/blog/new-new-testament/</guid>
       <description>&lt;p&gt;
 &lt;figure class=&#34;blogpic&#34;&gt;
     
-        &lt;img src=&#34;http://openenglishbible.org/img/new-new-testament.jpg&#34; alt=&#34;A New New Testament book cover&#34; /&gt;
+        &lt;img src=&#34;http://localhost:1313/img/new-new-testament.jpg&#34; alt=&#34;A New New Testament book cover&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -764,10 +835,10 @@ The OEB has from the start been intended to be more than just another translatio
     
     <item>
       <title>Mailing list and forum</title>
-      <link>http://openenglishbible.org/blog/mailing-list-forum/</link>
+      <link>http://localhost:1313/blog/mailing-list-forum/</link>
       <pubDate>Wed, 12 Sep 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://openenglishbible.org/blog/mailing-list-forum/</guid>
+      <guid>http://localhost:1313/blog/mailing-list-forum/</guid>
       <description>&lt;p&gt;For a while now, development of the OEB has taken place by an ad-hoc network of emails. For a while the issues list on Github was being used to handle changes, but that fell into disuse.&lt;/p&gt;
 
 &lt;p&gt;Neither of these two methods is really satisfactory - emails rely too much on a single person, and the issues list was too constraining in terms of conversations, and didn’t provide the human interaction that it vital for a proper community.&lt;/p&gt;
@@ -778,10 +849,10 @@ The OEB has from the start been intended to be more than just another translatio
     
     <item>
       <title>Work continues...</title>
-      <link>http://openenglishbible.org/blog/work-continues-12/</link>
+      <link>http://localhost:1313/blog/work-continues-12/</link>
       <pubDate>Wed, 22 Aug 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://openenglishbible.org/blog/work-continues-12/</guid>
+      <guid>http://localhost:1313/blog/work-continues-12/</guid>
       <description>&lt;p&gt;Although things may appear on the surface to be moving slowly, progress continues on improving the Open English Bible. From now on, when books from the Old Testament are considered to be in a suitable state for wider reading, they will be linked to from the front page in PDF form.&lt;/p&gt;
 
 &lt;p&gt;So far, the Psalms and the book of Ruth have been added, but more are in the pipeline.&lt;/p&gt;
@@ -794,10 +865,10 @@ The OEB has from the start been intended to be more than just another translatio
     
     <item>
       <title>Sword module now available!</title>
-      <link>http://openenglishbible.org/blog/sword%20module/</link>
+      <link>http://localhost:1313/blog/sword%20module/</link>
       <pubDate>Sun, 11 Mar 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://openenglishbible.org/blog/sword%20module/</guid>
+      <guid>http://localhost:1313/blog/sword%20module/</guid>
       <description>&lt;p&gt;Thanks to the fabulous work of Chris Little from &lt;a href=&#34;http://www.crosswire.org/index.jsp&#34;&gt;Crosswire&lt;/a&gt;, we now have a Sword module for both the &lt;a href=&#34;http://www.crosswire.org/sword/modules/ModInfo.jsp?modName=OEB&#34;&gt;US&lt;/a&gt; and &lt;a href=&#34;http://www.crosswire.org/sword/modules/ModInfo.jsp?modName=OEBcth&#34;&gt;Commonwealth&lt;/a&gt; spelling. Thanks Chris!&lt;/p&gt;
 
 &lt;p&gt;Sword is the premiere free and open source Bible study software, with versions for &lt;a href=&#34;http://www.crosswire.org/applications.jsp?section=Windows&#34;&gt;Windows&lt;/a&gt;, &lt;a href=&#34;http://macsword.com/&#34;&gt;Mac&lt;/a&gt; and &lt;a href=&#34;http://crosswire.org/pocketsword/PocketSword/PocketSword/PocketSword.html&#34;&gt;iPhone/iPad&lt;/a&gt;.&lt;/p&gt;
@@ -806,10 +877,10 @@ The OEB has from the start been intended to be more than just another translatio
     
     <item>
       <title>Happy Christmas!</title>
-      <link>http://openenglishbible.org/blog/happy-christmas-11/</link>
+      <link>http://localhost:1313/blog/happy-christmas-11/</link>
       <pubDate>Sun, 25 Dec 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://openenglishbible.org/blog/happy-christmas-11/</guid>
+      <guid>http://localhost:1313/blog/happy-christmas-11/</guid>
       <description>&lt;p&gt;Happy Christmas to you all!&lt;/p&gt;
 
 &lt;p&gt;And thanks for everyone’s support and help throughout the year. It is because of that help that we have moved to the absolutely free CC0 licence, have made many improvements to the New Testament, started on a translation of the Book of Psalms and have created modules for Bible study software such as TheWord.&lt;/p&gt;
@@ -820,20 +891,20 @@ The OEB has from the start been intended to be more than just another translatio
     
     <item>
       <title>OEB module for TheWord software!</title>
-      <link>http://openenglishbible.org/blog/oeb-module-theword/</link>
+      <link>http://localhost:1313/blog/oeb-module-theword/</link>
       <pubDate>Sun, 18 Dec 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://openenglishbible.org/blog/oeb-module-theword/</guid>
+      <guid>http://localhost:1313/blog/oeb-module-theword/</guid>
       <description>&lt;p&gt;TheWord software is a great Bible study program for Windows available without cost from &lt;a href=&#34;http://www.theword.net/&#34;&gt;www.theword.net&lt;/a&gt; with a number of translations, dictionaries and tools available both for free and commercially. The OEB is now available as a free module for TheWord - &lt;a href=&#34;http://www.theword.net/index.php?downloads.modules&amp;amp;l=english&#34;&gt;download it now&lt;/a&gt; for either US or Commonwealth spelling! Many thanks go to Martin for his hard word in the conversion and to Costas from TheWord for his help in making this available.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Psalms</title>
-      <link>http://openenglishbible.org/blog/psalms/</link>
+      <link>http://localhost:1313/blog/psalms/</link>
       <pubDate>Tue, 06 Dec 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://openenglishbible.org/blog/psalms/</guid>
+      <guid>http://localhost:1313/blog/psalms/</guid>
       <description>&lt;p&gt;Work continues apace on improving the naturalness and accuracy of the OEB translation of the New Testament. As well, we are working on providing the OEB in more formats, including formats such as TheWord and Sword modules.&lt;/p&gt;
 
 &lt;p&gt;However, it has always been the aim of the OEB project to move beyond the New Testament and a number of options have been investigated over the last year.&lt;/p&gt;
