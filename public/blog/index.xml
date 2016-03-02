@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Welcome</title>
-    <link>http://localhost:1313/blog/</link>
+    <link>http://openenglishbible.org/blog/</link>
     <description>Recent content in Blogs on Welcome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 07 Dec 2015 11:13:56 +1100</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://openenglishbible.org/blog/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Welcome to the Open English Bible</title>
-      <link>http://localhost:1313/blog/welcome/</link>
+      <link>http://openenglishbible.org/blog/welcome/</link>
       <pubDate>Mon, 22 Mar 2010 23:18:26 +1100</pubDate>
       
-      <guid>http://localhost:1313/blog/welcome/</guid>
+      <guid>http://openenglishbible.org/blog/welcome/</guid>
       <description>&lt;p&gt;The Open English Bible is the anticipated end product of a project intended to create an English translation of the Bible that is:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -28,10 +28,10 @@
     
     <item>
       <title>August Update</title>
-      <link>http://localhost:1313/blog/august-update-10/</link>
+      <link>http://openenglishbible.org/blog/august-update-10/</link>
       <pubDate>Sun, 01 Aug 2010 08:20:48 +1100</pubDate>
       
-      <guid>http://localhost:1313/blog/august-update-10/</guid>
+      <guid>http://openenglishbible.org/blog/august-update-10/</guid>
       <description>&lt;p&gt;Work continues at the Github repository. An increasing amount of infrastructure is taking shape, with the priority now being to get the underlying source of the Twentieth Century New Testament in suitable shape to build the entire NT.
 The aim is that by the start of September, there will be a fully built TCNT to look at with initial updates applied to all the books.&lt;/p&gt;
 </description>
@@ -39,10 +39,10 @@ The aim is that by the start of September, there will be a fully built TCNT to l
     
     <item>
       <title>Initial working release of NT</title>
-      <link>http://localhost:1313/blog/initial-working-release-nt/</link>
+      <link>http://openenglishbible.org/blog/initial-working-release-nt/</link>
       <pubDate>Sat, 07 Aug 2010 08:12:17 +1100</pubDate>
       
-      <guid>http://localhost:1313/blog/initial-working-release-nt/</guid>
+      <guid>http://openenglishbible.org/blog/initial-working-release-nt/</guid>
       <description>&lt;p&gt;So that people can see progress, we’ve released a working release of the “Open English Bible”.&lt;/p&gt;
 
 &lt;p&gt;It comprises the base Twentieth Century New Testament text with formatting applied but with only very minimal textual changes.&lt;/p&gt;
@@ -62,20 +62,20 @@ This working release can be read online, with a simple html version also availab
     
     <item>
       <title>Another working release</title>
-      <link>http://localhost:1313/blog/another-working-update-10/</link>
+      <link>http://openenglishbible.org/blog/another-working-update-10/</link>
       <pubDate>Sat, 14 Aug 2010 08:31:16 +1100</pubDate>
       
-      <guid>http://localhost:1313/blog/another-working-update-10/</guid>
+      <guid>http://openenglishbible.org/blog/another-working-update-10/</guid>
       <description>&lt;p&gt;In the spirit of ‘release early, release often’, we’ve released a new working copy. The residual Elizabethan pronouns have been removed throughout the entire NT, and gradual improvements in language continue to be made. Check it out!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Updating hyphenation</title>
-      <link>http://localhost:1313/blog/updating-hyphenation/</link>
+      <link>http://openenglishbible.org/blog/updating-hyphenation/</link>
       <pubDate>Sun, 29 Aug 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/updating-hyphenation/</guid>
+      <guid>http://openenglishbible.org/blog/updating-hyphenation/</guid>
       <description>&lt;p&gt;Since the Edwardian period, hyphenation and capitalisation standards have changed. This new working version continues to improve the OEB by updating many of these nagging issues. Check it out!&lt;/p&gt;
 
 &lt;p&gt;As usual, this working release can be &lt;a href=&#34;http://openenglishbible.org/read/&#34;&gt;read online&lt;/a&gt;, with a simple html version &lt;a href=&#34;http://openenglishbible.org/read/simple/&#34;&gt;also available&lt;/a&gt; or can be downloaded as a &lt;a href=&#34;http://github.com/downloads/openenglishbible/Open-English-Bible/OEB-NT-Working-3.pdf&#34;&gt;PDF file&lt;/a&gt;.&lt;/p&gt;
@@ -84,10 +84,10 @@ This working release can be read online, with a simple html version also availab
     
     <item>
       <title>Spelling, punctuation and gender</title>
-      <link>http://localhost:1313/blog/spelling-punctuation-gender/</link>
+      <link>http://openenglishbible.org/blog/spelling-punctuation-gender/</link>
       <pubDate>Fri, 03 Sep 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/spelling-punctuation-gender/</guid>
+      <guid>http://openenglishbible.org/blog/spelling-punctuation-gender/</guid>
       <description>&lt;p&gt;We’re moving on - quality is improving as we tackle spelling and punctuation issues. Betrothal has been replaced with engagement and we bid farewell to our only usage of ‘beseech’. I beseech you: think kindly of the word as it slips into a well-earned retirement.&lt;/p&gt;
 
 &lt;p&gt;As well a first pass of updating gender-related language in John has been made - this means that the overly gendered language of the Edwardian era TCNT has been updated in all four gospels.&lt;/p&gt;
@@ -98,20 +98,20 @@ This working release can be read online, with a simple html version also availab
     
     <item>
       <title>The Power of Plain Text</title>
-      <link>http://localhost:1313/blog/power-of-plain-text/</link>
+      <link>http://openenglishbible.org/blog/power-of-plain-text/</link>
       <pubDate>Fri, 17 Sep 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/power-of-plain-text/</guid>
+      <guid>http://openenglishbible.org/blog/power-of-plain-text/</guid>
       <description>&lt;p&gt;The easiest way to start looking at the text of the Open English Bible is with &lt;a href=&#34;http://openenglishbible.org/blog/files/read/OEB-NT-Current.txt&#34;&gt;a copy in plain text&lt;/a&gt; (actually between you and me its valid Markdown). This also is a simple way to submit suggested changes - send me a copy of the plain text you downloaded and also a copy of your amended version. Email address is at the bottom of the page.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Welcome to 2011</title>
-      <link>http://localhost:1313/blog/welcome%20to%202011/</link>
+      <link>http://openenglishbible.org/blog/welcome%20to%202011/</link>
       <pubDate>Mon, 03 Jan 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/welcome%20to%202011/</guid>
+      <guid>http://openenglishbible.org/blog/welcome%20to%202011/</guid>
       <description>&lt;p&gt;Welcome to 2011! I hope you had a great Christmas.&lt;/p&gt;
 
 &lt;p&gt;Work on the OEB continues apace. The first pass of updating gender related language now covers all four Gospels, Acts and Romans with more to come.&lt;/p&gt;
@@ -124,10 +124,10 @@ This working release can be read online, with a simple html version also availab
     
     <item>
       <title>Rapid progress!</title>
-      <link>http://localhost:1313/blog/rapid-progress/</link>
+      <link>http://openenglishbible.org/blog/rapid-progress/</link>
       <pubDate>Thu, 13 Jan 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/rapid-progress/</guid>
+      <guid>http://openenglishbible.org/blog/rapid-progress/</guid>
       <description>&lt;p&gt;After a slow start to the project, we are now cooking with gas.&lt;/p&gt;
 
 &lt;p&gt;A full first pass of the New Testament has been made. This includes formatting, and updating capitalisation and hyphenation; but also includes removing the TCNT’s residual Elizabethan English and modernising the use of grammatical gender in line with current mainstream translations such as the REB and the newly revised NIV.&lt;/p&gt;
@@ -142,10 +142,10 @@ This working release can be read online, with a simple html version also availab
     
     <item>
       <title>How to help</title>
-      <link>http://localhost:1313/blog/how-to-help/</link>
+      <link>http://openenglishbible.org/blog/how-to-help/</link>
       <pubDate>Tue, 18 Jan 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/how-to-help/</guid>
+      <guid>http://openenglishbible.org/blog/how-to-help/</guid>
       <description>&lt;p&gt;It is always gratifying when people contact us and offer to help out with the OEB. Especially at this stage, proofreading is invaluable and we’d love all the help we can get - it is too easy to get lost in the text and overlook thing which are glaringly obvious to a new reader.&lt;/p&gt;
 
 &lt;p&gt;The question is always, though, how do I help?&lt;/p&gt;
@@ -160,10 +160,10 @@ This working release can be read online, with a simple html version also availab
     
     <item>
       <title>Keeping track</title>
-      <link>http://localhost:1313/blog/keeping-track/</link>
+      <link>http://openenglishbible.org/blog/keeping-track/</link>
       <pubDate>Sun, 30 Jan 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/keeping-track/</guid>
+      <guid>http://openenglishbible.org/blog/keeping-track/</guid>
       <description>&lt;p&gt;New working drafts of the OEB are continually being added to this site. In this stage of the OEB’s life, we aren’t widely promoting the OEB outside of this site, so here is the place to come to find what’s new.&lt;/p&gt;
 
 &lt;p&gt;The good news is that keeping track of the changes between working draft versions is easy. There are two main pages to keep an eye on.&lt;/p&gt;
@@ -178,10 +178,10 @@ This working release can be read online, with a simple html version also availab
     
     <item>
       <title>Our Facebook page</title>
-      <link>http://localhost:1313/blog/our-facebook-page/</link>
+      <link>http://openenglishbible.org/blog/our-facebook-page/</link>
       <pubDate>Mon, 07 Feb 2011 08:20:48 +1100</pubDate>
       
-      <guid>http://localhost:1313/blog/our-facebook-page/</guid>
+      <guid>http://openenglishbible.org/blog/our-facebook-page/</guid>
       <description>&lt;p&gt;We now have a Facebook page - &lt;a href=&#34;http://www.facebook.com/#!/pages/Open-English-Bible/191330814219131&#34;&gt;Open English Bible on Facebook&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Check it out to keep track of our releases and progress, to start conversations, and to be part of the open content revolution&amp;hellip;&lt;/p&gt;
@@ -190,10 +190,10 @@ This working release can be read online, with a simple html version also availab
     
     <item>
       <title>The OEB moves to CC0</title>
-      <link>http://localhost:1313/blog/move-to-cc0/</link>
+      <link>http://openenglishbible.org/blog/move-to-cc0/</link>
       <pubDate>Mon, 07 Feb 2011 09:20:48 +1100</pubDate>
       
-      <guid>http://localhost:1313/blog/move-to-cc0/</guid>
+      <guid>http://openenglishbible.org/blog/move-to-cc0/</guid>
       <description>&lt;p&gt;Since the Open English Bible was started as a project, it has been released under the Creative Commons Attribution Licence - &lt;a href=&#34;http://creativecommons.org/licenses/by/3.0/&#34;&gt;CC-BY&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;The aim of the OEB has always been, as much as possible, to remove questions of law from the translation and publication of the Bible. At the time we started, the CC-BY licence was the freest choice. It allowed complete reuse, including (most importantly), the right to take the OEB and create your own translation embodying your own translation choices.&lt;/p&gt;
@@ -210,10 +210,10 @@ This working release can be read online, with a simple html version also availab
     
     <item>
       <title>Issues in translation: Matt 6:22-23</title>
-      <link>http://localhost:1313/blog/matt-622/</link>
+      <link>http://openenglishbible.org/blog/matt-622/</link>
       <pubDate>Sat, 12 Mar 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/matt-622/</guid>
+      <guid>http://openenglishbible.org/blog/matt-622/</guid>
       <description>&lt;p&gt;In the current draft of the OEB, Matthew 6:22-23 reads:&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;The lamp of the body is the eye. If your eye is unclouded, your whole body will be lit up; but, if your eye is diseased, your whole body will be darkened. And, if the inner light is darkness, how intense must that darkness be!&lt;/em&gt;&lt;/p&gt;
@@ -226,10 +226,10 @@ This working release can be read online, with a simple html version also availab
     
     <item>
       <title>Main OEB now uses US spelling</title>
-      <link>http://localhost:1313/blog/main-oeb-us-spelling/</link>
+      <link>http://openenglishbible.org/blog/main-oeb-us-spelling/</link>
       <pubDate>Sun, 13 Mar 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/main-oeb-us-spelling/</guid>
+      <guid>http://openenglishbible.org/blog/main-oeb-us-spelling/</guid>
       <description>&lt;p&gt;The base on which the OEB is built, the groundbreaking ‘20th Century New Testament’, was the labour of love of a number of English translators at the turn of the century. As as result, the OEB up until now has used Oxford spelling - words such as realise, Saviour and, well, labour abounded.&lt;/p&gt;
 
 &lt;p&gt;Given the position of the US as the largest English speaking community (at least as a first language), it has long been our intent to have the OEB primarily in US spelling, with a Commonwealth spelling version also available.&lt;/p&gt;
