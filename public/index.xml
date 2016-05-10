@@ -59,7 +59,7 @@
   &lt;h2&gt;
   Get your Bible&lt;br&gt;
   &lt;small&gt;(Release Current - NT, Psalms and selected other OT books)&lt;br&gt;
-         (&#34;&lt;a href=&#34;https://en.wikipedia.org/wiki/Julia_E._Smith_Parker_Translation&#34;&gt;Julia E Smith&lt;/a&gt;&#34; Release)
+         (Development Build of next Release)
   &lt;/small&gt;
 &lt;/h2&gt;
 &lt;ul&gt;
@@ -82,12 +82,11 @@
       &lt;a href=&#34;http://openenglishbible.org/beta/oeb/dev/OEB-Current-US.rtf&#34; onclick=&#34;javascript: _gaq.push([&#39;_trackPageview&#39;, &#39;/downloads/OEB-Current-US.rtf&#39;]);&#34; rel=&#34;external&#34;&gt;Microsoft Word&lt;/a&gt;
       &lt;br&gt;
       &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;eBooks: 
-      EPub, 
-      Kindle
+      &lt;a href=&#34;http://openenglishbible.org/beta/oeb/dev/OEB-Current-US.epub&#34; onclick=&#34;javascript: _gaq.push([&#39;_trackPageview&#39;, &#39;/downloads/OEB-Current-US.epub&#39;]);&#34; rel=&#34;external&#34;&gt;EPub&lt;/a&gt;, 
+      &lt;a href=&#34;http://openenglishbible.org/beta/oeb/dev/OEB-Current-US.mobi&#34; onclick=&#34;javascript: _gaq.push([&#39;_trackPageview&#39;, &#39;/downloads/OEB-Current-US.mobi&#39;]);&#34; rel=&#34;external&#34;&gt;Kindle&lt;/a&gt;
       &lt;br&gt;
       &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Software: 
-      &lt;a href=&#34;http://openenglishbible.org/beta/oeb/dev/OEB-Current-US.accordance.txt&#34; onclick=&#34;javascript: _gaq.push([&#39;_trackPageview&#39;, &#39;/downloads/OEB-Current-US.accordance.txt&#39;]);&#34; rel=&#34;external&#34;&gt;Accordance&lt;/a&gt;, 
-      Kindle
+      &lt;a href=&#34;http://openenglishbible.org/beta/oeb/dev/OEB-Current-US.accordance.txt&#34; onclick=&#34;javascript: _gaq.push([&#39;_trackPageview&#39;, &#39;/downloads/OEB-Current-US.accordance.txt&#39;]);&#34; rel=&#34;external&#34;&gt;Accordance&lt;/a&gt;
       &lt;br&gt;
       &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Source: 
       &lt;a href=&#34;http://openenglishbible.org/beta/oeb/dev/OEB-Current-US.usfm.zip&#34; onclick=&#34;javascript: _gaq.push([&#39;_trackPageview&#39;, &#39;/downloads/OEB-Current-US.usfm.zip&#39;]);&#34; rel=&#34;external&#34;&gt;USFM&lt;/a&gt; (zip)
@@ -97,17 +96,16 @@
     &lt;/h3&gt;
     &lt;h3 class=&#34;subheader&#34;&gt;
       Commonwealth Spelling:&lt;br&gt;
-      &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&#34;http://openenglishbible.org/beta/oeb/2014.11/OEB-2014.11-Cth.pdf&#34; onclick=&#34;javascript: _gaq.push([&#39;_trackPageview&#39;, &#39;/downloads/OEB-2014.11-Cth.pdf&#39;]);&#34; rel=&#34;external&#34;&gt;PDF&lt;/a&gt;, 
+      &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&#34;http://openenglishbible.org/beta/oeb/dev/OEB-Current-Cth.pdf&#34; onclick=&#34;javascript: _gaq.push([&#39;_trackPageview&#39;, &#39;/downloads/OEB-Current-Cth.pdf&#39;]);&#34; rel=&#34;external&#34;&gt;PDF&lt;/a&gt;, 
       &lt;a href=&#34;http://openenglishbible.org/beta/oeb/dev/OEB-Current-Cth.txt&#34; onclick=&#34;javascript: _gaq.push([&#39;_trackPageview&#39;, &#39;/downloads/OEB-Current-Cth.txt&#39;]);&#34; rel=&#34;external&#34;&gt;Text&lt;/a&gt;, 
       &lt;a href=&#34;http://openenglishbible.org/beta/oeb/dev/OEB-Current-Cth.doc&#34; onclick=&#34;javascript: _gaq.push([&#39;_trackPageview&#39;, &#39;/downloads/OEB-Current-Cth.rtf&#39;]);&#34; rel=&#34;external&#34;&gt;Microsoft Word&lt;/a&gt;
       &lt;br&gt;
       &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;eBooks: 
-      EPub, 
-      Kindle
+      &lt;a href=&#34;http://openenglishbible.org/beta/oeb/dev/OEB-Current-Cth.epub&#34; onclick=&#34;javascript: _gaq.push([&#39;_trackPageview&#39;, &#39;/downloads/OEB-Current-Cth.epub&#39;]);&#34; rel=&#34;external&#34;&gt;EPub&lt;/a&gt;, 
+      &lt;a href=&#34;http://openenglishbible.org/beta/oeb/dev/OEB-Current-Cth.mobi&#34; onclick=&#34;javascript: _gaq.push([&#39;_trackPageview&#39;, &#39;/downloads/OEB-Current-Cth.mobi&#39;]);&#34; rel=&#34;external&#34;&gt;Kindle&lt;/a&gt;
       &lt;br&gt;
       &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Software: 
-      &lt;a href=&#34;http://openenglishbible.org/beta/oeb/dev/OEB-Current-Cth.accordance.txt&#34; onclick=&#34;javascript: _gaq.push([&#39;_trackPageview&#39;, &#39;/downloads/OEB-Current-Cth.accordance.txt&#39;]);&#34; rel=&#34;external&#34;&gt;Accordance&lt;/a&gt;, 
-      Kindle
+      &lt;a href=&#34;http://openenglishbible.org/beta/oeb/dev/OEB-Current-Cth.accordance.txt&#34; onclick=&#34;javascript: _gaq.push([&#39;_trackPageview&#39;, &#39;/downloads/OEB-Current-Cth.accordance.txt&#39;]);&#34; rel=&#34;external&#34;&gt;Accordance&lt;/a&gt;
       &lt;br&gt;
       &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Source: 
       &lt;a href=&#34;http://openenglishbible.org/beta/oeb/dev/OEB-Current-Cth.usfm.zip&#34; onclick=&#34;javascript: _gaq.push([&#39;_trackPageview&#39;, &#39;/downloads/OEB-Current-Cth.usfm.zip&#39;]);&#34; rel=&#34;external&#34;&gt;USFM&lt;/a&gt; (zip)
