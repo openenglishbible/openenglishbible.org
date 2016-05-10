@@ -1,16 +1,43 @@
 body {
     font-size:100%;
+    font-family: Georgia, serif;
+    font-style: normal;
 }
 
-h1 { font-size:1.6em; }
-h2 { font-size:1.2em; }
-h3 { font-size:1.0em; }
-p  { font-size:0.9em; }
-li { font-size:0.9em; }
+h1 {
+    font-family: Verdana, sans-serif;
+    font-style: normal;
+    font-size:1.6em; }
+h2 { 
+    font-family: Verdana, sans-serif;
+    font-style: normal;
+    font-size:1.2em; }
+h3 {
+    font-family: Verdana, sans-serif;
+    font-style: normal;
+    font-size:1.0em; }
+    
+
+    h2 small {
+        color: gray;
+    }
+
+.subheader {
+    color: black;
+    }
+    
+p  { font-size:1.0em; line-height: 1.4em; }
+li { font-size:1.0em; line-height: 1.4em; }
 
 a:link, a:visited {
 	color: #80A919;
 }
+
+.faq {
+    font-family: Verdana, sans-serif;
+    font-style: normal;
+    font-size:1.2em; 
+    color: grey; }
 
 #bar {
 	background-color: #ACD83E;
@@ -32,11 +59,14 @@ a:link, a:visited {
 
 #footer {
     padding: 20px;
+    font-size:0.8em;
+    font-family: Verdana, sans-serif;
 }
 
 #navcontainer {
 	list-style-type: none;
 	float: right;
+    padding-top: 50px;
 }
 
 #navcontainer ul {
@@ -55,7 +85,8 @@ a:link, a:visited {
 	text-decoration: none;
 	font-weight: normal;
 	font-size: 1.1em;
-    padding-top: 50px;
+    font-family: Verdana, sans-serif;
+    font-style: normal;
 }
 
 #navcontainer a:hover {
