@@ -1,20 +1,24 @@
 body {
     font-size:100%;
-    font-family: Georgia, serif;
+    font-family: "Mercury SSm A", "Mercury SSm B", Georgia, serif;
     font-style: normal;
+    font-weight: 400;
 }
 
 h1 {
-    font-family: Verdana, sans-serif;
+    font-family: "Whitney SSm A", "Whitney SSm B";
     font-style: normal;
+    font-weight: 500;
     font-size:1.6em; }
 h2 { 
-    font-family: Verdana, sans-serif;
+    font-family: "Whitney SSm A", "Whitney SSm B";
     font-style: normal;
+    font-weight: 400;
     font-size:1.2em; }
 h3 {
-    font-family: Verdana, sans-serif;
+    font-family: "Whitney SSm A", "Whitney SSm B";
     font-style: normal;
+    font-weight: 400;
     font-size:1.0em; }
     
 
@@ -26,16 +30,17 @@ h3 {
     color: black;
     }
     
-p  { font-size:1.0em; line-height: 1.4em; }
-li { font-size:1.0em; line-height: 1.4em; }
+p  { font-size:1.0em; line-height: 1.6em; }
+li { font-size:1.0em; line-height: 1.6em; }
 
 a:link, a:visited {
 	color: #80A919;
 }
 
 .faq {
-    font-family: Verdana, sans-serif;
+    font-family: "Whitney SSm A", "Whitney SSm B";
     font-style: normal;
+    font-weight: 400;
     font-size:1.2em; 
     color: grey; }
 
@@ -85,8 +90,9 @@ a:link, a:visited {
 	text-decoration: none;
 	font-weight: normal;
 	font-size: 1.1em;
-    font-family: Verdana, sans-serif;
+    font-family: "Whitney SSm A", "Whitney SSm B";
     font-style: normal;
+    font-weight: 400;
 }
 
 #navcontainer a:hover {
