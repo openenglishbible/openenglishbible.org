@@ -1,22 +1,22 @@
 body {
     font-size:100%;
-    font-family: "Mercury SSm A", "Mercury SSm B", Georgia, serif;
+    font-family: "Chronicle SSm A", "Chronicle SSm B", Georgia, serif;
     font-style: normal;
     font-weight: 400;
 }
 
 h1 {
-    font-family: "Whitney SSm A", "Whitney SSm B";
+    font-family: "Whitney SSm A", "Whitney SSm B", Verdana, sans-serif;
     font-style: normal;
-    font-weight: 500;
+    font-weight: 400;
     font-size:1.6em; }
 h2 { 
-    font-family: "Whitney SSm A", "Whitney SSm B";
+    font-family: "Whitney SSm A", "Whitney SSm B", Verdana, sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size:1.2em; }
 h3 {
-    font-family: "Whitney SSm A", "Whitney SSm B";
+    font-family: "Whitney SSm A", "Whitney SSm B", Verdana, sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size:1.0em; }
@@ -38,7 +38,7 @@ a:link, a:visited {
 }
 
 .faq {
-    font-family: "Whitney SSm A", "Whitney SSm B";
+    font-family: "Whitney SSm A", "Whitney SSm B", Verdana, sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size:1.2em; 
@@ -65,7 +65,8 @@ a:link, a:visited {
 #footer {
     padding: 20px;
     font-size:0.8em;
-    font-family: Verdana, sans-serif;
+    font-weight: 300;
+    font-family: "Whitney SSm A", "Whitney SSm B", Verdana, sans-serif;
 }
 
 #navcontainer {
@@ -90,7 +91,7 @@ a:link, a:visited {
 	text-decoration: none;
 	font-weight: normal;
 	font-size: 1.1em;
-    font-family: "Whitney SSm A", "Whitney SSm B";
+    font-family: "Whitney SSm A", "Whitney SSm B", Verdana, sans-serif;
     font-style: normal;
     font-weight: 400;
 }
