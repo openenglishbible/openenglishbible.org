@@ -4,15 +4,15 @@
   <div class="medium-8 columns">
 
 	   <h1 id="title">News</h1>
-	   
-	   {{ range first 1 .Data.Pages }}
-	       {{ .Render "summary" }}
+
+	   {{ range first 2 .Data.Pages }}
+	       {{ .Render "summary" }} <br>
 	   {{ end }}
-	   
+
   </div>
-  
+
   <div class="medium-4 columns">
-  
+
 	   <h2>Older news</h2>
 
 		{{ range(.Data.Pages.GroupByDate "Jan 2006" "asc").Reverse }}
@@ -23,7 +23,7 @@
 		    {{ end }}
 		</ul>
 		{{ end }}
-		
+
   </div>
 
 </div>

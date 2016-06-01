@@ -6,8 +6,34 @@
     <description>Recent content in Blogs on Welcome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Dec 2015 11:13:56 +1100</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jun 2016 13:52:59 +1000</lastBuildDate>
     <atom:link href="http://openenglishbible.org/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>2016.1 release of OEB</title>
+      <link>http://openenglishbible.org/blog/2016.1-release/</link>
+      <pubDate>Wed, 01 Jun 2016 13:52:59 +1000</pubDate>
+      
+      <guid>http://openenglishbible.org/blog/2016.1-release/</guid>
+      <description>&lt;p&gt;We’re pleased to announce a new release of the OEB, including the New Testament and Psalms and available from the front page of the Open English Bible website at &lt;a href=&#34;http://openenglishbible.org&#34;&gt;http://openenglishbible.org&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;We have dedicated this release to &lt;a href=&#34;http://ilovetypography.com/2014/12/10/first-bible-set-roman-type/&#34;&gt;Konrad Sweynheym and Arnold Pannartz&lt;/a&gt;, who were the first printers (in around 1470) to print a Bible in Roman text and not Blackletter.  Better reading through technology!&lt;/p&gt;
+
+&lt;p&gt;Some of the improvements include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Continual improvements on the backend build software which should allow much more frequent releases in the future.&lt;/li&gt;
+&lt;li&gt;Considerable improvement in the compatiblity of the USFM with the Paratext standard (thanks to Michael Johnson for his help).&lt;/li&gt;
+&lt;li&gt;Addition of most of the Minor Prophets: Joel, Obadiah, Jonah, Micah, Nahum, Habakkuk, Zephaniah, Haggai and Zechariah.&lt;/li&gt;
+&lt;li&gt;Reduction in punctuation it the New Testament to better match modern customs.&lt;/li&gt;
+&lt;li&gt;All verses in the standard versification (NRSV) which don&amp;rsquo;t have associated content in the Wescott &amp;amp; Hort Greek NT are now footnoted.&lt;/li&gt;
+&lt;li&gt;&amp;lsquo;Hades&amp;rsquo; is now transliterated in the NT in the same was as Gehenna to aid concordance.&lt;/li&gt;
+&lt;li&gt;Various adjustments to improve naturalism of language.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We hope you like this release. We will do another release in two months time (1 August) or sooner if we come across an issue that can&amp;rsquo;t wait (the &lt;a href=&#34;https://en.wikipedia.org/wiki/Wicked_Bible&#34;&gt;Wicked Bible&lt;/a&gt; Scenario).&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Refreshing the OEB website</title>
@@ -255,27 +281,6 @@ The OEB has from the start been intended to be more than just another translatio
 &lt;p&gt;One of the changes that was made was to create a version of the OEB for readers who are used to the way words are commonly spelt in the United States, but we always had a plan to make both versions available.&lt;/p&gt;
 
 &lt;p&gt;Now, if you go the “&lt;a href=&#34;http://openenglishbible.org/get/&#34;&gt;Get&lt;/a&gt;” page on this site, you can download (in PDF, Text or Word format) the OEB in either US spelling or Commonwealth spelling for those readers outside the US. Hello again to Australia, Canada, Nigeria, the UK, New Zealand, Ireland, India, Kenya, Jamaica, Tuvalu and &lt;a href=&#34;http://en.wikipedia.org/wiki/List_of_countries_where_English_is_an_official_language&#34;&gt;all the other English speaking countries&lt;/a&gt;! The OEB-Cth spelling version retains the Oxford spelling ‘ize’ endings to appropriate words in line with the standard English used by the UN and the Oxford English Dictionary.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Interesting discussions on Bible copyright</title>
-      <link>http://openenglishbible.org/blog/interesting-discussion-bible-copyright/</link>
-      <pubDate>Mon, 16 May 2011 00:00:00 +0000</pubDate>
-      
-      <guid>http://openenglishbible.org/blog/interesting-discussion-bible-copyright/</guid>
-      <description>&lt;p&gt;Two interesting blog posts on copyright and the Bible have been put up, the first by David Ker of FutureBible: “&lt;a href=&#34;http://futurebible.org/2011/bible-copyrights-are-not-evil/&#34;&gt;Bible Copyrights Aren’t Evil&lt;/a&gt;”, and the second by Peter Kirk of Gentle Wisdom, “&lt;a href=&#34;http://www.gentlewisdom.org.uk/3418/love-of-bible-copyright-is-a-root-of-all-kinds-of-evil/&#34;&gt;Love of Bible copyright is a root of all kinds of evil&lt;/a&gt;”.&lt;/p&gt;
-
-&lt;p&gt;I encourage you to read them both. My viewpoint, as might be expected, is that we should renounce our copyrights in our translations as the OEB does. As I wrote on David’s site:&lt;/p&gt;
-
-&lt;p&gt;*Even a liberal licence gives the owner of the copyright power over the text. It tempts them to restrict use of the text to extract badly needed money (this isn’t an accusation of greed!) or to keep the text safe from bad influences. The desired outcome is good, but the mechanism is risky. It historically leads to the powerful determining what the powerless can make their Bible look like.&lt;/p&gt;
-
-&lt;p&gt;The world has already translations full of all sorts of egregious errors, distortions and theologically driven misinterpretations.&lt;/p&gt;
-
-&lt;p&gt;And there are certainly many current public domain translations out there which fail the trust test.
-But this is the price we pay for the freedom to seek the truth ourselves – to approach the Bible without requiring permission, licence or payment.&lt;/p&gt;
-
-&lt;p&gt;We should encourage good translations and warn against errors, but not seek to use the power of the State to enforce our (merely human) opinions.*&lt;/p&gt;
 </description>
     </item>
     
