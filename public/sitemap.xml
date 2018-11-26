@@ -3,23 +3,202 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://openenglishbible.org/</loc>
+    <loc>https://openenglishbible.org/blog/2018-reboot/</loc>
+    <lastmod>2018-11-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openenglishbible.org/faq/</loc>
+    <lastmod>2018-09-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openenglishbible.org/blog/2016.1-release/</loc>
+    <lastmod>2016-06-01T13:52:59+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openenglishbible.org/blog/refresh-website/</loc>
+    <lastmod>2015-12-07T11:13:56+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openenglishbible.org/development/</loc>
+    <lastmod>2015-12-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openenglishbible.org/publications/</loc>
+    <lastmod>2015-12-05T23:07:29+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openenglishbible.org/</loc>
     <lastmod>2015-12-05T22:50:04+11:00</lastmod>
   </url>
   
   <url>
-    <loc>http://openenglishbible.org/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://openenglishbible.org/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://openenglishbible.org/</loc>
+    <loc>https://openenglishbible.org/blog/</loc>
     <lastmod>2015-12-05T22:50:04+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openenglishbible.org/blog/new-release-14/</loc>
+    <lastmod>2014-12-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openenglishbible.org/blog/new-release-13/</loc>
+    <lastmod>2013-11-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openenglishbible.org/blog/new-dev-build-13/</loc>
+    <lastmod>2013-05-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openenglishbible.org/blog/new-new-testament/</loc>
+    <lastmod>2013-03-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openenglishbible.org/blog/mailing-list-forum/</loc>
+    <lastmod>2012-09-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openenglishbible.org/blog/work-continues-12/</loc>
+    <lastmod>2012-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openenglishbible.org/blog/sword-module/</loc>
+    <lastmod>2012-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openenglishbible.org/blog/happy-christmas-11/</loc>
+    <lastmod>2011-12-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openenglishbible.org/blog/oeb-module-theword/</loc>
+    <lastmod>2011-12-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openenglishbible.org/blog/psalms/</loc>
+    <lastmod>2011-12-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openenglishbible.org/blog/who-is-reading-oeb/</loc>
+    <lastmod>2011-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openenglishbible.org/blog/hoi-ioudaioi/</loc>
+    <lastmod>2011-06-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openenglishbible.org/blog/cth-and-us-english/</loc>
+    <lastmod>2011-06-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openenglishbible.org/blog/interesting-discussion-bible-copyright/</loc>
+    <lastmod>2011-05-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openenglishbible.org/blog/happy-birthday-11/</loc>
+    <lastmod>2011-03-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openenglishbible.org/blog/main-oeb-us-spelling/</loc>
+    <lastmod>2011-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openenglishbible.org/blog/matt-622/</loc>
+    <lastmod>2011-03-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openenglishbible.org/blog/move-to-cc0/</loc>
+    <lastmod>2011-02-07T09:20:48+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openenglishbible.org/blog/our-facebook-page/</loc>
+    <lastmod>2011-02-07T08:20:48+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openenglishbible.org/blog/keeping-track/</loc>
+    <lastmod>2011-01-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openenglishbible.org/blog/how-to-help/</loc>
+    <lastmod>2011-01-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openenglishbible.org/blog/rapid-progress/</loc>
+    <lastmod>2011-01-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openenglishbible.org/blog/welcome-to-2011/</loc>
+    <lastmod>2011-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openenglishbible.org/blog/power-of-plain-text/</loc>
+    <lastmod>2010-09-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openenglishbible.org/blog/spelling-punctuation-gender/</loc>
+    <lastmod>2010-09-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openenglishbible.org/blog/updating-hyphenation/</loc>
+    <lastmod>2010-08-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openenglishbible.org/blog/another-working-update-10/</loc>
+    <lastmod>2010-08-14T08:31:16+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openenglishbible.org/blog/initial-working-release-nt/</loc>
+    <lastmod>2010-08-07T08:12:17+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openenglishbible.org/blog/august-update-10/</loc>
+    <lastmod>2010-08-01T08:20:48+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openenglishbible.org/blog/welcome/</loc>
+    <lastmod>2010-03-22T23:18:26+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openenglishbible.org/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://openenglishbible.org/tags/</loc>
     <priority>0</priority>
   </url>
   

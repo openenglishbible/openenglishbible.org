@@ -1,4 +1,5 @@
 {{ partial "header.html" . }}
+{{ partial "big-notice.html" }}
 
 <div id="mainrow" class="row">
   <div class="medium-6 columns">
@@ -8,7 +9,7 @@
   <h2>News</h2>
 
   <p>
-     {{ range first 2 .Data.Pages }}
+     {{ range first 2 (where .Pages "Type" "blog") }}
          {{ .Render "justtitle" }}<br>
      {{ end }}
   </p>

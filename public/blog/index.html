@@ -4,25 +4,25 @@
     <meta charset="utf-8" />
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Open English Bible | Blogs</title>
-    <link rel="stylesheet" type="text/css" href="https://cloud.typography.com/7603474/7149752/css/fonts.css" /> 
-    <link rel="stylesheet" href="http://openenglishbible.org/css/foundation.css" />
-    <link rel="stylesheet" href="http://openenglishbible.org/css/oeb.css" />
+    <title>Open English Bible | index</title>
+    
+    <link rel="stylesheet" href="https://openenglishbible.org/css/foundation.css" />
+    <link rel="stylesheet" href="https://openenglishbible.org/css/oeb.css" />
   </head>
   <body>
       
 <div id="mainrow" class="row">
   <div class="medium-6 columns">
-      <img id="logo" src="http://openenglishbible.org/img/g3026.png" width="400" height="52" alt="Site logo"/>
+      <img id="logo" src="https://openenglishbible.org/img/g3026.png" width="400" height="52" alt="Site logo"/>
   </div>
   <div class="medium-6 columns">
     <div id="navcontainer">
     <ul>
-		<li><a href="http://openenglishbible.org/" rel="self">Home</a></li>
-		<li><a href="http://openenglishbible.org/blog/" rel="self">Blog</a></li>
-        <li><a href="http://openenglishbible.org/faq/" rel="self">FAQ</a></li>
-        <li><a href="http://openenglishbible.org/publications/" rel="self">Publications</a></li>
-        <li><a href="http://openenglishbible.org/development/" rel="self">Development</a></li>
+		<li><a href="https://openenglishbible.org/" rel="self">Home</a></li>
+		<li><a href="https://openenglishbible.org/blog/" rel="self">Blog</a></li>
+        <li><a href="https://openenglishbible.org/faq/" rel="self">FAQ</a></li>
+        <li><a href="https://openenglishbible.org/publications/" rel="self">Publications</a></li>
+        <li><a href="https://openenglishbible.org/development/" rel="self">Development</a></li>
     </ul>
 	</div>
   </div>
@@ -37,7 +37,81 @@
 	   <h1 id="title">News</h1>
 
 	   
-	       <p><h2><a href="http://openenglishbible.org/blog/2016.1-release/">2016.1 release of OEB</a></h2>
+	       <p><h2><a href="https://openenglishbible.org/blog/2018-reboot/"> Rebooting the OEB project</a></h2>
+	<div class="meta"><small>Nov 19, 2018</small></div>
+	
+
+<p>We&rsquo;re back&hellip; You may have noticed that activity has been a little slow over the last year. Partly that has been because the changes we&rsquo;ve been making are less public (changes to backend software etc) but it is also because progress did actually stall for a while.</p>
+
+<p>As of November 2018, the OEB is &lsquo;rebooted&rsquo; - we&rsquo;re back and you should now see regular updates as we push towards an initial release of all the books of the Old Testament/Hebrew Bible.</p>
+
+<h2 id="current-status">Current Status</h2>
+
+<p>The last release of the OEB, <em>&lsquo;2016.1&rsquo;</em>, contained all the New Testament books, the book of Psalms and a miscellaneous collection of the Old Testament, being Ruth and Esther, and most of the Minor Prophets except for Amos and Hosea.</p>
+
+<p>There are a number of other books which have initial drafts which aren&rsquo;t yet ready to release. Of these Genesis is the furthest along.</p>
+
+<h2 id="plan">Plan</h2>
+
+<p>The main plan is to bring much of the work which is being done behind the scenes back into the open. Expect much more regular updates on this blog and on the mailing list, showing how the translation and checking is progressing.</p>
+
+<h2 id="one-step-at-a-time">One Step at a Time</h2>
+
+<p>We are going to work on the books of the Old Testament / Hebrew Bible more or less in reverse order using the Protestant ordering.</p>
+
+<p>That is:</p>
+
+<ol>
+<li><p>First, we will finish the Twelve. These are all done except for Hosea and Amos.</p></li>
+
+<li><p>Second, we&rsquo;ll move to the Major Prophets, releasing Isaiah, Jeremiah, Lamentations, Ezekiel and Daniel.</p></li>
+
+<li><p>Thirdly, the Wisdom Books. We have already released the Psalms, but will work on Job, Proverbs, Ecclesiastes and Song of Solomon.</p></li>
+
+<li><p>Fourthly, a History lesson. We aready have Ruth and Esther, but we will fill in the rest of the stories of the conquest of Canaan, the period of the judges and the united and divided monarchies.</p></li>
+
+<li><p>And lastly, we will tackle the five books of the Law / Torah. Genesis is in not too bad shape already, but work hasn&rsquo;t started yet on the other four books.</p></li>
+</ol>
+
+<p>At each stage, the process will be to release, on a regular basis, the chapters which have been completed. When the book is finished to a first, but releasable, version, a new numbered OEB will be pushed to the website.</p>
+
+<h2 id="technicalities">Technicalities</h2>
+
+<p>All of the source to the OEB is in usfm.db files in the /source directory on the <a href="https://github.com/openenglishbible/Open-English-Bible/">Github repository</a>.</p>
+
+<p>Each book of the Bible has a file, which is a USFM file marked up to maintain multiple different varients within the same file (for example, to contain both the US and UK spelling varieties).</p>
+
+<p>At any stage, the &lsquo;master&rsquo; branch contains the sources of books which have been released, and the various artifacts (usfm, epub, pdf etc) which have been built from them.</p>
+
+<p>The &lsquo;dev&rsquo; branch contains all of the sources, released and in development, and the various artifacts built on those. Please don&rsquo;t take and use these materials outside the context of the OEB project! They will necessarily be broken and wrong in part.</p>
+
+<h2 id="changes-to-existing-books">Changes to existing books</h2>
+
+<p>Until we have a first release of the complete Old and New Testaments, focus will definately be on the not yet finished books. However we are still interested in improvements to the already &lsquo;done&rsquo; books, in particular:</p>
+
+<ol>
+<li><p>Fixes to obvious spelling, grammar or other errors.</p></li>
+
+<li><p>Fixes to uncontentious, egregious translation errors (hopefully we don&rsquo;t have too many of these!)</p></li>
+
+<li><p>Other clear improvements. However unless you are prepared to help us by doing most of the necessary work to incoporate these into the OEB, we will park these for consideration after we have a full release of the full Bible.</p></li>
+</ol>
+
+<h2 id="how-to-help">How to Help</h2>
+
+<p>We&rsquo;d love to have you as part of the OEB journey. If you have knowldge and experience in translation or have any questions then please contact Russell Allen <a href="mailto:oebible@openenglishbible.org">oebible@openenglishbible.org</a> and join the mailing list.</p>
+
+<p>Specifically you can help by:</p>
+
+<ol>
+<li><p>Reading each section being currently translated as it is posted here and discussing it on the mailing list.</p></li>
+
+<li><p>Letting us know about any spelling, grammar or egregious translation errors you come across when reading the OEB.</p></li>
+</ol>
+
+</p> <br>
+	   
+	       <p><h2><a href="https://openenglishbible.org/blog/2016.1-release/">2016.1 release of OEB</a></h2>
 	<div class="meta"><small>Jun 1, 2016</small></div>
 	<p>We’re pleased to announce a new release of the OEB, including the New Testament and Psalms and available from the front page of the Open English Bible website at <a href="http://openenglishbible.org">http://openenglishbible.org</a></p>
 
@@ -59,16 +133,6 @@
 
 </p> <br>
 	   
-	       <p><h2><a href="http://openenglishbible.org/blog/refresh-website/">Refreshing the OEB website</a></h2>
-	<div class="meta"><small>Dec 7, 2015</small></div>
-	<p>The OEB website has become a little bit, um, venerable over the last couple of years. Although it was always clean and simple, it wasn&rsquo;t up to date with the latest responsive designs needed for the large numbers of people reading on their mobile phones and tablets.</p>
-
-<p>So the time was right for a refresh. The design has stayed mostly the same, but the site itself is now built using <a href="http://foundation.zurb.com/">Foundation</a> and <a href="http://gohugo.io/">Hugo</a> and all the sources are hosted on <a href="https://github.com/openenglishbible/openenglishbible.org">Github</a> - so if you have improvements (or just find the inevitable speling mistake) then you can help us fix it.</p>
-
-<p>We hope you like it! Stay tuned for more updates&hellip;</p>
-
-</p> <br>
-	   
 
   </div>
 
@@ -77,162 +141,169 @@
 	   <h2>Older news</h2>
 
 		
+		<h3>Nov 2018</h3>
+		<ul>
+		    
+		    <li><a href="https://openenglishbible.org/blog/2018-reboot/"> Rebooting the OEB project</a> <small>(19 Nov 2018)</small></li>
+		    
+		</ul>
+		
 		<h3>Jun 2016</h3>
 		<ul>
 		    
-		    <li><a href="http://openenglishbible.org/blog/2016.1-release/">2016.1 release of OEB</a> <small>(1 Jun 2016)</small></li>
+		    <li><a href="https://openenglishbible.org/blog/2016.1-release/">2016.1 release of OEB</a> <small>(1 Jun 2016)</small></li>
 		    
 		</ul>
 		
 		<h3>Dec 2015</h3>
 		<ul>
 		    
-		    <li><a href="http://openenglishbible.org/blog/refresh-website/">Refreshing the OEB website</a> <small>(7 Dec 2015)</small></li>
+		    <li><a href="https://openenglishbible.org/blog/refresh-website/">Refreshing the OEB website</a> <small>(7 Dec 2015)</small></li>
 		    
 		</ul>
 		
 		<h3>Dec 2014</h3>
 		<ul>
 		    
-		    <li><a href="http://openenglishbible.org/blog/new-release-14/">OEB (2014.11) - &#39;Julia E Smith&#39; Release</a> <small>(6 Dec 2014)</small></li>
+		    <li><a href="https://openenglishbible.org/blog/new-release-14/">OEB (2014.11) - &#39;Julia E Smith&#39; Release</a> <small>(6 Dec 2014)</small></li>
 		    
 		</ul>
 		
 		<h3>Nov 2013</h3>
 		<ul>
 		    
-		    <li><a href="http://openenglishbible.org/blog/new-release-13/">New Release of Open English Bible</a> <small>(16 Nov 2013)</small></li>
+		    <li><a href="https://openenglishbible.org/blog/new-release-13/">New Release of Open English Bible</a> <small>(16 Nov 2013)</small></li>
 		    
 		</ul>
 		
 		<h3>May 2013</h3>
 		<ul>
 		    
-		    <li><a href="http://openenglishbible.org/blog/new-dev-build-13/">New Development Build</a> <small>(19 May 2013)</small></li>
+		    <li><a href="https://openenglishbible.org/blog/new-dev-build-13/">New Development Build</a> <small>(19 May 2013)</small></li>
 		    
 		</ul>
 		
 		<h3>Mar 2013</h3>
 		<ul>
 		    
-		    <li><a href="http://openenglishbible.org/blog/new-new-testament/">A New New Testament by Hal Taussig</a> <small>(9 Mar 2013)</small></li>
+		    <li><a href="https://openenglishbible.org/blog/new-new-testament/">A New New Testament by Hal Taussig</a> <small>(9 Mar 2013)</small></li>
 		    
 		</ul>
 		
 		<h3>Sep 2012</h3>
 		<ul>
 		    
-		    <li><a href="http://openenglishbible.org/blog/mailing-list-forum/">Mailing list and forum</a> <small>(12 Sep 2012)</small></li>
+		    <li><a href="https://openenglishbible.org/blog/mailing-list-forum/">Mailing list and forum</a> <small>(12 Sep 2012)</small></li>
 		    
 		</ul>
 		
 		<h3>Aug 2012</h3>
 		<ul>
 		    
-		    <li><a href="http://openenglishbible.org/blog/work-continues-12/">Work continues...</a> <small>(22 Aug 2012)</small></li>
+		    <li><a href="https://openenglishbible.org/blog/work-continues-12/">Work continues...</a> <small>(22 Aug 2012)</small></li>
 		    
 		</ul>
 		
 		<h3>Mar 2012</h3>
 		<ul>
 		    
-		    <li><a href="http://openenglishbible.org/blog/sword%20module/">Sword module now available!</a> <small>(11 Mar 2012)</small></li>
+		    <li><a href="https://openenglishbible.org/blog/sword-module/">Sword module now available!</a> <small>(11 Mar 2012)</small></li>
 		    
 		</ul>
 		
 		<h3>Dec 2011</h3>
 		<ul>
 		    
-		    <li><a href="http://openenglishbible.org/blog/happy-christmas-11/">Happy Christmas!</a> <small>(25 Dec 2011)</small></li>
+		    <li><a href="https://openenglishbible.org/blog/happy-christmas-11/">Happy Christmas!</a> <small>(25 Dec 2011)</small></li>
 		    
-		    <li><a href="http://openenglishbible.org/blog/oeb-module-theword/">OEB module for TheWord software!</a> <small>(18 Dec 2011)</small></li>
+		    <li><a href="https://openenglishbible.org/blog/oeb-module-theword/">OEB module for TheWord software!</a> <small>(18 Dec 2011)</small></li>
 		    
-		    <li><a href="http://openenglishbible.org/blog/psalms/">Psalms</a> <small>(6 Dec 2011)</small></li>
+		    <li><a href="https://openenglishbible.org/blog/psalms/">Psalms</a> <small>(6 Dec 2011)</small></li>
 		    
 		</ul>
 		
 		<h3>Aug 2011</h3>
 		<ul>
 		    
-		    <li><a href="http://openenglishbible.org/blog/who-is-reading-oeb/">Who is reading the OEB?</a> <small>(1 Aug 2011)</small></li>
+		    <li><a href="https://openenglishbible.org/blog/who-is-reading-oeb/">Who is reading the OEB?</a> <small>(1 Aug 2011)</small></li>
 		    
 		</ul>
 		
 		<h3>Jun 2011</h3>
 		<ul>
 		    
-		    <li><a href="http://openenglishbible.org/blog/hoi-ioudaioi/">Translating τῶν Ἰουδαίων in the Open English Bible</a> <small>(29 Jun 2011)</small></li>
+		    <li><a href="https://openenglishbible.org/blog/hoi-ioudaioi/">Translating τῶν Ἰουδαίων in the Open English Bible</a> <small>(29 Jun 2011)</small></li>
 		    
-		    <li><a href="http://openenglishbible.org/blog/cth-and-us-english/">OEB now in both US and Commonwealth English</a> <small>(11 Jun 2011)</small></li>
+		    <li><a href="https://openenglishbible.org/blog/cth-and-us-english/">OEB now in both US and Commonwealth English</a> <small>(11 Jun 2011)</small></li>
 		    
 		</ul>
 		
 		<h3>May 2011</h3>
 		<ul>
 		    
-		    <li><a href="http://openenglishbible.org/blog/interesting-discussion-bible-copyright/">Interesting discussions on Bible copyright</a> <small>(16 May 2011)</small></li>
+		    <li><a href="https://openenglishbible.org/blog/interesting-discussion-bible-copyright/">Interesting discussions on Bible copyright</a> <small>(16 May 2011)</small></li>
 		    
 		</ul>
 		
 		<h3>Mar 2011</h3>
 		<ul>
 		    
-		    <li><a href="http://openenglishbible.org/blog/happy-birthday-11/">Happy Birthday to us!</a> <small>(26 Mar 2011)</small></li>
+		    <li><a href="https://openenglishbible.org/blog/happy-birthday-11/">Happy Birthday to us!</a> <small>(26 Mar 2011)</small></li>
 		    
-		    <li><a href="http://openenglishbible.org/blog/main-oeb-us-spelling/">Main OEB now uses US spelling</a> <small>(13 Mar 2011)</small></li>
+		    <li><a href="https://openenglishbible.org/blog/main-oeb-us-spelling/">Main OEB now uses US spelling</a> <small>(13 Mar 2011)</small></li>
 		    
-		    <li><a href="http://openenglishbible.org/blog/matt-622/">Issues in translation: Matt 6:22-23</a> <small>(12 Mar 2011)</small></li>
+		    <li><a href="https://openenglishbible.org/blog/matt-622/">Issues in translation: Matt 6:22-23</a> <small>(12 Mar 2011)</small></li>
 		    
 		</ul>
 		
 		<h3>Feb 2011</h3>
 		<ul>
 		    
-		    <li><a href="http://openenglishbible.org/blog/move-to-cc0/">The OEB moves to CC0</a> <small>(7 Feb 2011)</small></li>
+		    <li><a href="https://openenglishbible.org/blog/move-to-cc0/">The OEB moves to CC0</a> <small>(7 Feb 2011)</small></li>
 		    
-		    <li><a href="http://openenglishbible.org/blog/our-facebook-page/">Our Facebook page</a> <small>(7 Feb 2011)</small></li>
+		    <li><a href="https://openenglishbible.org/blog/our-facebook-page/">Our Facebook page</a> <small>(7 Feb 2011)</small></li>
 		    
 		</ul>
 		
 		<h3>Jan 2011</h3>
 		<ul>
 		    
-		    <li><a href="http://openenglishbible.org/blog/keeping-track/">Keeping track</a> <small>(30 Jan 2011)</small></li>
+		    <li><a href="https://openenglishbible.org/blog/keeping-track/">Keeping track</a> <small>(30 Jan 2011)</small></li>
 		    
-		    <li><a href="http://openenglishbible.org/blog/how-to-help/">How to help</a> <small>(18 Jan 2011)</small></li>
+		    <li><a href="https://openenglishbible.org/blog/how-to-help/">How to help</a> <small>(18 Jan 2011)</small></li>
 		    
-		    <li><a href="http://openenglishbible.org/blog/rapid-progress/">Rapid progress!</a> <small>(13 Jan 2011)</small></li>
+		    <li><a href="https://openenglishbible.org/blog/rapid-progress/">Rapid progress!</a> <small>(13 Jan 2011)</small></li>
 		    
-		    <li><a href="http://openenglishbible.org/blog/welcome%20to%202011/">Welcome to 2011</a> <small>(3 Jan 2011)</small></li>
+		    <li><a href="https://openenglishbible.org/blog/welcome-to-2011/">Welcome to 2011</a> <small>(3 Jan 2011)</small></li>
 		    
 		</ul>
 		
 		<h3>Sep 2010</h3>
 		<ul>
 		    
-		    <li><a href="http://openenglishbible.org/blog/power-of-plain-text/">The Power of Plain Text</a> <small>(17 Sep 2010)</small></li>
+		    <li><a href="https://openenglishbible.org/blog/power-of-plain-text/">The Power of Plain Text</a> <small>(17 Sep 2010)</small></li>
 		    
-		    <li><a href="http://openenglishbible.org/blog/spelling-punctuation-gender/">Spelling, punctuation and gender</a> <small>(3 Sep 2010)</small></li>
+		    <li><a href="https://openenglishbible.org/blog/spelling-punctuation-gender/">Spelling, punctuation and gender</a> <small>(3 Sep 2010)</small></li>
 		    
 		</ul>
 		
 		<h3>Aug 2010</h3>
 		<ul>
 		    
-		    <li><a href="http://openenglishbible.org/blog/updating-hyphenation/">Updating hyphenation</a> <small>(29 Aug 2010)</small></li>
+		    <li><a href="https://openenglishbible.org/blog/updating-hyphenation/">Updating hyphenation</a> <small>(29 Aug 2010)</small></li>
 		    
-		    <li><a href="http://openenglishbible.org/blog/another-working-update-10/">Another working release</a> <small>(14 Aug 2010)</small></li>
+		    <li><a href="https://openenglishbible.org/blog/another-working-update-10/">Another working release</a> <small>(14 Aug 2010)</small></li>
 		    
-		    <li><a href="http://openenglishbible.org/blog/initial-working-release-nt/">Initial working release of NT</a> <small>(7 Aug 2010)</small></li>
+		    <li><a href="https://openenglishbible.org/blog/initial-working-release-nt/">Initial working release of NT</a> <small>(7 Aug 2010)</small></li>
 		    
-		    <li><a href="http://openenglishbible.org/blog/august-update-10/">August Update</a> <small>(1 Aug 2010)</small></li>
+		    <li><a href="https://openenglishbible.org/blog/august-update-10/">August Update</a> <small>(1 Aug 2010)</small></li>
 		    
 		</ul>
 		
 		<h3>Mar 2010</h3>
 		<ul>
 		    
-		    <li><a href="http://openenglishbible.org/blog/welcome/">Welcome to the Open English Bible</a> <small>(22 Mar 2010)</small></li>
+		    <li><a href="https://openenglishbible.org/blog/welcome/">Welcome to the Open English Bible</a> <small>(22 Mar 2010)</small></li>
 		    
 		</ul>
 		
@@ -241,20 +312,18 @@
 
 </div>
 
-
-
 <div id="bar"></div>
 <div id="mainrow" class="row">
   <div id="footer">
-    <p>&copy; 2016 Russell Allen. <a href="#" id="rw_email_contact">Contact the OEB Team</a><script type="text/javascript">var a = "mai"; var b = "lto"; var c = ":oebib"; var d = "le@"; var e = "openenglishbible.org"; document.getElementById('rw_email_contact').href = (a + b + c + d + e)</script><br>
+    <p>&copy; 2018 Russell Allen. <a href="#" id="rw_email_contact">Contact the OEB Team</a><script type="text/javascript">var a = "mai"; var b = "lto"; var c = ":oebib"; var d = "le@"; var e = "openenglishbible.org"; document.getElementById('rw_email_contact').href = (a + b + c + d + e)</script><br>
 		Site built on <a href="http://gohugo.io">Hugo</a> and <a href="http://foundation.zurb.com">Foundation</a>, and typeset in Whitney and Chronicle by <a href="http://www.typography.com">Hoefler & Co.</a></p>
   </div>
 </div>
     
-    <script src="http://openenglishbible.org/js/vendor/jquery.min.js"></script>
-    <script src="http://openenglishbible.org/js/vendor/what-input.min.js"></script>
-    <script src="http://openenglishbible.org/js/foundation.min.js"></script>
-    <script src="http://openenglishbible.org/js/app.js"></script>
+    <script src="https://openenglishbible.org/js/vendor/jquery.min.js"></script>
+    <script src="https://openenglishbible.org/js/vendor/what-input.min.js"></script>
+    <script src="https://openenglishbible.org/js/foundation.min.js"></script>
+    <script src="https://openenglishbible.org/js/app.js"></script>
 
      <script type="text/javascript">
 

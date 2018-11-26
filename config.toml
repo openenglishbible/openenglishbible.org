@@ -1,5 +1,4 @@
-baseurl = "http://openenglishbible.org/"
+baseurl = "https://openenglishbible.org/"
 #baseurl = "http://localhost/"
-#baseurl = "http://openenglishbible.org/beta/"
 languageCode = "en-us"
 title = "Welcome"

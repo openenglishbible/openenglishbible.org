@@ -1,15 +1,13 @@
 +++
 date = "2015-12-05T23:07:29+11:00"
-draft = false
 title = "Publications"
-slug = "publications"
 +++
 
-<div id="mainrow" class="row">
-  <h1>How other people have used the Open English Bible</h1>
-  <p>The OEB has from the start been intended to be more than just another translation. We anticipate it being the base for many translations. The text of the OEB is as free from restriction as we can make it, so that anyone can take it and use it as their own beliefs and conscience dictate — without requiring our permission or approval.</p>
-  <p>The OEB is yours to remix, republish and rethink. This page shows a small sample of the ways in which people like you have used the OEB text.</p>
-</div>
+# How other people have used the Open English Bible
+
+The OEB has from the start been intended to be more than just another translation. We anticipate it being the base for many translations. The text of the OEB is as free from restriction as we can make it, so that anyone can take it and use it as their own beliefs and conscience dictate — without requiring our permission or approval.
+
+The OEB is yours to remix, republish and rethink. This page shows a small sample of the ways in which people like you have used the OEB text.
 
 <div id="mainrow" class="row">
   <div class="medium-2 columns">
@@ -60,5 +58,4 @@ slug = "publications"
 	<p>You can check out The New Jefferson Bible on <a href="http://www.amazon.com/gp/product/B00DRQDZ2O/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00DRQDZ2O&linkCode=as2&tag=theligh0e-20">Amazon.com</a></p>
   </div>
 </div>
-<p>
-</div>
+
