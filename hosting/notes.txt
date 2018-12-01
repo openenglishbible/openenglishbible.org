@@ -3,5 +3,9 @@ pkg update
 pkg upgrade
 pkg install git
 pkg install caddy
+curl -L https://github.com/gohugoio/hugo/releases/download/v0.52/hugo_0.52_FreeBSD-64bit.tar.gz --output hugo_0.52_FreeBSD-64bit.tar.gz
+tar zxvf hugo_0.52_FreeBSD-64bit.tar.gz
+mv hugo /usr/local/bin
 caddy -h -agree
 git clone https://github.com/openenglishbible/openenglishbible.org.git
+caddy 
