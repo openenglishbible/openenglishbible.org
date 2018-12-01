@@ -1,3 +1,4 @@
-beta.openenglishbible {
-	/root/openenglishbible.org/public
+beta.openenglishbible.org {
+	gzip
+	root /root/openenglishbible.org/public
 }
