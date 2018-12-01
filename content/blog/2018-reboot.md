@@ -4,7 +4,7 @@ draft = false
 title = " Rebooting the OEB project"
 +++
 
-<img style="float: right; margin: 0px 0px 15px 15px;" src="/img/scribe.png" width="70%" />We're back... You may have noticed that activity has been a little slow over the last year. Partly that has been because the changes we've been making are less public (changes to backend software etc) but it is also because progress did actually stall for a while.
+<img style="float: right; margin: 0px 0px 15px 15px;" src="/img/scribe.png">We're back... You may have noticed that activity has been a little slow over the last year. Partly that has been because the changes we've been making are less public (changes to backend software etc) but it is also because progress did actually stall for a while.
 
 As of November 2018, the OEB is 'rebooted' - we're back and you should now see regular updates as we push towards an initial release of all the books of the Old Testament/Hebrew Bible.
 
