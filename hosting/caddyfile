@@ -1,7 +1,7 @@
 beta.openenglishbible.org {
 	gzip
 	root /root/openenglishbible.org/public
-	browse /root/openenglishbible.org/public/oeb
+	browse
 	log stdout
     errors stdout
 }
