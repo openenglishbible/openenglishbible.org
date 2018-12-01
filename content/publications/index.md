@@ -11,7 +11,7 @@ The OEB is yours to remix, republish and rethink. This page shows a small sample
 
 <div id="mainrow" class="row">
   <div class="medium-2 columns">
-    <a href="http://www.amazon.com/New-Testament-Combining-Traditional-Discovered/dp/0547792107/ref=tmm_hrd_title_0">{{< img "new-new-testament.jpg" >}}</a>
+    <a href="http://www.amazon.com/New-Testament-Combining-Traditional-Discovered/dp/0547792107/ref=tmm_hrd_title_0">{{< img "img/new-new-testament.jpg" | relURL >}}</a>
   </div>
   <div class="medium-10 columns">
       <h2>A New New Testament</h2>
@@ -29,7 +29,7 @@ The OEB is yours to remix, republish and rethink. This page shows a small sample
 <p>
 <div id="mainrow" class="row">
   <div class="medium-2 columns">
-    <a href="http://www.amazon.com/Adventing-Christmas-meaningful-activities-reflections-ebook/dp/B017YYLPFS/">{{< img "adventing.jpg" >}}</a>
+    <a href="http://www.amazon.com/Adventing-Christmas-meaningful-activities-reflections-ebook/dp/B017YYLPFS/">{{< img "img/adventing.jpg" | relURL >}}</a>
   </div>
   <div class="medium-10 columns">
 	  <h2>Adventing - a journey to Christmas:<br><small>Simple, meaningful, Biblical, joyful activities and reflections for families with children aged 3-7.</small></h2>
@@ -47,7 +47,7 @@ The OEB is yours to remix, republish and rethink. This page shows a small sample
 <p>
 <div id="mainrow" class="row">
   <div class="medium-2 columns">
-    <a href="http://www.amazon.com/gp/product/B00DRQDZ2O/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00DRQDZ2O&linkCode=as2&tag=theligh0e-20">{{< img "jefferson.jpg" >}}</a>
+    <a href="http://www.amazon.com/gp/product/B00DRQDZ2O/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00DRQDZ2O&linkCode=as2&tag=theligh0e-20">{{< img "img/jefferson.jpg" | relURL >}}</a>
   </div>
   <div class="medium-10 columns">
     <h2>The New Jefferson Bible<br><small>The Life and Morals of Jesus of Nazareth in Modern English</small></h2>
