@@ -8,4 +8,7 @@ tar zxvf hugo_0.52_FreeBSD-64bit.tar.gz
 mv hugo /usr/local/bin
 caddy -h -agree
 git clone https://github.com/openenglishbible/openenglishbible.org.git
-caddy 
+scp root@manager.larrikin.org:oeb-20181129.zip oeb-20181129.zip
+unzip oeb-20181129.zip
+cp -r var/www/html/oeb/ openenglishbible.org/public/oeb
+nohup caddy -conf hosting/caddyfile &
