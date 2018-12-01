@@ -1,4 +1,5 @@
 beta.openenglishbible.org {
 	gzip
 	root /root/openenglishbible.org/public
+	browse /oeb/
 }
