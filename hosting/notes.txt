@@ -1,0 +1,7 @@
+freebsd-update fetch install
+pkg update
+pkg upgrade
+pkg install git
+pkg install caddy
+caddy -h -agree
+git clone https://github.com/openenglishbible/openenglishbible.org.git
