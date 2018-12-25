@@ -1,4 +1,8 @@
 www.openenglishbible.org {
+    redir https://openenglishbible.org{uri}
+}
+
+openenglishbible.org {
 	gzip
 	root /root/openenglishbible.org/public
 	browse
