@@ -34,6 +34,8 @@ These links are for the current build of those books in the general release. Thi
   
 <p>Books are marked as being <span class="absent">absent</span>, <span class="partial">partial</span>, <span class="unchecked">unchecked</span>, <span class="checked">checked</span>, <span class="released">released</span>. Unless the book has been released (and is in the main build) please treat it with caution as it probably contains errors. In particular, books marked <span class="partial">partial</span> or <span class="unchecked">unchecked</span> could contain almost anything, including missing verses, egregious translation errors and disparaging references to penguins.</p>
 
-{{% table %}}
+{{< table >}}
+
+
 
 

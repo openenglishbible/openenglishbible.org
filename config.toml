@@ -2,3 +2,10 @@ baseurl = "https://openenglishbible.org/"
 #baseurl = "http://localhost/"
 languageCode = "en-us"
 title = "Welcome"
+
+# This is so that HTML in markdown docs is rendered 
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
