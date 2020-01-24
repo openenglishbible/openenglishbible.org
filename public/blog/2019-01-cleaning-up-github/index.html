@@ -1,0 +1,90 @@
+<!doctype html>
+<html class="no-js" lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Open English Bible | Cleaning up Github</title>
+    
+    <link rel="stylesheet" href="/css/foundation.css"/>
+    <link rel="stylesheet" href="/css/oeb.css"/>
+  </head>
+  <body>
+      
+<div id="mainrow" class="row">
+  <div class="medium-6 columns">
+      <img id="logo" src="/img/g3026.png" width="400" height="52" alt="Site logo"/>
+  </div>
+  <div class="medium-6 columns">
+    <div id="navcontainer">
+    <ul>
+		<li><a href="/" rel="self">Home</a></li>
+		<li><a href="/blog/" rel="self">Blog</a></li>
+        <li><a href="/faq/" rel="self">FAQ</a></li>
+        <li><a href="/publications/" rel="self">Publications</a></li>
+        <li><a href="/development/" rel="self">Development</a></li>
+    </ul>
+	</div>
+  </div>
+</div>
+<div id="bar"></div>
+<p>
+
+
+<div id="mainrow" class="row">
+  <div class="medium-8 columns">
+	  <p><a href="/blog/">← Back to index of posts</a></p>
+	  <h1>Cleaning up Github</h1>
+	  <p><small>Posted on Jan 6, 2019</small></p>
+	  <p>Over time, the &lsquo;openenglishbible&rsquo; account on GitHub has accumulated a bunch of repositories, many of which are now out of date. Recently we did a bit of a cleanup, and so now would be a good time to set out what each of them is.</p>
+<p>First, the main one:</p>
+<h2 id="githubcomopenenglishbibleopen-english-bible">github.com/openenglishbible/Open-English-Bible</h2>
+<p>This is the sources and built artifacts for the Open English Bible translation. There are two branches - the master for releases and &lsquo;dev&rsquo; for the development documents.</p>
+<h2 id="githubcomopenenglishbibleopenenglishbibleorg">github.com/openenglishbible/openenglishbible.org</h2>
+<p>This is the source for this website, mostly in markdown and html and built via Hugo.</p>
+<h2 id="githubcomopenenglishbibleusfm-tools">github.com/openenglishbible/USFM-Tools</h2>
+<p>This is a respository of useful tools for working with USFM used to build and check the OEB.</p>
+<p>The tools are written in Python 3.</p>
+<p>So far there is:</p>
+<ul>
+<li>check - a linter to check for common errors in USFM coding</li>
+<li>tranform - a system to render USFM to a number of other formats such as PDF, markdown and docx.</li>
+<li>variant - a lightweight micro-tool to maintain multiple variants of a text within a single USFM film</li>
+</ul>
+<p>The tools are under the MIT licence.</p>
+<h2 id="githubcomopenenglishbibleusfm-bibles">github.com/openenglishbible/usfm-bibles</h2>
+<p>This repository has copies of the original English language base texts used in the OEB. Unfortunately this needs an update - some of these files were done a long time ago and aren&rsquo;t properly USFM compliant.</p>
+<h2 id="githubcomopenenglishbiblebrowserbible-3">github.com/openenglishbible/browserbible-3</h2>
+<p>This is a fork of digitalbiblesociety/browserbible-3. It is the software we use for the &lsquo;study&rsquo; interface to the OEB. There is an archived repository of an older version at openenglishbible/browserbible</p>
+
+  </div>
+</div>
+
+<div id="bar"></div>
+<div id="mainrow" class="row">
+  <div id="footer">
+    <p>&copy; 2010-2020 Russell Allen. <a href="#" id="rw_email_contact">Contact the OEB Team</a><script type="text/javascript">var a = "mai"; var b = "lto"; var c = ":oebib"; var d = "le@"; var e = "openenglishbible.org"; document.getElementById('rw_email_contact').href = (a + b + c + d + e)</script><br>
+		Site built on <a href="http://gohugo.io">Hugo</a> and <a href="http://foundation.zurb.com">Foundation</a>, and typeset in Whitney and Chronicle by <a href="http://www.typography.com">Hoefler & Co.</a></p>
+  </div>
+</div>
+    
+    <script src="https://openenglishbible.org/js/vendor/jquery.min.js"></script>
+    <script src="https://openenglishbible.org/js/vendor/what-input.min.js"></script>
+    <script src="https://openenglishbible.org/js/foundation.min.js"></script>
+    <script src="https://openenglishbible.org/js/app.js"></script>
+
+     <script type="text/javascript">
+
+     var _gaq = _gaq || [];
+     _gaq.push(['_setAccount', 'UA-20740582-1']);
+     _gaq.push(['_trackPageview']);
+
+     (function() {
+       var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+       ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+       var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+     })();
+
+    </script>
+  </body>
+</html>
