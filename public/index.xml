@@ -12,6 +12,17 @@
     
     
     <item>
+      <title>2020.2 release of OEB</title>
+      <link>https://openenglishbible.org/blog/2020.2-release/</link>
+      <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://openenglishbible.org/blog/2020.2-release/</guid>
+      <description>We’re pleased to announce a new release of the OEB, including the New Testament and Psalms and available from the front page of the Open English Bible website at http://openenglishbible.org
+Some of the improvements include:
+ Continual improvements on the backend build software. Addition of the book of Amos, completing the Twelve. Various adjustments to improve naturalism of language and minor transcription errors.  We hope you like this release. We are now working on the book of Isaiah, and will do a new release when that work is completed.</description>
+    </item>
+    
+    <item>
       <title>2020.1 release of OEB</title>
       <link>https://openenglishbible.org/blog/2020.1-release/</link>
       <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
@@ -30,7 +41,7 @@ Some of the improvements include:
       <guid>https://openenglishbible.org/blog/2019-01-improving-reading/</guid>
       <description>For a while now we have provided two versions of the OEB for reading online.
 One version, dubbed the &amp;lsquo;Study&amp;rsquo; version, is based on the Bible Browser software used by the Digital Bible Society for their inscript.org website. This is a powerful webapp allowing for comparison of the OEB with other translations and the original Greek and Hebrew of the Bible.
-However we&amp;rsquo;ve also provided another version, dubbed the &amp;lsquo;Read&amp;rsquo; version which has a different aim.</description>
+However we&#39;ve also provided another version, dubbed the &amp;lsquo;Read&amp;rsquo; version which has a different aim.</description>
     </item>
     
     <item>
@@ -50,7 +61,7 @@ github.com/openenglishbible/Open-English-Bible This is the sources and built art
       <pubDate>Sun, 30 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>https://openenglishbible.org/blog/hosea-transcribed/</guid>
-      <description>As outlined in the last post, we are using as a base English translation a translation of Hosea by Charles Foster Kent published in Student&amp;rsquo;s Old Testament: Sermons, Epistles and Apocalypses of Israel&amp;rsquo;s Prophets (1910).
+      <description>As outlined in the last post, we are using as a base English translation a translation of Hosea by Charles Foster Kent published in Student&#39;s Old Testament: Sermons, Epistles and Apocalypses of Israel&#39;s Prophets (1910).
 A transcription of this has just been committed to the GitHub repository as a USFM.db file, and a .usfm file and .rtf file (for opening in a word processor) have also been committed.
 This is a faithful transcription of the version Prof.</description>
     </item>
@@ -73,8 +84,8 @@ However, as the NET Bible translators note:
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>https://openenglishbible.org/blog/2018-reboot/</guid>
-      <description>We&amp;rsquo;re back&amp;hellip; You may have noticed that activity has been a little slow over the last year. Partly that has been because the changes we&amp;rsquo;ve been making are less public (changes to backend software etc) but it is also because progress did actually stall for a while.
-As of December 2018, the OEB is &amp;lsquo;rebooted&amp;rsquo; - we&amp;rsquo;re back and you should now see regular updates as we push towards an initial release of all the books of the Old Testament/Hebrew Bible.</description>
+      <description>We&#39;re back&amp;hellip; You may have noticed that activity has been a little slow over the last year. Partly that has been because the changes we&#39;ve been making are less public (changes to backend software etc) but it is also because progress did actually stall for a while.
+As of December 2018, the OEB is &amp;lsquo;rebooted&amp;rsquo; - we&#39;re back and you should now see regular updates as we push towards an initial release of all the books of the Old Testament/Hebrew Bible.</description>
     </item>
     
     <item>
@@ -104,7 +115,7 @@ Some of the improvements include:
       <pubDate>Mon, 07 Dec 2015 11:13:56 +1100</pubDate>
       
       <guid>https://openenglishbible.org/blog/refresh-website/</guid>
-      <description>The OEB website has become a little bit, um, venerable over the last couple of years. Although it was always clean and simple, it wasn&amp;rsquo;t up to date with the latest responsive designs needed for the large numbers of people reading on their mobile phones and tablets.
+      <description>The OEB website has become a little bit, um, venerable over the last couple of years. Although it was always clean and simple, it wasn&#39;t up to date with the latest responsive designs needed for the large numbers of people reading on their mobile phones and tablets.
 So the time was right for a refresh. The design has stayed mostly the same, but the site itself is now built using Foundation and Hugo and all the sources are hosted on Github - so if you have improvements (or just find the inevitable speling mistake) then you can help us fix it.</description>
     </item>
     
@@ -246,7 +257,7 @@ About 350 of them checked out the OEB on the online reader, there were 245 downl
       <pubDate>Wed, 29 Jun 2011 00:00:00 +0000</pubDate>
       
       <guid>https://openenglishbible.org/blog/hoi-ioudaioi/</guid>
-      <description>The translation of this term, which appears in the King James Version as &amp;lsquo;the Jews&amp;rsquo;, is difficult and sensitive. The mind of the modern reader is different to that of the initial readers of John&amp;rsquo;s Gospel and of Acts. We read in the context of our culture and our history, just as the early readers of the Gospel of John read in the light of theirs.
+      <description>The translation of this term, which appears in the King James Version as &amp;lsquo;the Jews&amp;rsquo;, is difficult and sensitive. The mind of the modern reader is different to that of the initial readers of John&#39;s Gospel and of Acts. We read in the context of our culture and our history, just as the early readers of the Gospel of John read in the light of theirs.
 In keeping with our commitment to be open and transparent in the translation choices we are making, I’ve written this post to explain how the OEB project deals with this challenge.</description>
     </item>
     
