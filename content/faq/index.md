@@ -1,5 +1,5 @@
 +++
-date = "2018-09-27"
+date = "2021-08-06"
 title = "FAQ"
 +++
 
@@ -73,4 +73,4 @@ Contact Russell Allen via oebible at openenglishbible.org
 
 ## How can I help?
 
-The first step is to join the OEB mailing list by going to <a href="http://forum.openenglishbible.org">forum.openenglishbible.org</a> and following the instructions there.If you are a professional translator of Koine Greek or ancient Hebrew, let us know!If you are a software developer, you can help develop the support infrastructure the OEB relies on for handling USFM markup, generating PDF, Word etc, handling variants and automatically checking for typos.If your skills are in reading and writing English, you can help with transcription, proofreading and discussing ways to make the OEB's English more natural and accessible.
+The first step is to join the OEB discussion forum on <a href="https://github.com/openenglishbible/Open-English-Bible/discussions">GitHub</a> and say hello. If you are a professional translator of Koine Greek or ancient Hebrew, let us know!If you are a software developer, you can help develop the support infrastructure the OEB relies on for handling USFM markup, generating PDF, Word etc, handling variants and automatically checking for typos.If your skills are in reading and writing English, you can help with transcription, proofreading and discussing ways to make the OEB's English more natural and accessible.

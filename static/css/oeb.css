@@ -54,7 +54,7 @@ a:link, a:visited {
 }
 
 #logo {
-	padding-top: 20px;
+	padding-top: 30px;
     padding-bottom: 20px;
 }
 
@@ -72,20 +72,18 @@ a:link, a:visited {
 #navcontainer {
 	list-style-type: none;
 	float: right;
-    padding-top: 50px;
+    padding-top: 20px;
 }
 
 #navcontainer ul {
     display: block;
+    float: right;
 }
 
 #navcontainer li {
 	position: relative;
 	display: inline;
     float: left;
-}
-
-#navcontainer a {
 	display: block;
 	padding-left: 15px;
 	text-decoration: none;
@@ -94,6 +92,9 @@ a:link, a:visited {
     font-family: "Whitney SSm A", "Whitney SSm B", Verdana, sans-serif;
     font-style: normal;
     font-weight: 400;
+}
+
+#navcontainer a {
 }
 
 #navcontainer a:hover {

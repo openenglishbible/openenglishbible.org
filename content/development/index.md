@@ -1,5 +1,5 @@
 +++
-date = "2015-12-07"
+date = "2021-08-06"
 title = "Development"
 +++
 
@@ -7,11 +7,11 @@ title = "Development"
 
 This is the development page for the Open English Bible. If you would like to help out, the steps are first to join the forum, then secondly to help check one of the books not yet in release.
 
-## Forum
-
-Discussion about the development, and the OEB project in general, happens on the forum. You can access the forum either from the <a href="http://forum.openenglishbible.org">web archive</a> or as a mailing list. Details on how to sign up are at the archive.
-
 ## GitHub
+
+Discussion about the development, and the OEB project in general, happens on <a href="https://github.com/openenglishbible/Open-English-Bible/discussions">the discussion forum on GitHub</a>. You can post on the forum with your GitHub account.  
+
+An older forum is now archived at <a href="https://forum.openenglishbible.org">forum.openenglishbible.org</a>.
 
 All of the raw sources for the OEB are developed as USFM files on the <a href="http://github.com/openenglishbible/Open-English-Bible">git repository at GitHub</a>. Unless you are familiar with USFM and Git, you may want to look at the MS Word documents linked below.
 
