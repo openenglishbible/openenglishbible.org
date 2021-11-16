@@ -11,19 +11,37 @@ The OEB is yours to remix, republish and rethink. This page shows a small sample
 
 <div id="mainrow" class="row">
   <div class="medium-2 columns">
+    <a href="http://www.amazon.com/New-Testament-Combining-Traditional-Discovered/dp/0547792107/ref=tmm_hrd_title_0"><img src="/img/ruth-stubbersfield.jpg"></a>
+  </div>
+  <div class="medium-10 columns">
+<h2>Ruth: A Somewhat Different Commentary</h2>
+<p>By Ted Studdersfield</p>
+
+<p>When Ted Stubbersfield wrote his commentary on the book of Ruth, "Ruth: A Somewhat Different Commentary", the free licence of the OEB allowed him to easily include the full text of the <a href="https://openenglishbible.org/oeb/2020.2/read/b008.html">Book of Ruth</a>. Ted's commentary is published by <a href="https://wipfandstock.com/">Wipf & Stock</a></p>
+
+<p>The author says. "Theology without application can be lifeless and boring, and while the comments have been well-researched, contemporary application has been primarily my focus. I hope that with this commentary on the book of Ruth I have written something that can be read for pleasure as well as spiritual growth".</p>
+
+<p>You can check it out on <a href="https://www.amazon.com/s?k=9781666716313&tag=wipfandstoc01-20">Amazon.com</a></p>
+  </div>
+</div>
+
+<p>
+
+<div id="mainrow" class="row">
+  <div class="medium-2 columns">
     <a href="http://www.amazon.com/New-Testament-Combining-Traditional-Discovered/dp/0547792107/ref=tmm_hrd_title_0"><img src="/img/new-new-testament.jpg"></a>
   </div>
   <div class="medium-10 columns">
-      <h2>A New New Testament</h2>
-	  <p>By Hal Taussig</p>
+<h2>A New New Testament</h2>
+<p>By Hal Taussig</p>
 
-      <p>When Hal Taussig, a pastor and early Christianity scholar, was looking for a translation of the New Testament he could put togther with new translations of several non-canonical writings from the early Christian communities, he and his team chose the OEB. </p>
+<p>When Hal Taussig, a pastor and early Christianity scholar, was looking for a translation of the New Testament he could put togther with new translations of several non-canonical writings from the early Christian communities, he and his team chose the OEB. </p>
 
-	  <p>The flexibility and openness of the OEB allowed his team to rework it to fit in with their other transations - providing a uniform translation approach across both scripture and the other ancient writings.</p>
+<p>The flexibility and openness of the OEB allowed his team to rework it to fit in with their other transations - providing a uniform translation approach across both scripture and the other ancient writings.</p>
 
-	  <p>The author hopes this will give fresh insights where repetition and familiarity may have dulled us.</p>
+<p>The author hopes this will give fresh insights where repetition and familiarity may have dulled us.</p>
 
-	<p>You can check it out on <a href="http://www.amazon.com/New-Testament-Combining-Traditional-Discovered/dp/0547792107/ref=tmm_hrd_title_0">Amazon.com</a></p>
+<p>You can check it out on <a href="http://www.amazon.com/New-Testament-Combining-Traditional-Discovered/dp/0547792107/ref=tmm_hrd_title_0">Amazon.com</a></p>
   </div>
 </div>
 <p>
