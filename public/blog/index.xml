@@ -8,6 +8,17 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 05 Dec 2015 22:50:04 +1100</lastBuildDate><atom:link href="https://openenglishbible.org/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2022.1 release of OEB</title>
+      <link>https://openenglishbible.org/blog/2022.1-release/</link>
+      <pubDate>Tue, 12 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://openenglishbible.org/blog/2022.1-release/</guid>
+      <description>We’re pleased to announce a new release of the OEB, including the New Testament and Psalms and available from the front page of the Open English Bible website at http://openenglishbible.org
+This is a small release, including various adjustments to improve naturalism of language and minor transcription errors.
+We hope you like this release.</description>
+    </item>
+    
+    <item>
       <title>Ruth: A Somewhat Different Commentary</title>
       <link>https://openenglishbible.org/blog/ruth-stubbersfield/</link>
       <pubDate>Tue, 16 Nov 2021 11:52:28 +1100</pubDate>
@@ -15,7 +26,7 @@
       <guid>https://openenglishbible.org/blog/ruth-stubbersfield/</guid>
       <description>Ted Stubbersfield has written &amp;ldquo;Ruth: A Somewhat Different Commentary&amp;rdquo;, incorporating the text of the Book of Ruth from the OEB. Ted&amp;rsquo;s commentary is published by Wipf &amp;amp; Stock
 Ted says:
- The subtitle of this book is &amp;ldquo;A Somewhat Different Commentary,&amp;rdquo; so how is it different? Theology without application can be lifeless and boring, and while the comments have been well-researched, contemporary application has been primarily my focus. I hope that with this commentary on the book of Ruth I have written something that can be read for pleasure as well as spiritual growth.</description>
+The subtitle of this book is &amp;ldquo;A Somewhat Different Commentary,&amp;rdquo; so how is it different? Theology without application can be lifeless and boring, and while the comments have been well-researched, contemporary application has been primarily my focus. I hope that with this commentary on the book of Ruth I have written something that can be read for pleasure as well as spiritual growth.</description>
     </item>
     
     <item>
@@ -26,7 +37,7 @@ Ted says:
       <guid>https://openenglishbible.org/blog/2020.2-release/</guid>
       <description>We’re pleased to announce a new release of the OEB, including the New Testament and Psalms and available from the front page of the Open English Bible website at http://openenglishbible.org
 Some of the improvements include:
- Continual improvements on the backend build software. Addition of the book of Amos, completing the Twelve. Various adjustments to improve naturalism of language and minor transcription errors.  We hope you like this release. We are now working on the book of Isaiah, and will do a new release when that work is completed.</description>
+Continual improvements on the backend build software. Addition of the book of Amos, completing the Twelve. Various adjustments to improve naturalism of language and minor transcription errors. We hope you like this release. We are now working on the book of Isaiah, and will do a new release when that work is completed.</description>
     </item>
     
     <item>
@@ -37,7 +48,7 @@ Some of the improvements include:
       <guid>https://openenglishbible.org/blog/2020.1-release/</guid>
       <description>We’re pleased to announce a new release of the OEB, including the New Testament and Psalms and available from the front page of the Open English Bible website at http://openenglishbible.org
 Some of the improvements include:
- Continual improvements on the backend build software. Addition of the book of Hosea. Various adjustments to improve naturalism of language and minor transcription errors.  We hope you like this release. We are now working on the remaining book from the Minor Prophets - Amos - and will do a new release when that work is completed.</description>
+Continual improvements on the backend build software. Addition of the book of Hosea. Various adjustments to improve naturalism of language and minor transcription errors. We hope you like this release. We are now working on the remaining book from the Minor Prophets - Amos - and will do a new release when that work is completed.</description>
     </item>
     
     <item>
@@ -82,7 +93,7 @@ This is a faithful transcription of the version Prof.</description>
       <description>About Hosea One of the earliest of the prophetic books, Hosea has 14 chapters, with versification in the NRSV and JPS differing towards the beginning and end.
 Hebrew Source As for the rest of the OEB Hebrew Bible, we are using the Masoretic Text as found in the Leningrad Codex and transcribed in the Westminster Leningrad Codex.
 However, as the NET Bible translators note:
- The textual problems in Hosea are virtually unparalleled in the OT.</description>
+The textual problems in Hosea are virtually unparalleled in the OT.</description>
     </item>
     
     <item>
@@ -104,7 +115,7 @@ As of December 2018, the OEB is &amp;lsquo;rebooted&amp;rsquo; - we&amp;rsquo;re
       <description>We’re pleased to announce a new release of the OEB, including the New Testament and Psalms and available from the front page of the Open English Bible website at http://openenglishbible.org
 We have dedicated this release to Konrad Sweynheym and Arnold Pannartz, who were the first printers (in around 1470) to print a Bible in Roman text and not Blackletter. Better reading through technology!
 Some of the improvements include:
- Continual improvements on the backend build software which should allow much more frequent releases in the future.</description>
+Continual improvements on the backend build software which should allow much more frequent releases in the future.</description>
     </item>
     
     <item>
@@ -236,7 +247,7 @@ About 350 of them checked out the OEB on the online reader, there were 245 downl
       <pubDate>Wed, 29 Jun 2011 00:00:00 +0000</pubDate>
       
       <guid>https://openenglishbible.org/blog/hoi-ioudaioi/</guid>
-      <description>The translation of this term, which appears in the King James Version as &amp;lsquo;the Jews&amp;rsquo;, is difficult and sensitive. The mind of the modern reader is different to that of the initial readers of John&amp;rsquo;s Gospel and of Acts. We read in the context of our culture and our history, just as the early readers of the Gospel of John read in the light of theirs.
+      <description>The translation of this term, which appears in the King James Version as &amp;rsquo;the Jews&amp;rsquo;, is difficult and sensitive. The mind of the modern reader is different to that of the initial readers of John&amp;rsquo;s Gospel and of Acts. We read in the context of our culture and our history, just as the early readers of the Gospel of John read in the light of theirs.
 In keeping with our commitment to be open and transparent in the translation choices we are making, I’ve written this post to explain how the OEB project deals with this challenge.</description>
     </item>
     
@@ -421,7 +432,7 @@ Accordingly it covers the New Testament only, with a mostly modern language and 
       
       <guid>https://openenglishbible.org/blog/welcome/</guid>
       <description>The Open English Bible is the anticipated end product of a project intended to create an English translation of the Bible that is:
- under a licence enabling the maximum reuse, remixing and sharing without requiring the payment of royalties or the obtaining of permission from copyright holders; and a translation reflecting modern English usage and Biblical scholarshipThe OEB is being formed by editing the public domain Twentieth Century New Testament, which was a new translation of the New Testament published in the early twentieth century, based on the Greek text of Westcott and Hort.</description>
+under a licence enabling the maximum reuse, remixing and sharing without requiring the payment of royalties or the obtaining of permission from copyright holders; and a translation reflecting modern English usage and Biblical scholarshipThe OEB is being formed by editing the public domain Twentieth Century New Testament, which was a new translation of the New Testament published in the early twentieth century, based on the Greek text of Westcott and Hort.</description>
     </item>
     
   </channel>
