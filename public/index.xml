@@ -2,467 +2,333 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Welcome</title>
-    <link>https://openenglishbible.org/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Welcome</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Dec 2015 22:50:04 +1100</lastBuildDate><atom:link href="https://openenglishbible.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2025.6 release of OEB</title>
+      <link>http://localhost:1313/blog/2025.6-release/</link>
+      <pubDate>Sun, 21 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2025.6-release/</guid>
+      <description>&lt;p&gt;We’re pleased to announce a new release of the OEB, including the New Testament and Psalms and available from the front page of the Open English Bible website at &lt;a href=&#34;http://openenglishbible.org&#34;&gt;http://openenglishbible.org&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;The major item from this release is the inclusion of the book of Genesis.&lt;/p&gt;&#xA;&lt;p&gt;The release also includes various adjustments to improve naturalism of language and minor transcription errors.&lt;/p&gt;&#xA;&lt;p&gt;We hope you like this release.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A Carolingian Evangeliary</title>
+      <link>http://localhost:1313/blog/monnikenwerk/</link>
+      <pubDate>Sat, 21 Jun 2025 11:52:28 +1100</pubDate>
+      <guid>http://localhost:1313/blog/monnikenwerk/</guid>
+      <description>&lt;p&gt;Christiaan, an artist from the Netherlands, has written to let us know his use of the Gospels from the Open English Bible in his &lt;a href=&#34;https://en.wikipedia.org/wiki/Evangeliary&#34;&gt;evangeliary&lt;/a&gt; according to the ‘Carolingian’ style of western medieval bookbinding (c. 800-1100).&lt;/p&gt;&#xA;&lt;p&gt;His blog at his site Monnikenwerk has a great description of the &lt;a href=&#34;https://monnikenwerk.art/tutorials/making-of-plain-carolingian-bible/&#34;&gt;binding process&lt;/a&gt; with pictures.&lt;/p&gt;&#xA;&lt;p&gt;Christiaan explains that the bindings are natural-colored deer leather on wooden boards (historically oak), as would have been used in monasteries of that period.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>2022.1 release of OEB</title>
-      <link>https://openenglishbible.org/blog/2022.1-release/</link>
+      <link>http://localhost:1313/blog/2022.1-release/</link>
       <pubDate>Tue, 12 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://openenglishbible.org/blog/2022.1-release/</guid>
-      <description>We’re pleased to announce a new release of the OEB, including the New Testament and Psalms and available from the front page of the Open English Bible website at http://openenglishbible.org
-This is a small release, including various adjustments to improve naturalism of language and minor transcription errors.
-We hope you like this release.</description>
+      <guid>http://localhost:1313/blog/2022.1-release/</guid>
+      <description>&lt;p&gt;We’re pleased to announce a new release of the OEB, including the New Testament and Psalms and available from the front page of the Open English Bible website at &lt;a href=&#34;http://openenglishbible.org&#34;&gt;http://openenglishbible.org&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;This is a small release, including various adjustments to improve naturalism of language and minor transcription errors.&lt;/p&gt;&#xA;&lt;p&gt;We hope you like this release.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Ruth: A Somewhat Different Commentary</title>
-      <link>https://openenglishbible.org/blog/ruth-stubbersfield/</link>
+      <link>http://localhost:1313/blog/ruth-stubbersfield/</link>
       <pubDate>Tue, 16 Nov 2021 11:52:28 +1100</pubDate>
-      
-      <guid>https://openenglishbible.org/blog/ruth-stubbersfield/</guid>
-      <description>Ted Stubbersfield has written &amp;ldquo;Ruth: A Somewhat Different Commentary&amp;rdquo;, incorporating the text of the Book of Ruth from the OEB. Ted&amp;rsquo;s commentary is published by Wipf &amp;amp; Stock
-Ted says:
-The subtitle of this book is &amp;ldquo;A Somewhat Different Commentary,&amp;rdquo; so how is it different? Theology without application can be lifeless and boring, and while the comments have been well-researched, contemporary application has been primarily my focus. I hope that with this commentary on the book of Ruth I have written something that can be read for pleasure as well as spiritual growth.</description>
+      <guid>http://localhost:1313/blog/ruth-stubbersfield/</guid>
+      <description>&lt;figure class=&#34;blogpic&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/ruth-stubbersfield.jpg&#34;&#xA;    alt=&#34;Ruth book cover&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;Ted Stubbersfield has written &amp;ldquo;Ruth: A Somewhat Different Commentary&amp;rdquo;, incorporating the text of the &lt;a href=&#34;https://openenglishbible.org/oeb/2020.2/read/b008.html&#34;&gt;Book of Ruth&lt;/a&gt; from the OEB. Ted&amp;rsquo;s commentary is published by &lt;a href=&#34;https://wipfandstock.com/&#34;&gt;Wipf &amp;amp; Stock&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Ted says:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;The subtitle of this book is &amp;ldquo;A Somewhat Different Commentary,&amp;rdquo; so how is it different? Theology without application can be lifeless and boring, and while the comments have been well-researched, contemporary application has been primarily my focus. I hope that with this commentary on the book of Ruth I have written something that can be read for pleasure as well as spiritual growth. I started writing this commentary during the drought of 2019 that ravaged Australia, prompting me to keep my small farming valley in mind. Whenever possible I have tried to tie the lessons of Ruth back to the issues I see in my own community, one which has foreign farm workers, successful landholders, virtuous men and women, older godly women who no longer work but have influence, the issue of who gets the farm, and what constitutes citizenship.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Development</title>
-      <link>https://openenglishbible.org/development/</link>
+      <link>http://localhost:1313/development/</link>
       <pubDate>Fri, 06 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://openenglishbible.org/development/</guid>
-      <description>Development This is the development page for the Open English Bible. If you would like to help out, the steps are first to join the forum, then secondly to help check one of the books not yet in release.
-GitHub Discussion about the development, and the OEB project in general, happens on the discussion forum on GitHub. You can post on the forum with your GitHub account.
-An older forum is now archived at forum.</description>
+      <guid>http://localhost:1313/development/</guid>
+      <description>&lt;h1 id=&#34;development&#34;&gt;Development&lt;/h1&gt;&#xA;&lt;p&gt;This is the development page for the Open English Bible. If you would like to help out, the steps are first to join the forum, then secondly to help check one of the books not yet in release.&lt;/p&gt;&#xA;&lt;h2 id=&#34;github&#34;&gt;GitHub&lt;/h2&gt;&#xA;&lt;p&gt;Discussion about the development, and the OEB project in general, happens on &lt;a href=&#34;https://github.com/openenglishbible/Open-English-Bible/discussions&#34;&gt;the discussion forum on GitHub&lt;/a&gt;. You can post on the forum with your GitHub account.&lt;/p&gt;&#xA;&lt;p&gt;An older forum is now archived at &lt;a href=&#34;https://forum.openenglishbible.org&#34;&gt;forum.openenglishbible.org&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>FAQ</title>
-      <link>https://openenglishbible.org/faq/</link>
+      <link>http://localhost:1313/faq/</link>
       <pubDate>Fri, 06 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://openenglishbible.org/faq/</guid>
-      <description>Frequently Asked Questions What is the Open English Bible? The Open English Bible project aims to create a translation of the Bible into formal but contemporary English which is completely free of copyright restrictions and available without cost for any purpose. The OEB has no restrictions on what its readers and users can do with it (for both good and bad). You may quote it, publish it in part or full, on their blogs, in your churches, remix it, reword it, correct its egregious translation mistakes or indeed add your own.</description>
+      <guid>http://localhost:1313/faq/</guid>
+      <description>&lt;h1 id=&#34;frequently-asked-questions&#34;&gt;Frequently Asked Questions&lt;/h1&gt;&#xA;&lt;h2 id=&#34;what-is-the-open-english-bible&#34;&gt;What is the Open English Bible?&lt;/h2&gt;&#xA;&lt;p&gt;The Open English Bible project aims to create a translation of the Bible into formal but contemporary English which is completely free of copyright restrictions and available without cost for any purpose. The OEB has no restrictions on what its readers and users can do with it (for both good and bad). You may quote it, publish it in part or full, on their blogs, in your churches, remix it, reword it, correct its egregious translation mistakes or indeed add your own.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>2020.2 release of OEB</title>
-      <link>https://openenglishbible.org/blog/2020.2-release/</link>
+      <link>http://localhost:1313/blog/2020.2-release/</link>
       <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://openenglishbible.org/blog/2020.2-release/</guid>
-      <description>We’re pleased to announce a new release of the OEB, including the New Testament and Psalms and available from the front page of the Open English Bible website at http://openenglishbible.org
-Some of the improvements include:
-Continual improvements on the backend build software. Addition of the book of Amos, completing the Twelve. Various adjustments to improve naturalism of language and minor transcription errors. We hope you like this release. We are now working on the book of Isaiah, and will do a new release when that work is completed.</description>
+      <guid>http://localhost:1313/blog/2020.2-release/</guid>
+      <description>&lt;p&gt;We’re pleased to announce a new release of the OEB, including the New Testament and Psalms and available from the front page of the Open English Bible website at &lt;a href=&#34;http://openenglishbible.org&#34;&gt;http://openenglishbible.org&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Some of the improvements include:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Continual improvements on the backend build software.&lt;/li&gt;&#xA;&lt;li&gt;Addition of the book of Amos, completing the Twelve.&lt;/li&gt;&#xA;&lt;li&gt;Various adjustments to improve naturalism of language and minor transcription errors.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;We hope you like this release. We are now working on the book of Isaiah, and will do a new release when that work is completed.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>2020.1 release of OEB</title>
-      <link>https://openenglishbible.org/blog/2020.1-release/</link>
+      <link>http://localhost:1313/blog/2020.1-release/</link>
       <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://openenglishbible.org/blog/2020.1-release/</guid>
-      <description>We’re pleased to announce a new release of the OEB, including the New Testament and Psalms and available from the front page of the Open English Bible website at http://openenglishbible.org
-Some of the improvements include:
-Continual improvements on the backend build software. Addition of the book of Hosea. Various adjustments to improve naturalism of language and minor transcription errors. We hope you like this release. We are now working on the remaining book from the Minor Prophets - Amos - and will do a new release when that work is completed.</description>
+      <guid>http://localhost:1313/blog/2020.1-release/</guid>
+      <description>&lt;p&gt;We’re pleased to announce a new release of the OEB, including the New Testament and Psalms and available from the front page of the Open English Bible website at &lt;a href=&#34;http://openenglishbible.org&#34;&gt;http://openenglishbible.org&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Some of the improvements include:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Continual improvements on the backend build software.&lt;/li&gt;&#xA;&lt;li&gt;Addition of the book of Hosea.&lt;/li&gt;&#xA;&lt;li&gt;Various adjustments to improve naturalism of language and minor transcription errors.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;We hope you like this release. We are now working on the remaining book from the Minor Prophets - Amos - and will do a new release when that work is completed.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Improving our reading interface</title>
-      <link>https://openenglishbible.org/blog/2019-01-improving-reading/</link>
+      <link>http://localhost:1313/blog/2019-01-improving-reading/</link>
       <pubDate>Mon, 14 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://openenglishbible.org/blog/2019-01-improving-reading/</guid>
-      <description>For a while now we have provided two versions of the OEB for reading online.
-One version, dubbed the &amp;lsquo;Study&amp;rsquo; version, is based on the Bible Browser software used by the Digital Bible Society for their inscript.org website. This is a powerful webapp allowing for comparison of the OEB with other translations and the original Greek and Hebrew of the Bible.
-However we&amp;rsquo;ve also provided another version, dubbed the &amp;lsquo;Read&amp;rsquo; version which has a different aim.</description>
+      <guid>http://localhost:1313/blog/2019-01-improving-reading/</guid>
+      <description>&lt;p&gt;For a while now we have provided two versions of the OEB for reading online.&lt;/p&gt;&#xA;&lt;p&gt;One version, dubbed the &amp;lsquo;Study&amp;rsquo; version, is based on the &lt;a href=&#34;https://github.com/digitalbiblesociety/browserbible-3&#34;&gt;Bible Browser&lt;/a&gt; software used by the &lt;a href=&#34;https://dbs.org/&#34;&gt;Digital Bible Society&lt;/a&gt; for their &lt;a href=&#34;https://inscript.org&#34;&gt;inscript.org&lt;/a&gt; website. This is a powerful webapp allowing for comparison of the OEB with other translations and the original Greek and Hebrew of the Bible.&lt;/p&gt;&#xA;&lt;p&gt;However we&amp;rsquo;ve also provided another version, dubbed the &amp;lsquo;Read&amp;rsquo; version which has a different aim. This version is light on resource use - with almost no javascript - and it also light in functionality. It is all about the reading. Verse and chapter markers are moved out of the text, and the text is presented with paragraphs and poetry formatted for clarity.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Cleaning up Github</title>
-      <link>https://openenglishbible.org/blog/2019-01-cleaning-up-github/</link>
+      <link>http://localhost:1313/blog/2019-01-cleaning-up-github/</link>
       <pubDate>Sun, 06 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://openenglishbible.org/blog/2019-01-cleaning-up-github/</guid>
-      <description>Over time, the &amp;lsquo;openenglishbible&amp;rsquo; account on GitHub has accumulated a bunch of repositories, many of which are now out of date. Recently we did a bit of a cleanup, and so now would be a good time to set out what each of them is.
-First, the main one:
-github.com/openenglishbible/Open-English-Bible This is the sources and built artifacts for the Open English Bible translation. There are two branches - the master for releases and &amp;lsquo;dev&amp;rsquo; for the development documents.</description>
+      <guid>http://localhost:1313/blog/2019-01-cleaning-up-github/</guid>
+      <description>&lt;p&gt;Over time, the &amp;lsquo;openenglishbible&amp;rsquo; account on GitHub has accumulated a bunch of repositories, many of which are now out of date. Recently we did a bit of a cleanup, and so now would be a good time to set out what each of them is.&lt;/p&gt;&#xA;&lt;p&gt;First, the main one:&lt;/p&gt;&#xA;&lt;h2 id=&#34;githubcomopenenglishbibleopen-english-bible&#34;&gt;github.com/openenglishbible/Open-English-Bible&lt;/h2&gt;&#xA;&lt;p&gt;This is the sources and built artifacts for the Open English Bible translation. There are two branches - the master for releases and &amp;lsquo;dev&amp;rsquo; for the development documents.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title> Transcribing Hosea</title>
-      <link>https://openenglishbible.org/blog/hosea-transcribed/</link>
+      <link>http://localhost:1313/blog/hosea-transcribed/</link>
       <pubDate>Sun, 30 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://openenglishbible.org/blog/hosea-transcribed/</guid>
-      <description>As outlined in the last post, we are using as a base English translation a translation of Hosea by Charles Foster Kent published in Student&amp;rsquo;s Old Testament: Sermons, Epistles and Apocalypses of Israel&amp;rsquo;s Prophets (1910).
-A transcription of this has just been committed to the GitHub repository as a USFM.db file, and a .usfm file and .rtf file (for opening in a word processor) have also been committed.
-This is a faithful transcription of the version Prof.</description>
+      <guid>http://localhost:1313/blog/hosea-transcribed/</guid>
+      <description>&lt;p&gt;As outlined in the last post, we are using as a base English translation a translation of Hosea by &lt;a href=&#34;https://en.wikipedia.org/wiki/Charles_Foster_Kent&#34;&gt;Charles Foster Kent&lt;/a&gt; published in &lt;a href=&#34;https://archive.org/details/studentsoldtesta03kent&#34;&gt;Student&amp;rsquo;s Old Testament: Sermons, Epistles and Apocalypses of Israel&amp;rsquo;s Prophets&lt;/a&gt; (1910).&lt;/p&gt;&#xA;&lt;p&gt;A transcription of this has just been committed to the GitHub repository as a &lt;a href=&#34;https://github.com/openenglishbible/Open-English-Bible/blob/dev/source/28-Hosea.usfm.db&#34;&gt;USFM.db&lt;/a&gt; file, and a &lt;a href=&#34;https://github.com/openenglishbible/Open-English-Bible/blob/dev/artifacts/us/usfm/28-Hosea.usfm&#34;&gt;.usfm file&lt;/a&gt; and &lt;a href=&#34;https://github.com/openenglishbible/Open-English-Bible/blob/dev/artifacts/us/rtf/oeb-working-28-Hosea.rtf&#34;&gt;.rtf file&lt;/a&gt; (for opening in a word processor) have also been committed.&lt;/p&gt;&#xA;&lt;p&gt;This is a faithful transcription of the version Prof. Kent published into USFM, but there are some important caveats we should mention:&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title> Starting on Hosea</title>
-      <link>https://openenglishbible.org/blog/hosea-transcribing/</link>
+      <link>http://localhost:1313/blog/hosea-transcribing/</link>
       <pubDate>Sat, 22 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://openenglishbible.org/blog/hosea-transcribing/</guid>
-      <description>About Hosea One of the earliest of the prophetic books, Hosea has 14 chapters, with versification in the NRSV and JPS differing towards the beginning and end.
-Hebrew Source As for the rest of the OEB Hebrew Bible, we are using the Masoretic Text as found in the Leningrad Codex and transcribed in the Westminster Leningrad Codex.
-However, as the NET Bible translators note:
-The textual problems in Hosea are virtually unparalleled in the OT.</description>
+      <guid>http://localhost:1313/blog/hosea-transcribing/</guid>
+      <description>&lt;h2 id=&#34;about-hosea&#34;&gt;About Hosea&lt;/h2&gt;&#xA;&lt;p&gt;One of the earliest of the prophetic books, Hosea  has 14 chapters, with versification in the NRSV and JPS differing towards the beginning and end.&lt;/p&gt;&#xA;&lt;h2 id=&#34;hebrew-source&#34;&gt;Hebrew Source&lt;/h2&gt;&#xA;&lt;p&gt;As for the rest of the OEB Hebrew Bible, we are using the Masoretic Text as found in the &lt;a href=&#34;https://en.wikipedia.org/wiki/Leningrad_Codex&#34;&gt;Leningrad Codex&lt;/a&gt; and transcribed in the &lt;a href=&#34;https://www.grovescenter.org/projects/westminster-leningrad-codex/&#34;&gt;Westminster Leningrad Codex&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;However, as the NET Bible translators note:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;The textual problems in Hosea are virtually unparalleled in the OT. The Masoretic Text (MT), represented by the Leningrad Codex (c. A.D. 1008), which served as the basis for both BHK and BHS, and the Aleppo Codex (c. A.D. 952), are textually corrupt by all accounts and have a multitude of scribal errors. Many medieval Masoretic MSS preserve textual variants that differ from the Leningrad and Aleppo Codices. The Qumran materials (4QXIIc,d,g) contain numerous textual variants that differ from the MT; unfortunately, these texts are quite fragmentary (frequently in the very place that an important textual problem appears). The textual tradition and translation quality of the LXX and the early Greek recensions (Aquila, Symmachus, Theodotion) is mixed; in some places they are inferior to the MT but in other places they preserve a better reading. The textual apparatus of BHK and BHS contains many proposed emendations based on the ancient versions (Greek, Syriac, Latin, Aramaic) that often appear to be superior readings than what is preserved in the MT. In numerous cases, the MT readings are so difficult morphologically, syntactically, and contextually that conservative conjectural emendations are necessary to make sense of the text. Most major English versions (e.g., KJV, ASV, RSV, NEB, NAB, NASB, NIV, TEV, NKJV, NJPS, NJB, NRSV, REB, NCV, CEV, NLT) adopt (either occasionally or frequently) textual variants reflected in the versions and occasionally adopt conservative conjectural emendations proposed in BHK and/or BHS. However, many of the textual problems in Hosea are so difficult that the English versions frequently are split among themselves. With this in mind, the present translation of Hosea must necessarily be viewed as only preliminary. Further work on the text and translation of Hosea is needed, not only in terms of the NET BIBLE but in Hosea studies in general. &lt;a href=&#34;https://netbible.org/bible/Hosea+1&#34;&gt;NET Bible notes&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title> Rebooting the OEB project</title>
-      <link>https://openenglishbible.org/blog/2018-reboot/</link>
+      <link>http://localhost:1313/blog/2018-reboot/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://openenglishbible.org/blog/2018-reboot/</guid>
-      <description>We&amp;rsquo;re back&amp;hellip; You may have noticed that activity has been a little slow over the last year. Partly that has been because the changes we&amp;rsquo;ve been making are less public (changes to backend software etc) but it is also because progress did actually stall for a while.
-As of December 2018, the OEB is &amp;lsquo;rebooted&amp;rsquo; - we&amp;rsquo;re back and you should now see regular updates as we push towards an initial release of all the books of the Old Testament/Hebrew Bible.</description>
+      <guid>http://localhost:1313/blog/2018-reboot/</guid>
+      <description>&lt;p&gt;&lt;img style=&#34;float: right; margin: 0px 0px 15px 15px;&#34; src=&#34;http://localhost:1313/img/scribe.jpg&#34;&gt;We&amp;rsquo;re back&amp;hellip; You may have noticed that activity has been a little slow over the last year. Partly that has been because the changes we&amp;rsquo;ve been making are less public (changes to backend software etc) but it is also because progress did actually stall for a while.&lt;/p&gt;&#xA;&lt;p&gt;As of December 2018, the OEB is &amp;lsquo;rebooted&amp;rsquo; - we&amp;rsquo;re back and you should now see regular updates as we push towards an initial release of all the books of the Old Testament/Hebrew Bible.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>2016.1 release of OEB</title>
-      <link>https://openenglishbible.org/blog/2016.1-release/</link>
+      <link>http://localhost:1313/blog/2016.1-release/</link>
       <pubDate>Wed, 01 Jun 2016 13:52:59 +1000</pubDate>
-      
-      <guid>https://openenglishbible.org/blog/2016.1-release/</guid>
-      <description>We’re pleased to announce a new release of the OEB, including the New Testament and Psalms and available from the front page of the Open English Bible website at http://openenglishbible.org
-We have dedicated this release to Konrad Sweynheym and Arnold Pannartz, who were the first printers (in around 1470) to print a Bible in Roman text and not Blackletter. Better reading through technology!
-Some of the improvements include:
-Continual improvements on the backend build software which should allow much more frequent releases in the future.</description>
+      <guid>http://localhost:1313/blog/2016.1-release/</guid>
+      <description>&lt;p&gt;We’re pleased to announce a new release of the OEB, including the New Testament and Psalms and available from the front page of the Open English Bible website at &lt;a href=&#34;http://openenglishbible.org&#34;&gt;http://openenglishbible.org&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;We have dedicated this release to &lt;a href=&#34;http://ilovetypography.com/2014/12/10/first-bible-set-roman-type/&#34;&gt;Konrad Sweynheym and Arnold Pannartz&lt;/a&gt;, who were the first printers (in around 1470) to print a Bible in Roman text and not Blackletter.  Better reading through technology!&lt;/p&gt;&#xA;&lt;p&gt;Some of the improvements include:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Continual improvements on the backend build software which should allow much more frequent releases in the future.&lt;/li&gt;&#xA;&lt;li&gt;Considerable improvement in the compatiblity of the USFM with the Paratext standard (thanks to Michael Johnson for his help).&lt;/li&gt;&#xA;&lt;li&gt;Addition of most of the Minor Prophets: Joel, Obadiah, Jonah, Micah, Nahum, Habakkuk, Zephaniah, Haggai and Zechariah.&lt;/li&gt;&#xA;&lt;li&gt;Reduction in punctuation it the New Testament to better match modern customs.&lt;/li&gt;&#xA;&lt;li&gt;All verses in the standard versification (NRSV) which don&amp;rsquo;t have associated content in the Wescott &amp;amp; Hort Greek NT are now footnoted.&lt;/li&gt;&#xA;&lt;li&gt;&amp;lsquo;Hades&amp;rsquo; is now transliterated in the NT in the same was as Gehenna to aid concordance.&lt;/li&gt;&#xA;&lt;li&gt;Various adjustments to improve naturalism of language.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;We hope you like this release. We will do another release in two months time (1 August) or sooner if we come across an issue that can&amp;rsquo;t wait (the &lt;a href=&#34;https://en.wikipedia.org/wiki/Wicked_Bible&#34;&gt;Wicked Bible&lt;/a&gt; Scenario).&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Refreshing the OEB website</title>
-      <link>https://openenglishbible.org/blog/refresh-website/</link>
+      <link>http://localhost:1313/blog/refresh-website/</link>
       <pubDate>Mon, 07 Dec 2015 11:13:56 +1100</pubDate>
-      
-      <guid>https://openenglishbible.org/blog/refresh-website/</guid>
-      <description>The OEB website has become a little bit, um, venerable over the last couple of years. Although it was always clean and simple, it wasn&amp;rsquo;t up to date with the latest responsive designs needed for the large numbers of people reading on their mobile phones and tablets.
-So the time was right for a refresh. The design has stayed mostly the same, but the site itself is now built using Foundation and Hugo and all the sources are hosted on Github - so if you have improvements (or just find the inevitable speling mistake) then you can help us fix it.</description>
+      <guid>http://localhost:1313/blog/refresh-website/</guid>
+      <description>&lt;p&gt;The OEB website has become a little bit, um, venerable over the last couple of years. Although it was always clean and simple, it wasn&amp;rsquo;t up to date with the latest responsive designs needed for the large numbers of people reading on their mobile phones and tablets.&lt;/p&gt;&#xA;&lt;p&gt;So the time was right for a refresh. The design has stayed mostly the same, but the site itself is now built using &lt;a href=&#34;http://foundation.zurb.com/&#34;&gt;Foundation&lt;/a&gt; and &lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; and all the sources are hosted on &lt;a href=&#34;https://github.com/openenglishbible/openenglishbible.org&#34;&gt;Github&lt;/a&gt; - so if you have improvements (or just find the inevitable speling mistake) then you can help us fix it.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Publications</title>
-      <link>https://openenglishbible.org/publications/</link>
+      <link>http://localhost:1313/publications/</link>
       <pubDate>Sat, 05 Dec 2015 23:07:29 +1100</pubDate>
-      
-      <guid>https://openenglishbible.org/publications/</guid>
-      <description>How other people have used the Open English Bible The OEB has from the start been intended to be more than just another translation. We anticipate it being the base for many translations. The text of the OEB is as free from restriction as we can make it, so that anyone can take it and use it as their own beliefs and conscience dictate — without requiring our permission or approval.</description>
+      <guid>http://localhost:1313/publications/</guid>
+      <description>&lt;h1 id=&#34;how-other-people-have-used-the-open-english-bible&#34;&gt;How other people have used the Open English Bible&lt;/h1&gt;&#xA;&lt;p&gt;The OEB has from the start been intended to be more than just another translation. We anticipate it being the base for many translations. The text of the OEB is as free from restriction as we can make it, so that anyone can take it and use it as their own beliefs and conscience dictate — without requiring our permission or approval.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>OEB (2014.11) - &#39;Julia E Smith&#39; Release</title>
-      <link>https://openenglishbible.org/blog/new-release-14/</link>
+      <link>http://localhost:1313/blog/new-release-14/</link>
       <pubDate>Sat, 06 Dec 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://openenglishbible.org/blog/new-release-14/</guid>
-      <description>We’re pleased to announce a new release of the OEB, including the New Testament and Psalms and available from the front page of the Open English Bible website at http://openenglishbible.org
-This release is the first in a line of releases to include more books from the Hebrew Bible/Old Testament. In this release we have included Ruth, and Esther.
-We have dedicated this release to Julia Evelina Smith (1792-1886) whose translation of the Bible was the first translation of the entire Bible by a woman.</description>
+      <guid>http://localhost:1313/blog/new-release-14/</guid>
+      <description>&lt;p&gt;We’re pleased to announce a new release of the OEB, including the New Testament and Psalms and available from the front page of the Open English Bible website at &lt;a href=&#34;http://openenglishbible.org&#34;&gt;http://openenglishbible.org&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;This release is the first in a line of releases to include more books from the Hebrew Bible/Old Testament. In this release we have included Ruth, and Esther.&lt;/p&gt;&#xA;&lt;p&gt;We have dedicated this release to Julia Evelina Smith (1792-1886) whose translation of the Bible was the first translation of the entire Bible by a woman. Julia was a suffragette, from an nonconformist and abolitionist family in Connecticut. Her preface to her translation, published in 1876, begins: “It may seem presumptuous for an ordinary woman with no particular advantages of education to translate and publish alone, the most wonderful book that has ever appeared in the world, and thought to be the most difficult to translate.”&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>New Release of Open English Bible</title>
-      <link>https://openenglishbible.org/blog/new-release-13/</link>
+      <link>http://localhost:1313/blog/new-release-13/</link>
       <pubDate>Sat, 16 Nov 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://openenglishbible.org/blog/new-release-13/</guid>
-      <description>We’re pleased to announce a new release of the OEB, including the New Testament and Psalms and available from the front page of the Open English Bible website at http://openenglishbible.org
-This release is part of our new release policy. We aim to put out a new revision of the OEB four times a year - roughly January, April, July, October. Yes, we are a little bit late this release :)</description>
+      <guid>http://localhost:1313/blog/new-release-13/</guid>
+      <description>&lt;p&gt;We’re pleased to announce a new release of the OEB, including the New Testament and Psalms and available from the front page of the Open English Bible website at &lt;a href=&#34;http://openenglishbible.org/&#34;&gt;http://openenglishbible.org&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;This release is part of our new release policy. We aim to put out a new revision of the OEB four times a year - roughly January, April, July, October. Yes, we are a little bit late this release :)&lt;/p&gt;&#xA;&lt;p&gt;This fast release cycle is in line with a saying from the Open Source software world - “release early and release often” - and because we’ve been doing some great work preparing more books from the Old Testament, and revising the New Testament and want to get that work out for people to look at and comment on. Stick with us and we promise great things are in the pipeline!&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>New Development Build</title>
-      <link>https://openenglishbible.org/blog/new-dev-build-13/</link>
+      <link>http://localhost:1313/blog/new-dev-build-13/</link>
       <pubDate>Sun, 19 May 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://openenglishbible.org/blog/new-dev-build-13/</guid>
-      <description>Work on the OEB is done in the open - you can follow it on the GitHub repository (if you are geeky), on the mailing list/forum and on a regular basis we try to build a development version. These development versions have books in them which aren’t yet ready for wide release, so they’re not appropriate for a worship or study context. But if you want to keep track of what’s happening, or want to help out, then why not go to the development page, join the forum and help build a new type of Bible translation!</description>
+      <guid>http://localhost:1313/blog/new-dev-build-13/</guid>
+      <description>&lt;p&gt;Work on the OEB is done in the open - you can follow it on the &lt;a href=&#34;https://github.com/openenglishbible/Open-English-Bible&#34;&gt;GitHub repository&lt;/a&gt; (if you are geeky), on the &lt;a href=&#34;http://forum.openenglishbible.org/&#34;&gt;mailing list/forum&lt;/a&gt; and on a regular basis we try to build a development version. These development versions have books in them which aren’t yet ready for wide release, so they’re not appropriate for a worship or study context. But if you want to keep track of what’s happening, or want to help out, then why not go to the &lt;a href=&#34;http://openenglishbible.org/development/&#34;&gt;development page&lt;/a&gt;, join the forum and help build a new type of Bible translation!&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>A New New Testament by Hal Taussig</title>
-      <link>https://openenglishbible.org/blog/new-new-testament/</link>
+      <link>http://localhost:1313/blog/new-new-testament/</link>
       <pubDate>Sat, 09 Mar 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://openenglishbible.org/blog/new-new-testament/</guid>
-      <description>The OEB has from the start been intended to be more than just another translation. We anticipate it being the base for many translations. The text of the OEB is as free from restriction as we can make it, so that anyone can take it and use it as their own beliefs and conscience dictate — without requiring our permission or approval.
-Engaging with the Bible means more than just reading an approved translation made by others.</description>
+      <guid>http://localhost:1313/blog/new-new-testament/</guid>
+      <description>&lt;p&gt;&lt;figure class=&#34;blogpic&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/new-new-testament.jpg&#34;&#xA;    alt=&#34;A New New Testament book cover&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;The OEB has from the start been intended to be more than just another translation. We anticipate it being the base for many translations. The text of the OEB is as free from restriction as we can make it, so that anyone can take it and use it as their own beliefs and conscience dictate — without requiring our permission or approval.&lt;/p&gt;&#xA;&lt;p&gt;Engaging with the Bible means more than just reading an approved translation made by others. It also means translating it into our heart languages, sharing stories and lessons with each other, exploring depth and shades which single standard English phrasings colour over.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Mailing list and forum</title>
-      <link>https://openenglishbible.org/blog/mailing-list-forum/</link>
+      <link>http://localhost:1313/blog/mailing-list-forum/</link>
       <pubDate>Wed, 12 Sep 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://openenglishbible.org/blog/mailing-list-forum/</guid>
-      <description>For a while now, development of the OEB has taken place by an ad-hoc network of emails. For a while the issues list on Github was being used to handle changes, but that fell into disuse.
-Neither of these two methods is really satisfactory - emails rely too much on a single person, and the issues list was too constraining in terms of conversations, and didn’t provide the human interaction that it vital for a proper community.</description>
+      <guid>http://localhost:1313/blog/mailing-list-forum/</guid>
+      <description>&lt;p&gt;For a while now, development of the OEB has taken place by an ad-hoc network of emails. For a while the issues list on Github was being used to handle changes, but that fell into disuse.&lt;/p&gt;&#xA;&lt;p&gt;Neither of these two methods is really satisfactory - emails rely too much on a single person, and the issues list was too constraining in terms of conversations, and didn’t provide the human interaction that it vital for a proper community.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Work continues...</title>
-      <link>https://openenglishbible.org/blog/work-continues-12/</link>
+      <link>http://localhost:1313/blog/work-continues-12/</link>
       <pubDate>Wed, 22 Aug 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://openenglishbible.org/blog/work-continues-12/</guid>
-      <description>Although things may appear on the surface to be moving slowly, progress continues on improving the Open English Bible. From now on, when books from the Old Testament are considered to be in a suitable state for wider reading, they will be linked to from the front page in PDF form.
-So far, the Psalms and the book of Ruth have been added, but more are in the pipeline.
-As before, drafts can be found on our development page.</description>
+      <guid>http://localhost:1313/blog/work-continues-12/</guid>
+      <description>&lt;p&gt;Although things may appear on the surface to be moving slowly, progress continues on improving the Open English Bible. From now on, when books from the Old Testament are considered to be in a suitable state for wider reading, they will be linked to from the front page in PDF form.&lt;/p&gt;&#xA;&lt;p&gt;So far, the Psalms and the book of Ruth have been added, but more are in the pipeline.&lt;/p&gt;&#xA;&lt;p&gt;As before, drafts can be found on our development page. These haven’t yet been checked as consistently as the New Testament, so although they should be free of typos and translation errors, you should check them yourselves before relying on them.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Sword module now available!</title>
-      <link>https://openenglishbible.org/blog/sword-module/</link>
+      <link>http://localhost:1313/blog/sword-module/</link>
       <pubDate>Sun, 11 Mar 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://openenglishbible.org/blog/sword-module/</guid>
-      <description>Thanks to the fabulous work of Chris Little from Crosswire, we now have a Sword module for both the US and Commonwealth spelling. Thanks Chris!
-Sword is the premiere free and open source Bible study software, with versions for Windows, Mac and iPhone/iPad.</description>
+      <guid>http://localhost:1313/blog/sword-module/</guid>
+      <description>&lt;p&gt;Thanks to the fabulous work of Chris Little from &lt;a href=&#34;http://www.crosswire.org/index.jsp&#34;&gt;Crosswire&lt;/a&gt;, we now have a Sword module for both the &lt;a href=&#34;http://www.crosswire.org/sword/modules/ModInfo.jsp?modName=OEB&#34;&gt;US&lt;/a&gt; and &lt;a href=&#34;http://www.crosswire.org/sword/modules/ModInfo.jsp?modName=OEBcth&#34;&gt;Commonwealth&lt;/a&gt; spelling. Thanks Chris!&lt;/p&gt;&#xA;&lt;p&gt;Sword is the premiere free and open source Bible study software, with versions for &lt;a href=&#34;http://www.crosswire.org/applications.jsp?section=Windows&#34;&gt;Windows&lt;/a&gt;, &lt;a href=&#34;http://macsword.com/&#34;&gt;Mac&lt;/a&gt; and &lt;a href=&#34;http://crosswire.org/pocketsword/PocketSword/PocketSword/PocketSword.html&#34;&gt;iPhone/iPad&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Happy Christmas!</title>
-      <link>https://openenglishbible.org/blog/happy-christmas-11/</link>
+      <link>http://localhost:1313/blog/happy-christmas-11/</link>
       <pubDate>Sun, 25 Dec 2011 00:00:00 +0000</pubDate>
-      
-      <guid>https://openenglishbible.org/blog/happy-christmas-11/</guid>
-      <description>Happy Christmas to you all!
-And thanks for everyone’s support and help throughout the year. It is because of that help that we have moved to the absolutely free CC0 licence, have made many improvements to the New Testament, started on a translation of the Book of Psalms and have created modules for Bible study software such as TheWord.
-May your Christmas celebrations be full of joy and happiness!</description>
+      <guid>http://localhost:1313/blog/happy-christmas-11/</guid>
+      <description>&lt;p&gt;Happy Christmas to you all!&lt;/p&gt;&#xA;&lt;p&gt;And thanks for everyone’s support and help throughout the year. It is because of that help that we have moved to the absolutely free CC0 licence, have made many improvements to the New Testament, started on a translation of the Book of Psalms and have created modules for Bible study software such as TheWord.&lt;/p&gt;&#xA;&lt;p&gt;May your Christmas celebrations be full of joy and happiness!&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>OEB module for TheWord software!</title>
-      <link>https://openenglishbible.org/blog/oeb-module-theword/</link>
+      <link>http://localhost:1313/blog/oeb-module-theword/</link>
       <pubDate>Sun, 18 Dec 2011 00:00:00 +0000</pubDate>
-      
-      <guid>https://openenglishbible.org/blog/oeb-module-theword/</guid>
-      <description>TheWord software is a great Bible study program for Windows available without cost from www.theword.net with a number of translations, dictionaries and tools available both for free and commercially. The OEB is now available as a free module for TheWord - download it now for either US or Commonwealth spelling! Many thanks go to Martin for his hard word in the conversion and to Costas from TheWord for his help in making this available.</description>
+      <guid>http://localhost:1313/blog/oeb-module-theword/</guid>
+      <description>&lt;p&gt;TheWord software is a great Bible study program for Windows available without cost from &lt;a href=&#34;http://www.theword.net/&#34;&gt;www.theword.net&lt;/a&gt; with a number of translations, dictionaries and tools available both for free and commercially. The OEB is now available as a free module for TheWord - &lt;a href=&#34;http://www.theword.net/index.php?downloads.modules&amp;amp;l=english&#34;&gt;download it now&lt;/a&gt; for either US or Commonwealth spelling! Many thanks go to Martin for his hard word in the conversion and to Costas from TheWord for his help in making this available.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Psalms</title>
-      <link>https://openenglishbible.org/blog/psalms/</link>
+      <link>http://localhost:1313/blog/psalms/</link>
       <pubDate>Tue, 06 Dec 2011 00:00:00 +0000</pubDate>
-      
-      <guid>https://openenglishbible.org/blog/psalms/</guid>
-      <description>Work continues apace on improving the naturalness and accuracy of the OEB translation of the New Testament. As well, we are working on providing the OEB in more formats, including formats such as TheWord and Sword modules.
-However, it has always been the aim of the OEB project to move beyond the New Testament and a number of options have been investigated over the last year.
-This post is to announce that a preliminary translation of the Book of Psalms is available for download as a PDF.</description>
+      <guid>http://localhost:1313/blog/psalms/</guid>
+      <description>&lt;p&gt;Work continues apace on improving the naturalness and accuracy of the OEB translation of the New Testament. As well, we are working on providing the OEB in more formats, including formats such as TheWord and Sword modules.&lt;/p&gt;&#xA;&lt;p&gt;However, it has always been the aim of the OEB project to move beyond the New Testament and a number of options have been investigated over the last year.&lt;/p&gt;&#xA;&lt;p&gt;This post is to announce that a preliminary translation of &lt;a href=&#34;http://openenglishbible.org/oeb/current/OEB-Psalms-Current-Cth.pdf&#34;&gt;the Book of Psalms is available for download as a PDF&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Who is reading the OEB?</title>
-      <link>https://openenglishbible.org/blog/who-is-reading-oeb/</link>
+      <link>http://localhost:1313/blog/who-is-reading-oeb/</link>
       <pubDate>Mon, 01 Aug 2011 00:00:00 +0000</pubDate>
-      
-      <guid>https://openenglishbible.org/blog/who-is-reading-oeb/</guid>
-      <description>As a new and so far low-key endeavour, the Open English Bible is slowly attracting readers and helpers. Although we can’t tell exactly how the OEB is being used, the statistics from the openenglishbible.org site can give us a feel.
-In the last month, the website had 812 visits from 630 visitors, which were overwhelmingly new visitors.
-About 350 of them checked out the OEB on the online reader, there were 245 downloads of the pdf for offline reading.</description>
+      <guid>http://localhost:1313/blog/who-is-reading-oeb/</guid>
+      <description>&lt;p&gt;As a new and so far low-key endeavour, the Open English Bible is slowly attracting readers and helpers. Although we can’t tell exactly how the OEB is being used, the statistics from the &lt;a href=&#34;http://openenglishbible.org/&#34;&gt;openenglishbible.org site&lt;/a&gt; can give us a feel.&lt;/p&gt;&#xA;&lt;p&gt;In the last month, the website had 812 visits from 630 visitors, which were overwhelmingly new visitors.&lt;/p&gt;&#xA;&lt;p&gt;About 350 of them checked out the OEB on the online reader, there were 245 downloads of the pdf for offline reading.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Translating τῶν Ἰουδαίων in the Open English Bible</title>
-      <link>https://openenglishbible.org/blog/hoi-ioudaioi/</link>
+      <link>http://localhost:1313/blog/hoi-ioudaioi/</link>
       <pubDate>Wed, 29 Jun 2011 00:00:00 +0000</pubDate>
-      
-      <guid>https://openenglishbible.org/blog/hoi-ioudaioi/</guid>
-      <description>The translation of this term, which appears in the King James Version as &amp;rsquo;the Jews&amp;rsquo;, is difficult and sensitive. The mind of the modern reader is different to that of the initial readers of John&amp;rsquo;s Gospel and of Acts. We read in the context of our culture and our history, just as the early readers of the Gospel of John read in the light of theirs.
-In keeping with our commitment to be open and transparent in the translation choices we are making, I’ve written this post to explain how the OEB project deals with this challenge.</description>
+      <guid>http://localhost:1313/blog/hoi-ioudaioi/</guid>
+      <description>&lt;p&gt;The translation of this term, which appears in the King James Version as &amp;rsquo;the Jews&amp;rsquo;, is difficult and sensitive. The mind of the modern reader is different to that of the initial readers of John&amp;rsquo;s Gospel and of Acts. We read in the context of our culture and our history, just as the early readers of the Gospel of John read in the light of theirs.&lt;/p&gt;&#xA;&lt;p&gt;In keeping with our commitment to be open and transparent in the translation choices we are making, I’ve written this post to explain how the OEB project deals with this challenge.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>OEB now in both US and Commonwealth English</title>
-      <link>https://openenglishbible.org/blog/cth-and-us-english/</link>
+      <link>http://localhost:1313/blog/cth-and-us-english/</link>
       <pubDate>Sat, 11 Jun 2011 00:00:00 +0000</pubDate>
-      
-      <guid>https://openenglishbible.org/blog/cth-and-us-english/</guid>
-      <description>When the OEB started, it was based on the Twentieth Century New Testament, the translators of which were as English as, well, English people. The OEB started out, therefore, with Oxford Spelling.
-One of the changes that was made was to create a version of the OEB for readers who are used to the way words are commonly spelt in the United States, but we always had a plan to make both versions available.</description>
+      <guid>http://localhost:1313/blog/cth-and-us-english/</guid>
+      <description>&lt;p&gt;When the OEB started, it was based on the Twentieth Century New Testament, the translators of which were as English as, well, English people. The OEB started out, therefore, with &lt;a href=&#34;http://en.wikipedia.org/wiki/Oxford_spelling&#34;&gt;Oxford Spelling&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;One of the changes that was made was to create a version of the OEB for readers who are used to the way words are commonly spelt in the United States, but we always had a plan to make both versions available.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Interesting discussions on Bible copyright</title>
-      <link>https://openenglishbible.org/blog/interesting-discussion-bible-copyright/</link>
+      <link>http://localhost:1313/blog/interesting-discussion-bible-copyright/</link>
       <pubDate>Mon, 16 May 2011 00:00:00 +0000</pubDate>
-      
-      <guid>https://openenglishbible.org/blog/interesting-discussion-bible-copyright/</guid>
-      <description>Two interesting blog posts on copyright and the Bible have been put up, the first by David Ker of FutureBible: “Bible Copyrights Aren’t Evil”, and the second by Peter Kirk of Gentle Wisdom, “Love of Bible copyright is a root of all kinds of evil”.
-I encourage you to read them both. My viewpoint, as might be expected, is that we should renounce our copyrights in our translations as the OEB does.</description>
+      <guid>http://localhost:1313/blog/interesting-discussion-bible-copyright/</guid>
+      <description>&lt;p&gt;Two interesting blog posts on copyright and the Bible have been put up, the first by David Ker of FutureBible: “&lt;a href=&#34;http://futurebible.org/2011/bible-copyrights-are-not-evil/&#34;&gt;Bible Copyrights Aren’t Evil&lt;/a&gt;”, and the second by Peter Kirk of Gentle Wisdom, “&lt;a href=&#34;http://www.gentlewisdom.org.uk/3418/love-of-bible-copyright-is-a-root-of-all-kinds-of-evil/&#34;&gt;Love of Bible copyright is a root of all kinds of evil&lt;/a&gt;”.&lt;/p&gt;&#xA;&lt;p&gt;I encourage you to read them both. My viewpoint, as might be expected, is that we should renounce our copyrights in our translations as the OEB does. As I wrote on David’s site:&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Happy Birthday to us!</title>
-      <link>https://openenglishbible.org/blog/happy-birthday-11/</link>
+      <link>http://localhost:1313/blog/happy-birthday-11/</link>
       <pubDate>Sat, 26 Mar 2011 00:00:00 +0000</pubDate>
-      
-      <guid>https://openenglishbible.org/blog/happy-birthday-11/</guid>
-      <description>The OEB project was started one year ago when we bought our domain names and started on the work of turning the public domain Twentieth Century New Testament into a CC0 licenced modern, clear and expressive English translation.
-So happy birthday to us! And many thanks to all of the great people who have helped us on the way, whether by contributing on the Github issues page, emailing suggestions, or just expressing support for what we’re trying to achieve.</description>
+      <guid>http://localhost:1313/blog/happy-birthday-11/</guid>
+      <description>&lt;p&gt;The OEB project was started one year ago when we bought our domain names and started on the work of turning the public domain Twentieth Century New Testament into a CC0 licenced modern, clear and expressive English translation.&lt;/p&gt;&#xA;&lt;p&gt;So happy birthday to us! And many thanks to all of the great people who have helped us on the way, whether by contributing on the Github issues page, emailing suggestions, or just expressing support for what we’re trying to achieve.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Main OEB now uses US spelling</title>
-      <link>https://openenglishbible.org/blog/main-oeb-us-spelling/</link>
+      <link>http://localhost:1313/blog/main-oeb-us-spelling/</link>
       <pubDate>Sun, 13 Mar 2011 00:00:00 +0000</pubDate>
-      
-      <guid>https://openenglishbible.org/blog/main-oeb-us-spelling/</guid>
-      <description>The base on which the OEB is built, the groundbreaking ‘20th Century New Testament’, was the labour of love of a number of English translators at the turn of the century. As as result, the OEB up until now has used Oxford spelling - words such as realise, Saviour and, well, labour abounded.
-Given the position of the US as the largest English speaking community (at least as a first language), it has long been our intent to have the OEB primarily in US spelling, with a Commonwealth spelling version also available.</description>
+      <guid>http://localhost:1313/blog/main-oeb-us-spelling/</guid>
+      <description>&lt;p&gt;The base on which the OEB is built, the groundbreaking ‘20th Century New Testament’, was the labour of love of a number of English translators at the turn of the century. As as result, the OEB up until now has used Oxford spelling - words such as realise, Saviour and, well, labour abounded.&lt;/p&gt;&#xA;&lt;p&gt;Given the position of the US as the largest English speaking community (at least as a first language), it has long been our intent to have the OEB primarily in US spelling, with a Commonwealth spelling version also available.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Issues in translation: Matt 6:22-23</title>
-      <link>https://openenglishbible.org/blog/matt-622/</link>
+      <link>http://localhost:1313/blog/matt-622/</link>
       <pubDate>Sat, 12 Mar 2011 00:00:00 +0000</pubDate>
-      
-      <guid>https://openenglishbible.org/blog/matt-622/</guid>
-      <description>In the current draft of the OEB, Matthew 6:22-23 reads:
-The lamp of the body is the eye. If your eye is unclouded, your whole body will be lit up; but, if your eye is diseased, your whole body will be darkened. And, if the inner light is darkness, how intense must that darkness be!
-This is not a bad translation. The eternal question is whether we can do better.</description>
+      <guid>http://localhost:1313/blog/matt-622/</guid>
+      <description>&lt;p&gt;In the current draft of the OEB, Matthew 6:22-23 reads:&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;The lamp of the body is the eye. If your eye is unclouded, your whole body will be lit up; but, if your eye is diseased, your whole body will be darkened. And, if the inner light is darkness, how intense must that darkness be!&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;This is not a bad translation. The eternal question is whether we can do better.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>The OEB moves to CC0</title>
-      <link>https://openenglishbible.org/blog/move-to-cc0/</link>
+      <link>http://localhost:1313/blog/move-to-cc0/</link>
       <pubDate>Mon, 07 Feb 2011 09:20:48 +1100</pubDate>
-      
-      <guid>https://openenglishbible.org/blog/move-to-cc0/</guid>
-      <description>Since the Open English Bible was started as a project, it has been released under the Creative Commons Attribution Licence - CC-BY.
-The aim of the OEB has always been, as much as possible, to remove questions of law from the translation and publication of the Bible. At the time we started, the CC-BY licence was the freest choice. It allowed complete reuse, including (most importantly), the right to take the OEB and create your own translation embodying your own translation choices.</description>
+      <guid>http://localhost:1313/blog/move-to-cc0/</guid>
+      <description>&lt;p&gt;Since the Open English Bible was started as a project, it has been released under the Creative Commons Attribution Licence - &lt;a href=&#34;http://creativecommons.org/licenses/by/3.0/&#34;&gt;CC-BY&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;The aim of the OEB has always been, as much as possible, to remove questions of law from the translation and publication of the Bible. At the time we started, the CC-BY licence was the freest choice. It allowed complete reuse, including (most importantly), the right to take the OEB and create your own translation embodying your own translation choices.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Our Facebook page</title>
-      <link>https://openenglishbible.org/blog/our-facebook-page/</link>
+      <link>http://localhost:1313/blog/our-facebook-page/</link>
       <pubDate>Mon, 07 Feb 2011 08:20:48 +1100</pubDate>
-      
-      <guid>https://openenglishbible.org/blog/our-facebook-page/</guid>
-      <description>We now have a Facebook page - Open English Bible on Facebook.
-Check it out to keep track of our releases and progress, to start conversations, and to be part of the open content revolution&amp;hellip;</description>
+      <guid>http://localhost:1313/blog/our-facebook-page/</guid>
+      <description>&lt;p&gt;We now have a Facebook page - &lt;a href=&#34;http://www.facebook.com/#!/pages/Open-English-Bible/191330814219131&#34;&gt;Open English Bible on Facebook&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Check it out to keep track of our releases and progress, to start conversations, and to be part of the open content revolution&amp;hellip;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Keeping track</title>
-      <link>https://openenglishbible.org/blog/keeping-track/</link>
+      <link>http://localhost:1313/blog/keeping-track/</link>
       <pubDate>Sun, 30 Jan 2011 00:00:00 +0000</pubDate>
-      
-      <guid>https://openenglishbible.org/blog/keeping-track/</guid>
-      <description>New working drafts of the OEB are continually being added to this site. In this stage of the OEB’s life, we aren’t widely promoting the OEB outside of this site, so here is the place to come to find what’s new.
-The good news is that keeping track of the changes between working draft versions is easy. There are two main pages to keep an eye on.
-The first is the list of closed issues on Github.</description>
+      <guid>http://localhost:1313/blog/keeping-track/</guid>
+      <description>&lt;p&gt;New working drafts of the OEB are continually being added to this site. In this stage of the OEB’s life, we aren’t widely promoting the OEB outside of this site, so here is the place to come to find what’s new.&lt;/p&gt;&#xA;&lt;p&gt;The good news is that keeping track of the changes between working draft versions is easy. There are two main pages to keep an eye on.&lt;/p&gt;&#xA;&lt;p&gt;The first is the &lt;a href=&#34;https://github.com/openenglishbible/Open-English-Bible/issues/closed&#34;&gt;list of closed issues on Github&lt;/a&gt;. This is a list of changes which have been recommended (why not recommend one yourself?) and implemented.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>How to help</title>
-      <link>https://openenglishbible.org/blog/how-to-help/</link>
+      <link>http://localhost:1313/blog/how-to-help/</link>
       <pubDate>Tue, 18 Jan 2011 00:00:00 +0000</pubDate>
-      
-      <guid>https://openenglishbible.org/blog/how-to-help/</guid>
-      <description>It is always gratifying when people contact us and offer to help out with the OEB. Especially at this stage, proofreading is invaluable and we’d love all the help we can get - it is too easy to get lost in the text and overlook thing which are glaringly obvious to a new reader.
-The question is always, though, how do I help?
-To give this question a more structured answer, we’ve added a new page on the GitHub wiki.</description>
+      <guid>http://localhost:1313/blog/how-to-help/</guid>
+      <description>&lt;p&gt;It is always gratifying when people contact us and offer to help out with the OEB. Especially at this stage, proofreading is invaluable and we’d love all the help we can get - it is too easy to get lost in the text and overlook thing which are glaringly obvious to a new reader.&lt;/p&gt;&#xA;&lt;p&gt;The question is always, though, how do I help?&lt;/p&gt;&#xA;&lt;p&gt;To give this question a more structured answer, we’ve added a new page on the GitHub wiki. The &lt;a href=&#34;https://github.com/openenglishbible/Open-English-Bible/wiki/How-to-Help&#34;&gt;How to Help page&lt;/a&gt; sets out briefly the current workflow for the OEB, and introduces Github’s Issues mechanism.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Rapid progress!</title>
-      <link>https://openenglishbible.org/blog/rapid-progress/</link>
+      <link>http://localhost:1313/blog/rapid-progress/</link>
       <pubDate>Thu, 13 Jan 2011 00:00:00 +0000</pubDate>
-      
-      <guid>https://openenglishbible.org/blog/rapid-progress/</guid>
-      <description>After a slow start to the project, we are now cooking with gas.
-A full first pass of the New Testament has been made. This includes formatting, and updating capitalisation and hyphenation; but also includes removing the TCNT’s residual Elizabethan English and modernising the use of grammatical gender in line with current mainstream translations such as the REB and the newly revised NIV.
-There are still no doubt typographical errors, and proofreading is required - I’d love any such mistakes pointed out to me so they can be fixed!</description>
+      <guid>http://localhost:1313/blog/rapid-progress/</guid>
+      <description>&lt;p&gt;After a slow start to the project, we are now cooking with gas.&lt;/p&gt;&#xA;&lt;p&gt;A full first pass of the New Testament has been made. This includes formatting, and updating capitalisation and hyphenation; but also includes removing the TCNT’s residual Elizabethan English and modernising the use of grammatical gender in line with current mainstream translations such as the REB and the newly revised NIV.&lt;/p&gt;&#xA;&lt;p&gt;There are still no doubt typographical errors, and proofreading is required - I’d love any such mistakes pointed out to me so they can be fixed! Email me at my address at the bottom of the page.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Welcome to 2011</title>
-      <link>https://openenglishbible.org/blog/welcome-to-2011/</link>
+      <link>http://localhost:1313/blog/welcome-to-2011/</link>
       <pubDate>Mon, 03 Jan 2011 00:00:00 +0000</pubDate>
-      
-      <guid>https://openenglishbible.org/blog/welcome-to-2011/</guid>
-      <description>Welcome to 2011! I hope you had a great Christmas.
-Work on the OEB continues apace. The first pass of updating gender related language now covers all four Gospels, Acts and Romans with more to come.
-As well, our GitHub account continues to be updated. We’ve split our rendering code into a separate repo called “USFM-Tools” with the aim that other projects will be able take advantage of it.
-Check out the latest build from one of the links in the sidebar!</description>
+      <guid>http://localhost:1313/blog/welcome-to-2011/</guid>
+      <description>&lt;p&gt;Welcome to 2011! I hope you had a great Christmas.&lt;/p&gt;&#xA;&lt;p&gt;Work on the OEB continues apace. The first pass of updating gender related language now covers all four Gospels, Acts and Romans with more to come.&lt;/p&gt;&#xA;&lt;p&gt;As well, our GitHub account continues to be updated. We’ve split our rendering code into a separate repo called “USFM-Tools” with the aim that other projects will be able take advantage of it.&lt;/p&gt;&#xA;&lt;p&gt;Check out the latest build from one of the links in the sidebar!&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>The Power of Plain Text</title>
-      <link>https://openenglishbible.org/blog/power-of-plain-text/</link>
+      <link>http://localhost:1313/blog/power-of-plain-text/</link>
       <pubDate>Fri, 17 Sep 2010 00:00:00 +0000</pubDate>
-      
-      <guid>https://openenglishbible.org/blog/power-of-plain-text/</guid>
-      <description>The easiest way to start looking at the text of the Open English Bible is with a copy in plain text (actually between you and me its valid Markdown). This also is a simple way to submit suggested changes - send me a copy of the plain text you downloaded and also a copy of your amended version. Email address is at the bottom of the page.</description>
+      <guid>http://localhost:1313/blog/power-of-plain-text/</guid>
+      <description>&lt;p&gt;The easiest way to start looking at the text of the Open English Bible is with &lt;a href=&#34;http://openenglishbible.org/blog/files/read/OEB-NT-Current.txt&#34;&gt;a copy in plain text&lt;/a&gt; (actually between you and me its valid Markdown). This also is a simple way to submit suggested changes - send me a copy of the plain text you downloaded and also a copy of your amended version. Email address is at the bottom of the page.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Spelling, punctuation and gender</title>
-      <link>https://openenglishbible.org/blog/spelling-punctuation-gender/</link>
+      <link>http://localhost:1313/blog/spelling-punctuation-gender/</link>
       <pubDate>Fri, 03 Sep 2010 00:00:00 +0000</pubDate>
-      
-      <guid>https://openenglishbible.org/blog/spelling-punctuation-gender/</guid>
-      <description>We’re moving on - quality is improving as we tackle spelling and punctuation issues. Betrothal has been replaced with engagement and we bid farewell to our only usage of ‘beseech’. I beseech you: think kindly of the word as it slips into a well-earned retirement.
-As well a first pass of updating gender-related language in John has been made - this means that the overly gendered language of the Edwardian era TCNT has been updated in all four gospels.</description>
+      <guid>http://localhost:1313/blog/spelling-punctuation-gender/</guid>
+      <description>&lt;p&gt;We’re moving on - quality is improving as we tackle spelling and punctuation issues. Betrothal has been replaced with engagement and we bid farewell to our only usage of ‘beseech’. I beseech you: think kindly of the word as it slips into a well-earned retirement.&lt;/p&gt;&#xA;&lt;p&gt;As well a first pass of updating gender-related language in John has been made - this means that the overly gendered language of the Edwardian era TCNT has been updated in all four gospels.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Updating hyphenation</title>
-      <link>https://openenglishbible.org/blog/updating-hyphenation/</link>
+      <link>http://localhost:1313/blog/updating-hyphenation/</link>
       <pubDate>Sun, 29 Aug 2010 00:00:00 +0000</pubDate>
-      
-      <guid>https://openenglishbible.org/blog/updating-hyphenation/</guid>
-      <description>Since the Edwardian period, hyphenation and capitalisation standards have changed. This new working version continues to improve the OEB by updating many of these nagging issues. Check it out!
-As usual, this working release can be read online, with a simple html version also available or can be downloaded as a PDF file.</description>
+      <guid>http://localhost:1313/blog/updating-hyphenation/</guid>
+      <description>&lt;p&gt;Since the Edwardian period, hyphenation and capitalisation standards have changed. This new working version continues to improve the OEB by updating many of these nagging issues. Check it out!&lt;/p&gt;&#xA;&lt;p&gt;As usual, this working release can be &lt;a href=&#34;http://openenglishbible.org/read/&#34;&gt;read online&lt;/a&gt;, with a simple html version &lt;a href=&#34;http://openenglishbible.org/read/simple/&#34;&gt;also available&lt;/a&gt; or can be downloaded as a &lt;a href=&#34;http://github.com/downloads/openenglishbible/Open-English-Bible/OEB-NT-Working-3.pdf&#34;&gt;PDF file&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Another working release</title>
-      <link>https://openenglishbible.org/blog/another-working-update-10/</link>
+      <link>http://localhost:1313/blog/another-working-update-10/</link>
       <pubDate>Sat, 14 Aug 2010 08:31:16 +1100</pubDate>
-      
-      <guid>https://openenglishbible.org/blog/another-working-update-10/</guid>
-      <description>In the spirit of ‘release early, release often’, we’ve released a new working copy. The residual Elizabethan pronouns have been removed throughout the entire NT, and gradual improvements in language continue to be made. Check it out!</description>
+      <guid>http://localhost:1313/blog/another-working-update-10/</guid>
+      <description>&lt;p&gt;In the spirit of ‘release early, release often’, we’ve released a new working copy. The residual Elizabethan pronouns have been removed throughout the entire NT, and gradual improvements in language continue to be made. Check it out!&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Initial working release of NT</title>
-      <link>https://openenglishbible.org/blog/initial-working-release-nt/</link>
+      <link>http://localhost:1313/blog/initial-working-release-nt/</link>
       <pubDate>Sat, 07 Aug 2010 08:12:17 +1100</pubDate>
-      
-      <guid>https://openenglishbible.org/blog/initial-working-release-nt/</guid>
-      <description>So that people can see progress, we’ve released a working release of the “Open English Bible”.
-It comprises the base Twentieth Century New Testament text with formatting applied but with only very minimal textual changes.
-Accordingly it covers the New Testament only, with a mostly modern language and sentence structure. However, there are a number of areas in which translation choices dating from the early twentieth century would give a misleading impression to modern readers:</description>
+      <guid>http://localhost:1313/blog/initial-working-release-nt/</guid>
+      <description>&lt;p&gt;So that people can see progress, we’ve released a working release of the “Open English Bible”.&lt;/p&gt;&#xA;&lt;p&gt;It comprises the base Twentieth Century New Testament text with formatting applied but with only very minimal textual changes.&lt;/p&gt;&#xA;&lt;p&gt;Accordingly it covers the New Testament only, with a mostly modern language and sentence structure. However, there are a number of areas in which translation choices dating from the early twentieth century would give a misleading impression to modern readers:&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>August Update</title>
-      <link>https://openenglishbible.org/blog/august-update-10/</link>
+      <link>http://localhost:1313/blog/august-update-10/</link>
       <pubDate>Sun, 01 Aug 2010 08:20:48 +1100</pubDate>
-      
-      <guid>https://openenglishbible.org/blog/august-update-10/</guid>
-      <description>Work continues at the Github repository. An increasing amount of infrastructure is taking shape, with the priority now being to get the underlying source of the Twentieth Century New Testament in suitable shape to build the entire NT. The aim is that by the start of September, there will be a fully built TCNT to look at with initial updates applied to all the books.</description>
+      <guid>http://localhost:1313/blog/august-update-10/</guid>
+      <description>&lt;p&gt;Work continues at the Github repository. An increasing amount of infrastructure is taking shape, with the priority now being to get the underlying source of the Twentieth Century New Testament in suitable shape to build the entire NT.&#xA;The aim is that by the start of September, there will be a fully built TCNT to look at with initial updates applied to all the books.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Welcome to the Open English Bible</title>
-      <link>https://openenglishbible.org/blog/welcome/</link>
+      <link>http://localhost:1313/blog/welcome/</link>
       <pubDate>Mon, 22 Mar 2010 23:18:26 +1100</pubDate>
-      
-      <guid>https://openenglishbible.org/blog/welcome/</guid>
-      <description>The Open English Bible is the anticipated end product of a project intended to create an English translation of the Bible that is:
-under a licence enabling the maximum reuse, remixing and sharing without requiring the payment of royalties or the obtaining of permission from copyright holders; and a translation reflecting modern English usage and Biblical scholarshipThe OEB is being formed by editing the public domain Twentieth Century New Testament, which was a new translation of the New Testament published in the early twentieth century, based on the Greek text of Westcott and Hort.</description>
+      <guid>http://localhost:1313/blog/welcome/</guid>
+      <description>&lt;p&gt;The Open English Bible is the anticipated end product of a project intended to create an English translation of the Bible that is:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;under a licence enabling the maximum reuse, remixing and sharing without requiring the payment of royalties or the obtaining of permission from copyright holders; and&lt;/li&gt;&#xA;&lt;li&gt;a translation reflecting modern English usage and Biblical scholarshipThe OEB is being formed by editing the public domain Twentieth Century New Testament, which was a new translation of the New Testament published in the early twentieth century, based on the Greek text of Westcott and Hort. As such, the OEB as a translation does not stand within the Tyndale tradition but has a separate tradition in a similar manner to the NIV and New English Bible.Currently available is a preview of the Gospel of Mark.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;We are actively seeking collaboration and corrections.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
